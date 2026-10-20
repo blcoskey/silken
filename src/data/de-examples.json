@@ -1,0 +1,8388 @@
+{
+ "de-arbeit": {
+  "richtig": [
+   [
+    "Ist die Antwort *richtig*?",
+    "Is the answer correct?"
+   ],
+   [
+    "Das ist der *richtige* Weg zum Büro.",
+    "This is the right way to the office."
+   ]
+  ],
+  "Arbeit": [
+   [
+    "Die *Arbeit* beginnt um acht Uhr.",
+    "Work starts at eight o'clock."
+   ],
+   [
+    "Ich fahre mit dem Bus zur *Arbeit*.",
+    "I take the bus to work."
+   ]
+  ],
+  "Frage": [
+   [
+    "Ich habe eine *Frage*.",
+    "I have a question."
+   ],
+   [
+    "Der Lehrer beantwortet alle *Fragen*.",
+    "The teacher answers all the questions."
+   ]
+  ],
+  "Seite": [
+   [
+    "Öffnet das Buch auf *Seite* zehn.",
+    "Open the book to page ten."
+   ],
+   [
+    "Der Text hat nur zwei *Seiten*.",
+    "The text is only two pages long."
+   ]
+  ],
+  "fragen": [
+   [
+    "Darf ich dich etwas *fragen*?",
+    "Can I ask you something?"
+   ],
+   [
+    "Ich habe meine Chefin *gefragt*.",
+    "I asked my boss."
+   ]
+  ],
+  "arbeiten": [
+   [
+    "Meine Schwester *arbeitet* in einer Bank.",
+    "My sister works in a bank."
+   ],
+   [
+    "Wir haben heute zehn Stunden *gearbeitet*.",
+    "We worked ten hours today."
+   ]
+  ],
+  "schwer": [
+   [
+    "Die Prüfung war sehr *schwer*.",
+    "The exam was very difficult."
+   ],
+   [
+    "Das ist eine *schwere* Tasche.",
+    "That is a heavy bag."
+   ]
+  ],
+  "schreiben": [
+   [
+    "Ich *schreibe* eine E-Mail an meinen Chef.",
+    "I'm writing an email to my boss."
+   ],
+   [
+    "Hast du die Hausaufgabe schon *geschrieben*?",
+    "Have you already written your homework?"
+   ]
+  ],
+  "leicht": [
+   [
+    "Die Übung ist ganz *leicht*.",
+    "The exercise is really easy."
+   ],
+   [
+    "Das war ein *leichter* Test.",
+    "That was an easy test."
+   ]
+  ],
+  "Stelle": [
+   [
+    "Ich suche eine neue *Stelle*.",
+    "I'm looking for a new job."
+   ],
+   [
+    "Die Firma hat drei freie *Stellen*.",
+    "The company has three open positions."
+   ]
+  ],
+  "Wort": [
+   [
+    "Ich verstehe das *Wort* nicht.",
+    "I don't understand the word."
+   ],
+   [
+    "Wir lernen jeden Tag zehn neue *Wörter*.",
+    "We learn ten new words every day."
+   ]
+  ],
+  "verstehen": [
+   [
+    "*Verstehen* Sie mich?",
+    "Do you understand me?"
+   ],
+   [
+    "Ich habe die Frage nicht *verstanden*.",
+    "I didn't understand the question."
+   ]
+  ],
+  "lernen": [
+   [
+    "Ich *lerne* seit einem Jahr Deutsch.",
+    "I've been learning German for a year."
+   ],
+   [
+    "Was habt ihr heute im Kurs *gelernt*?",
+    "What did you learn in class today?"
+   ]
+  ],
+  "Job": [
+   [
+    "Mein *Job* macht mir Spaß.",
+    "I enjoy my job."
+   ],
+   [
+    "Er hat einen neuen *Job* in Berlin.",
+    "He has a new job in Berlin."
+   ]
+  ],
+  "Fehler": [
+   [
+    "Das ist kein großer *Fehler*.",
+    "That's not a big mistake."
+   ],
+   [
+    "Der Text hat leider viele *Fehler*.",
+    "Unfortunately, the text has a lot of mistakes."
+   ]
+  ],
+  "Antwort": [
+   [
+    "Die *Antwort* ist falsch.",
+    "The answer is wrong."
+   ],
+   [
+    "Ich warte noch auf eine *Antwort* von der Firma.",
+    "I'm still waiting for an answer from the company."
+   ]
+  ],
+  "fertig": [
+   [
+    "Bist du *fertig*?",
+    "Are you finished?"
+   ],
+   [
+    "Ich bin mit der Arbeit noch nicht *fertig*.",
+    "I'm not done with the work yet."
+   ]
+  ],
+  "falsch": [
+   [
+    "Das ist leider *falsch*.",
+    "Unfortunately, that's wrong."
+   ],
+   [
+    "Du hast die *falsche* Nummer.",
+    "You have the wrong number."
+   ]
+  ],
+  "Firma": [
+   [
+    "Die *Firma* ist in München.",
+    "The company is in Munich."
+   ],
+   [
+    "Er arbeitet für eine große *Firma*.",
+    "He works for a big company."
+   ]
+  ],
+  "Text": [
+   [
+    "Lies bitte den *Text* auf Seite fünf.",
+    "Please read the text on page five."
+   ],
+   [
+    "Wir schreiben heute zwei kurze *Texte*.",
+    "Today we're writing two short texts."
+   ]
+  ],
+  "erklären": [
+   [
+    "Kannst du mir das bitte *erklären*?",
+    "Can you explain that to me, please?"
+   ],
+   [
+    "Die Lehrerin hat die Übung gut *erklärt*.",
+    "The teacher explained the exercise well."
+   ]
+  ],
+  "Satz": [
+   [
+    "Der *Satz* ist zu lang.",
+    "The sentence is too long."
+   ],
+   [
+    "Schreib bitte drei *Sätze* über deine Arbeit.",
+    "Please write three sentences about your work."
+   ]
+  ],
+  "Chef": [
+   [
+    "Mein *Chef* ist sehr nett.",
+    "My boss is very nice."
+   ],
+   [
+    "Ich spreche morgen mit dem *Chef*.",
+    "I'll talk to the boss tomorrow."
+   ]
+  ],
+  "Lehrer": [
+   [
+    "Unser *Lehrer* kommt aus Hamburg.",
+    "Our teacher is from Hamburg."
+   ],
+   [
+    "Die *Lehrer* haben heute eine Besprechung.",
+    "The teachers have a meeting today."
+   ]
+  ],
+  "Universität": [
+   [
+    "Die *Universität* ist im Zentrum.",
+    "The university is in the city centre."
+   ],
+   [
+    "Meine Tochter studiert an der *Universität* Wien.",
+    "My daughter studies at the University of Vienna."
+   ]
+  ],
+  "antworten": [
+   [
+    "Bitte *antworten* Sie auf Deutsch.",
+    "Please answer in German."
+   ],
+   [
+    "Er hat noch nicht *geantwortet*.",
+    "He hasn't answered yet."
+   ]
+  ],
+  "Test": [
+   [
+    "Der *Test* ist am Freitag.",
+    "The test is on Friday."
+   ],
+   [
+    "Wir schreiben jede Woche zwei *Tests*.",
+    "We write two tests every week."
+   ]
+  ],
+  "Büro": [
+   [
+    "Das *Büro* ist im dritten Stock.",
+    "The office is on the third floor."
+   ],
+   [
+    "Ich bin bis fünf Uhr im *Büro*.",
+    "I'm in the office until five."
+   ]
+  ],
+  "verdienen": [
+   [
+    "Wie viel *verdienst* du im Monat?",
+    "How much do you earn a month?"
+   ],
+   [
+    "Sie hat im Praktikum wenig Geld *verdient*.",
+    "She earned little money during the internship."
+   ]
+  ],
+  "anfangen": [
+   [
+    "Der Kurs *fängt* um neun Uhr *an*.",
+    "The course starts at nine o'clock."
+   ],
+   [
+    "Wann hast du mit der Arbeit *angefangen*?",
+    "When did you start work?"
+   ]
+  ],
+  "Kurs": [
+   [
+    "Der *Kurs* dauert drei Monate.",
+    "The course lasts three months."
+   ],
+   [
+    "Ich gehe zweimal pro Woche in den *Kurs*.",
+    "I go to the course twice a week."
+   ]
+  ],
+  "Pause": [
+   [
+    "Wir machen jetzt eine *Pause*.",
+    "Let's take a break now."
+   ],
+   [
+    "Die *Pause* dauert zwanzig Minuten.",
+    "The break lasts twenty minutes."
+   ]
+  ],
+  "Prüfung": [
+   [
+    "Die *Prüfung* ist nächste Woche.",
+    "The exam is next week."
+   ],
+   [
+    "Ich habe die *Prüfung* bestanden!",
+    "I passed the exam!"
+   ]
+  ],
+  "Papier": [
+   [
+    "Hast du ein Blatt *Papier* für mich?",
+    "Do you have a sheet of paper for me?"
+   ],
+   [
+    "Der Drucker hat kein *Papier* mehr.",
+    "The printer is out of paper."
+   ]
+  ],
+  "aufhören": [
+   [
+    "Ich *höre* um fünf Uhr mit der Arbeit *auf*.",
+    "I stop work at five o'clock."
+   ],
+   [
+    "Es hat endlich *aufgehört* zu regnen.",
+    "It has finally stopped raining."
+   ]
+  ],
+  "Koch": [
+   [
+    "Mein Bruder ist *Koch* in einem Hotel.",
+    "My brother is a cook in a hotel."
+   ],
+   [
+    "Das Restaurant sucht zwei *Köche*.",
+    "The restaurant is looking for two cooks."
+   ]
+  ],
+  "Kunde": [
+   [
+    "Der *Kunde* wartet schon.",
+    "The customer is already waiting."
+   ],
+   [
+    "Heute haben wir viele *Kunden* im Geschäft.",
+    "We have lots of customers in the shop today."
+   ]
+  ],
+  "Gehalt": [
+   [
+    "Das *Gehalt* kommt am Ende des Monats.",
+    "The salary comes at the end of the month."
+   ],
+   [
+    "Sie bekommt ein gutes *Gehalt*.",
+    "She gets a good salary."
+   ]
+  ],
+  "Kollege": [
+   [
+    "Mein *Kollege* hilft mir oft.",
+    "My colleague often helps me."
+   ],
+   [
+    "Ich gehe mit den *Kollegen* essen.",
+    "I'm going for lunch with my colleagues."
+   ]
+  ],
+  "Lohn": [
+   [
+    "Der *Lohn* ist leider nicht hoch.",
+    "Unfortunately, the wage isn't high."
+   ],
+   [
+    "Wir bekommen den *Lohn* jede Woche.",
+    "We get our wages every week."
+   ]
+  ],
+  "wiederholen": [
+   [
+    "Können Sie das bitte *wiederholen*?",
+    "Could you repeat that, please?"
+   ],
+   [
+    "Ich *wiederhole* die Wörter jeden Abend.",
+    "I go over the words every evening."
+   ]
+  ],
+  "Lehrerin": [
+   [
+    "Die *Lehrerin* erklärt die Übung.",
+    "The teacher explains the exercise."
+   ],
+   [
+    "Meine Mutter ist *Lehrerin* von Beruf.",
+    "My mother is a teacher by profession."
+   ]
+  ],
+  "studieren": [
+   [
+    "Ich *studiere* Medizin in Berlin.",
+    "I study medicine in Berlin."
+   ],
+   [
+    "Er hat in England *studiert*.",
+    "He studied in England."
+   ]
+  ],
+  "Übung": [
+   [
+    "Die *Übung* ist auf Seite zwölf.",
+    "The exercise is on page twelve."
+   ],
+   [
+    "Macht bitte die *Übungen* zu Hause.",
+    "Please do the exercises at home."
+   ]
+  ],
+  "Arbeitsplatz": [
+   [
+    "Mein *Arbeitsplatz* ist am Fenster.",
+    "My workstation is by the window."
+   ],
+   [
+    "Die Firma hat fünfzig *Arbeitsplätze*.",
+    "The company has fifty jobs."
+   ]
+  ],
+  "Verkäufer": [
+   [
+    "Der *Verkäufer* ist sehr freundlich.",
+    "The salesperson is very friendly."
+   ],
+   [
+    "Ich frage den *Verkäufer* nach dem Preis.",
+    "I ask the salesperson about the price."
+   ]
+  ],
+  "Student": [
+   [
+    "Ich bin *Student* in Köln.",
+    "I'm a student in Cologne."
+   ],
+   [
+    "Im Kurs sind zwanzig *Studenten*.",
+    "There are twenty students in the course."
+   ]
+  ],
+  "Bewerbung": [
+   [
+    "Ich schreibe eine *Bewerbung*.",
+    "I'm writing a job application."
+   ],
+   [
+    "Die Firma hat viele *Bewerbungen* bekommen.",
+    "The company received a lot of applications."
+   ]
+  ],
+  "Ingenieur": [
+   [
+    "Mein Vater ist *Ingenieur*.",
+    "My father is an engineer."
+   ],
+   [
+    "Die Firma sucht zwei *Ingenieure*.",
+    "The company is looking for two engineers."
+   ]
+  ],
+  "Praktikum": [
+   [
+    "Ich mache ein *Praktikum* bei einer Bank.",
+    "I'm doing an internship at a bank."
+   ],
+   [
+    "Das *Praktikum* dauert drei Monate.",
+    "The internship lasts three months."
+   ]
+  ],
+  "Kollegin": [
+   [
+    "Meine *Kollegin* kommt aus Spanien.",
+    "My colleague is from Spain."
+   ],
+   [
+    "Ich trinke mit einer *Kollegin* Kaffee.",
+    "I'm having coffee with a colleague."
+   ]
+  ],
+  "Chefin": [
+   [
+    "Die *Chefin* ist heute nicht im Büro.",
+    "The boss isn't in the office today."
+   ],
+   [
+    "Ich habe mit meiner *Chefin* gesprochen.",
+    "I spoke with my boss."
+   ]
+  ],
+  "Drucker": [
+   [
+    "Der *Drucker* funktioniert nicht.",
+    "The printer isn't working."
+   ],
+   [
+    "Im Büro haben wir zwei *Drucker*.",
+    "We have two printers in the office."
+   ]
+  ],
+  "Feierabend": [
+   [
+    "Endlich *Feierabend*!",
+    "Finally, the end of the working day!"
+   ],
+   [
+    "Um fünf Uhr mache ich *Feierabend*.",
+    "I finish work at five o'clock."
+   ]
+  ],
+  "Wörterbuch": [
+   [
+    "Ich brauche ein *Wörterbuch*.",
+    "I need a dictionary."
+   ],
+   [
+    "Das Wort steht nicht im *Wörterbuch*.",
+    "The word isn't in the dictionary."
+   ]
+  ],
+  "arbeitslos": [
+   [
+    "Mein Nachbar ist seit Mai *arbeitslos*.",
+    "My neighbour has been unemployed since May."
+   ],
+   [
+    "Viele *arbeitslose* Menschen suchen eine Stelle.",
+    "Many unemployed people are looking for a job."
+   ]
+  ],
+  "Besprechung": [
+   [
+    "Die *Besprechung* beginnt um zehn Uhr.",
+    "The meeting starts at ten o'clock."
+   ],
+   [
+    "Der Chef hat heute drei *Besprechungen*.",
+    "The boss has three meetings today."
+   ]
+  ],
+  "Bleistift": [
+   [
+    "Hast du einen *Bleistift* für mich?",
+    "Do you have a pencil for me?"
+   ],
+   [
+    "Schreibt bitte mit dem *Bleistift*.",
+    "Please write in pencil."
+   ]
+  ],
+  "Mechaniker": [
+   [
+    "Der *Mechaniker* repariert mein Auto.",
+    "The mechanic is repairing my car."
+   ],
+   [
+    "Mein Sohn möchte *Mechaniker* werden.",
+    "My son wants to become a mechanic."
+   ]
+  ],
+  "Kugelschreiber": [
+   [
+    "Kann ich deinen *Kugelschreiber* haben?",
+    "Can I have your pen?"
+   ],
+   [
+    "Der *Kugelschreiber* schreibt nicht mehr.",
+    "The pen doesn't write any more."
+   ]
+  ],
+  "Sprachkurs": [
+   [
+    "Ich mache einen *Sprachkurs* in Berlin.",
+    "I'm doing a language course in Berlin."
+   ],
+   [
+    "Der *Sprachkurs* ist am Abend.",
+    "The language course is in the evening."
+   ]
+  ],
+  "Hausaufgabe": [
+   [
+    "Die *Hausaufgabe* ist nicht schwer.",
+    "The homework isn't difficult."
+   ],
+   [
+    "Hast du deine *Hausaufgaben* gemacht?",
+    "Have you done your homework?"
+   ]
+  ]
+ },
+ "de-dienste": {
+  "Polizei": [
+   [
+    "Ruf bitte sofort die *Polizei*!",
+    "Please call the police right away!"
+   ],
+   [
+    "Die *Polizei* ist schon da.",
+    "The police are already here."
+   ]
+  ],
+  "Hilfe": [
+   [
+    "*Hilfe*! Mein Handy ist weg!",
+    "Help! My phone is gone!"
+   ],
+   [
+    "Danke für Ihre *Hilfe* am Schalter.",
+    "Thank you for your help at the counter."
+   ]
+  ],
+  "helfen": [
+   [
+    "Kann ich Ihnen *helfen*?",
+    "Can I help you?"
+   ],
+   [
+    "Der Polizist hat mir *geholfen*.",
+    "The police officer helped me."
+   ]
+  ],
+  "warten": [
+   [
+    "Ich *warte* schon zwanzig Minuten.",
+    "I've been waiting for twenty minutes."
+   ],
+   [
+    "Wir haben lange im Amt *gewartet*.",
+    "We waited a long time at the office."
+   ]
+  ],
+  "Bank": [
+   [
+    "Die *Bank* öffnet um neun Uhr.",
+    "The bank opens at nine o'clock."
+   ],
+   [
+    "Wir sitzen auf einer *Bank* vor der Post.",
+    "We're sitting on a bench outside the post office."
+   ]
+  ],
+  "Nummer": [
+   [
+    "Wie ist Ihre *Nummer*, bitte?",
+    "What's your number, please?"
+   ],
+   [
+    "Ich habe zwei *Nummern* im Handy.",
+    "I have two numbers in my phone."
+   ]
+  ],
+  "Post": [
+   [
+    "Ich gehe heute zur *Post*.",
+    "I'm going to the post office today."
+   ],
+   [
+    "Ist heute *Post* für mich da?",
+    "Is there any mail for me today?"
+   ]
+  ],
+  "Handy": [
+   [
+    "Mein *Handy* ist leider kaputt.",
+    "My mobile phone is broken, unfortunately."
+   ],
+   [
+    "Bitte machen Sie die *Handys* aus.",
+    "Please switch off your mobile phones."
+   ]
+  ],
+  "Amt": [
+   [
+    "Das *Amt* ist am Freitag geschlossen.",
+    "The office is closed on Friday."
+   ],
+   [
+    "Ich muss morgen zum *Amt*.",
+    "I have to go to the office tomorrow."
+   ]
+  ],
+  "Nachricht": [
+   [
+    "Ich habe eine *Nachricht* von der Bank.",
+    "I have a message from the bank."
+   ],
+   [
+    "Hast du meine *Nachrichten* gelesen?",
+    "Have you read my messages?"
+   ]
+  ],
+  "verlieren": [
+   [
+    "Ich *verliere* oft meine Schlüssel.",
+    "I often lose my keys."
+   ],
+   [
+    "Er hat seinen Pass *verloren*.",
+    "He has lost his passport."
+   ]
+  ],
+  "Telefon": [
+   [
+    "Das *Telefon* klingelt.",
+    "The phone is ringing."
+   ],
+   [
+    "Gibt es hier ein *Telefon*?",
+    "Is there a telephone here?"
+   ]
+  ],
+  "Brief": [
+   [
+    "Ich schreibe einen *Brief* an das Amt.",
+    "I'm writing a letter to the office."
+   ],
+   [
+    "Sind heute *Briefe* gekommen?",
+    "Did any letters come today?"
+   ]
+  ],
+  "schicken": [
+   [
+    "Ich *schicke* dir eine SMS.",
+    "I'll send you a text."
+   ],
+   [
+    "Hast du das Paket schon *geschickt*?",
+    "Have you already sent the parcel?"
+   ]
+  ],
+  "Unfall": [
+   [
+    "Da war ein *Unfall* auf der Straße.",
+    "There was an accident on the road."
+   ],
+   [
+    "Hier gibt es viele *Unfälle*.",
+    "There are lots of accidents here."
+   ]
+  ],
+  "Antrag": [
+   [
+    "Ich brauche einen *Antrag* für den Pass.",
+    "I need an application form for the passport."
+   ],
+   [
+    "Haben Sie den *Antrag* schon geschickt?",
+    "Have you already sent the application?"
+   ]
+  ],
+  "kaputt": [
+   [
+    "Der Geldautomat ist *kaputt*.",
+    "The cash machine is broken."
+   ],
+   [
+    "Ich bringe das *kaputte* Handy zur Werkstatt.",
+    "I'm taking the broken phone to the repair shop."
+   ]
+  ],
+  "Feuerwehr": [
+   [
+    "Die *Feuerwehr* kommt schnell.",
+    "The fire brigade comes quickly."
+   ],
+   [
+    "Die Nummer der *Feuerwehr* ist 112.",
+    "The number for the fire brigade is 112."
+   ]
+  ],
+  "Konto": [
+   [
+    "Ich möchte ein *Konto* eröffnen.",
+    "I'd like to open an account."
+   ],
+   [
+    "Das Geld ist auf meinem *Konto*.",
+    "The money is in my account."
+   ]
+  ],
+  "Paket": [
+   [
+    "Ein *Paket* für Sie, bitte unterschreiben Sie hier.",
+    "A parcel for you, please sign here."
+   ],
+   [
+    "Ich hole die *Pakete* bei der Post ab.",
+    "I'm picking up the parcels at the post office."
+   ]
+  ],
+  "Rathaus": [
+   [
+    "Das *Rathaus* ist im Zentrum.",
+    "The town hall is in the centre."
+   ],
+   [
+    "Wir treffen uns vor dem *Rathaus*.",
+    "We're meeting in front of the town hall."
+   ]
+  ],
+  "Behörde": [
+   [
+    "Welche *Behörde* ist dafür zuständig?",
+    "Which authority is responsible for that?"
+   ],
+   [
+    "Die *Behörden* sind am Sonntag geschlossen.",
+    "The authorities are closed on Sunday."
+   ]
+  ],
+  "Polizist": [
+   [
+    "Der *Polizist* ist sehr freundlich.",
+    "The police officer is very friendly."
+   ],
+   [
+    "Fragen Sie doch den *Polizisten*!",
+    "Why don't you ask the police officer?"
+   ]
+  ],
+  "anrufen": [
+   [
+    "Ich *rufe* morgen bei der Bank *an*.",
+    "I'll call the bank tomorrow."
+   ],
+   [
+    "Hast du die Polizei *angerufen*?",
+    "Did you call the police?"
+   ]
+  ],
+  "Anruf": [
+   [
+    "Danke für Ihren *Anruf*!",
+    "Thank you for your call!"
+   ],
+   [
+    "Ich habe drei *Anrufe* verpasst.",
+    "I missed three calls."
+   ]
+  ],
+  "Werkstatt": [
+   [
+    "Mein Auto ist in der *Werkstatt*.",
+    "My car is at the garage."
+   ],
+   [
+    "Die *Werkstatt* repariert auch Fahrräder.",
+    "The repair shop fixes bikes too."
+   ]
+  ],
+  "SMS": [
+   [
+    "Ich schreibe dir eine *SMS*.",
+    "I'll text you."
+   ],
+   [
+    "Hast du meine *SMS* bekommen?",
+    "Did you get my text?"
+   ]
+  ],
+  "anmelden": [
+   [
+    "Ich *melde* mich im Rathaus *an*.",
+    "I'm registering at the town hall."
+   ],
+   [
+    "Hast du dich schon *angemeldet*?",
+    "Have you registered yet?"
+   ]
+  ],
+  "Anmeldung": [
+   [
+    "Für die *Anmeldung* brauchen Sie Ihren Pass.",
+    "You need your passport for the registration."
+   ],
+   [
+    "Bitte gehen Sie zuerst zur *Anmeldung*.",
+    "Please go to the reception desk first."
+   ]
+  ],
+  "unterschreiben": [
+   [
+    "Bitte *unterschreiben* Sie hier.",
+    "Please sign here."
+   ],
+   [
+    "Ich habe den Antrag schon *unterschrieben*.",
+    "I've already signed the application."
+   ]
+  ],
+  "Empfänger": [
+   [
+    "Der *Empfänger* ist nicht zu Hause.",
+    "The recipient isn't at home."
+   ],
+   [
+    "Schreiben Sie den Namen des *Empfängers* hier.",
+    "Write the recipient's name here."
+   ]
+  ],
+  "Unterschrift": [
+   [
+    "Hier fehlt noch Ihre *Unterschrift*.",
+    "Your signature is still missing here."
+   ],
+   [
+    "Wir brauchen zwei *Unterschriften*.",
+    "We need two signatures."
+   ]
+  ],
+  "telefonieren": [
+   [
+    "Er *telefoniert* gerade mit der Bank.",
+    "He's on the phone with the bank right now."
+   ],
+   [
+    "Ich habe lange mit meiner Mutter *telefoniert*.",
+    "I was on the phone with my mother for a long time."
+   ]
+  ],
+  "Gebühr": [
+   [
+    "Die *Gebühr* ist zehn Euro.",
+    "The fee is ten euros."
+   ],
+   [
+    "Die Bank nimmt hohe *Gebühren*.",
+    "The bank charges high fees."
+   ]
+  ],
+  "reparieren": [
+   [
+    "Können Sie mein Handy *reparieren*?",
+    "Can you repair my phone?"
+   ],
+   [
+    "Die Werkstatt hat das Auto *repariert*.",
+    "The garage has repaired the car."
+   ]
+  ],
+  "Schalter": [
+   [
+    "Bitte gehen Sie zum *Schalter* drei.",
+    "Please go to counter three."
+   ],
+   [
+    "Nur ein *Schalter* ist heute offen.",
+    "Only one counter is open today."
+   ]
+  ],
+  "Briefkasten": [
+   [
+    "Der *Briefkasten* ist an der Ecke.",
+    "The postbox is on the corner."
+   ],
+   [
+    "Ich werfe den Brief in den *Briefkasten*.",
+    "I'm putting the letter in the postbox."
+   ]
+  ],
+  "Notruf": [
+   [
+    "Der *Notruf* ist 112.",
+    "The emergency number is 112."
+   ],
+   [
+    "Sie hat sofort den *Notruf* gewählt.",
+    "She dialled the emergency number straight away."
+   ]
+  ],
+  "Päckchen": [
+   [
+    "Das *Päckchen* kostet fünf Euro.",
+    "The small parcel costs five euros."
+   ],
+   [
+    "Ich schicke meiner Schwester ein *Päckchen*.",
+    "I'm sending my sister a small parcel."
+   ]
+  ],
+  "abheben": [
+   [
+    "Ich *hebe* hundert Euro *ab*.",
+    "I'm withdrawing a hundred euros."
+   ],
+   [
+    "Hast du schon Geld *abgehoben*?",
+    "Have you taken out money yet?"
+   ]
+  ],
+  "überweisen": [
+   [
+    "Ich *überweise* die Miete jeden Monat.",
+    "I transfer the rent every month."
+   ],
+   [
+    "Sie hat das Geld gestern *überwiesen*.",
+    "She transferred the money yesterday."
+   ]
+  ],
+  "Absender": [
+   [
+    "Der *Absender* steht oben links.",
+    "The sender goes at the top left."
+   ],
+   [
+    "Der Brief hat keinen *Absender*.",
+    "The letter has no sender."
+   ]
+  ],
+  "Postkarte": [
+   [
+    "Ich schreibe eine *Postkarte* aus Berlin.",
+    "I'm writing a postcard from Berlin."
+   ],
+   [
+    "Wir haben viele *Postkarten* bekommen.",
+    "We got lots of postcards."
+   ]
+  ],
+  "Briefmarke": [
+   [
+    "Eine *Briefmarke* für Europa, bitte.",
+    "One stamp for Europe, please."
+   ],
+   [
+    "Ich brauche noch zwei *Briefmarken*.",
+    "I still need two stamps."
+   ]
+  ],
+  "Anrufbeantworter": [
+   [
+    "Ich spreche auf den *Anrufbeantworter*.",
+    "I'll leave a message on the answering machine."
+   ],
+   [
+    "Der *Anrufbeantworter* ist voll.",
+    "The answering machine is full."
+   ]
+  ],
+  "Geldautomat": [
+   [
+    "Wo ist der nächste *Geldautomat*?",
+    "Where's the nearest cash machine?"
+   ],
+   [
+    "Am Bahnhof gibt es zwei *Geldautomaten*.",
+    "There are two ATMs at the station."
+   ]
+  ]
+ },
+ "de-einkaufen": {
+  "alles": [
+   [
+    "Ich habe *alles* für die Party gekauft.",
+    "I've bought everything for the party."
+   ],
+   [
+    "Ist das *alles*? – Ja, danke.",
+    "Is that everything? – Yes, thanks."
+   ]
+  ],
+  "wie viel": [
+   [
+    "*Wie viel* kostet die Jacke?",
+    "How much does the jacket cost?"
+   ],
+   [
+    "*Wie viel* Geld hast du dabei?",
+    "How much money do you have on you?"
+   ]
+  ],
+  "weiß": [
+   [
+    "Das Hemd ist *weiß*.",
+    "The shirt is white."
+   ],
+   [
+    "Ich suche ein *weißes* T-Shirt.",
+    "I'm looking for a white T-shirt."
+   ]
+  ],
+  "Geld": [
+   [
+    "Ich habe kein *Geld* mehr.",
+    "I don't have any money left."
+   ],
+   [
+    "Das *Geld* liegt auf dem Tisch.",
+    "The money is on the table."
+   ]
+  ],
+  "zusammen": [
+   [
+    "Das macht *zusammen* zwölf Euro.",
+    "That comes to twelve euros altogether."
+   ],
+   [
+    "Wir gehen heute *zusammen* einkaufen.",
+    "We're going shopping together today."
+   ]
+  ],
+  "schön": [
+   [
+    "Der Rock ist sehr *schön*.",
+    "The skirt is very nice."
+   ],
+   [
+    "Sie trägt ein *schönes* Kleid.",
+    "She's wearing a beautiful dress."
+   ]
+  ],
+  "nehmen": [
+   [
+    "Ich *nehme* die blaue Hose.",
+    "I'll take the blue trousers."
+   ],
+   [
+    "Er hat den Mantel *genommen*.",
+    "He took the coat."
+   ]
+  ],
+  "Euro": [
+   [
+    "Der Pullover kostet 30 *Euro*.",
+    "The jumper costs 30 euros."
+   ],
+   [
+    "Hast du einen *Euro* für den Wagen?",
+    "Do you have a euro for the trolley?"
+   ]
+  ],
+  "kosten": [
+   [
+    "Was *kostet* das Brot?",
+    "How much is the bread?"
+   ],
+   [
+    "Die Schuhe *kosten* 60 Euro.",
+    "The shoes cost 60 euros."
+   ]
+  ],
+  "suchen": [
+   [
+    "Ich *suche* einen Schirm.",
+    "I'm looking for an umbrella."
+   ],
+   [
+    "Wir haben die Kasse lange *gesucht*.",
+    "We looked for the checkout for a long time."
+   ]
+  ],
+  "Preis": [
+   [
+    "Der *Preis* ist zu hoch.",
+    "The price is too high."
+   ],
+   [
+    "Die *Preise* hier sind gut.",
+    "The prices here are good."
+   ]
+  ],
+  "brauchen": [
+   [
+    "Ich *brauche* eine neue Brille.",
+    "I need new glasses."
+   ],
+   [
+    "*Brauchst* du eine Tasche?",
+    "Do you need a bag?"
+   ]
+  ],
+  "kaufen": [
+   [
+    "Wir *kaufen* heute Brot und Milch.",
+    "We're buying bread and milk today."
+   ],
+   [
+    "Ich habe einen Mantel *gekauft*.",
+    "I bought a coat."
+   ]
+  ],
+  "schwarz": [
+   [
+    "Meine Jacke ist *schwarz*.",
+    "My jacket is black."
+   ],
+   [
+    "Er trägt *schwarze* Schuhe.",
+    "He's wearing black shoes."
+   ]
+  ],
+  "Angebot": [
+   [
+    "Der Kaffee ist heute im *Angebot*.",
+    "The coffee is on special offer today."
+   ],
+   [
+    "Das ist ein gutes *Angebot*!",
+    "That's a good deal!"
+   ]
+  ],
+  "rot": [
+   [
+    "Die Tasche ist *rot*.",
+    "The bag is red."
+   ],
+   [
+    "Ich möchte den *roten* Pullover.",
+    "I'd like the red jumper."
+   ]
+  ],
+  "Karte": [
+   [
+    "Kann ich mit *Karte* bezahlen?",
+    "Can I pay by card?"
+   ],
+   [
+    "Ich kaufe zwei *Karten* für das Konzert.",
+    "I'm buying two tickets for the concert."
+   ]
+  ],
+  "Größe": [
+   [
+    "Welche *Größe* haben Sie?",
+    "What size are you?"
+   ],
+   [
+    "Die Hose gibt es in allen *Größen*.",
+    "The trousers come in all sizes."
+   ]
+  ],
+  "verkaufen": [
+   [
+    "Der Laden *verkauft* Schuhe und Taschen.",
+    "The shop sells shoes and bags."
+   ],
+   [
+    "Ich habe mein Fahrrad *verkauft*.",
+    "I sold my bike."
+   ]
+  ],
+  "Laden": [
+   [
+    "Der *Laden* ist am Sonntag geschlossen.",
+    "The shop is closed on Sunday."
+   ],
+   [
+    "In der Stadt gibt es viele *Läden*.",
+    "There are lots of shops in town."
+   ]
+  ],
+  "möchten": [
+   [
+    "Ich *möchte* ein Kilo Äpfel, bitte.",
+    "I'd like a kilo of apples, please."
+   ],
+   [
+    "*Möchten* Sie eine Tüte?",
+    "Would you like a bag?"
+   ]
+  ],
+  "bezahlen": [
+   [
+    "Ich *bezahle* an der Kasse.",
+    "I'll pay at the till."
+   ],
+   [
+    "Hast du das Essen schon *bezahlt*?",
+    "Have you already paid for the food?"
+   ]
+  ],
+  "grün": [
+   [
+    "Das Kleid ist *grün*.",
+    "The dress is green."
+   ],
+   [
+    "Ich nehme die *grüne* Mütze.",
+    "I'll take the green beanie."
+   ]
+  ],
+  "Farbe": [
+   [
+    "Welche *Farbe* hat dein Mantel?",
+    "What colour is your coat?"
+   ],
+   [
+    "Den Pullover gibt es in drei *Farben*.",
+    "The jumper comes in three colours."
+   ]
+  ],
+  "geschlossen": [
+   [
+    "Die Bäckerei ist heute *geschlossen*.",
+    "The bakery is closed today."
+   ],
+   [
+    "Wir stehen vor einem *geschlossenen* Geschäft.",
+    "We're standing in front of a closed shop."
+   ]
+  ],
+  "Geschäft": [
+   [
+    "Das *Geschäft* öffnet um neun Uhr.",
+    "The shop opens at nine o'clock."
+   ],
+   [
+    "Die *Geschäfte* sind am Samstag voll.",
+    "The shops are full on Saturday."
+   ]
+  ],
+  "blau": [
+   [
+    "Der Himmel ist heute *blau*.",
+    "The sky is blue today."
+   ],
+   [
+    "Ich suche eine *blaue* Hose.",
+    "I'm looking for blue trousers."
+   ]
+  ],
+  "passen": [
+   [
+    "Die Schuhe *passen* gut.",
+    "The shoes fit well."
+   ],
+   [
+    "Hat dir das Kleid *gepasst*?",
+    "Did the dress fit you?"
+   ]
+  ],
+  "Rock": [
+   [
+    "Der *Rock* ist zu kurz.",
+    "The skirt is too short."
+   ],
+   [
+    "Sie hat zwei neue *Röcke* gekauft.",
+    "She bought two new skirts."
+   ]
+  ],
+  "teuer": [
+   [
+    "Die Jacke ist sehr *teuer*.",
+    "The jacket is very expensive."
+   ],
+   [
+    "Das ist ein *teures* Restaurant.",
+    "That's an expensive restaurant."
+   ]
+  ],
+  "bar": [
+   [
+    "Ich bezahle *bar*.",
+    "I'll pay in cash."
+   ],
+   [
+    "Zahlen Sie *bar* oder mit Karte?",
+    "Are you paying cash or by card?"
+   ]
+  ],
+  "Tasche": [
+   [
+    "Die *Tasche* ist sehr schwer.",
+    "The bag is very heavy."
+   ],
+   [
+    "Das Handy ist in meiner *Tasche*.",
+    "The phone is in my pocket."
+   ]
+  ],
+  "braun": [
+   [
+    "Seine Schuhe sind *braun*.",
+    "His shoes are brown."
+   ],
+   [
+    "Ich möchte den *braunen* Mantel.",
+    "I'd like the brown coat."
+   ]
+  ],
+  "geöffnet": [
+   [
+    "Der Supermarkt ist bis 20 Uhr *geöffnet*.",
+    "The supermarket is open until 8 pm."
+   ],
+   [
+    "Ist die Apotheke heute *geöffnet*?",
+    "Is the pharmacy open today?"
+   ]
+  ],
+  "gelb": [
+   [
+    "Die Bananen sind *gelb*.",
+    "The bananas are yellow."
+   ],
+   [
+    "Sie trägt einen *gelben* Schirm.",
+    "She's carrying a yellow umbrella."
+   ]
+  ],
+  "Kleidung": [
+   [
+    "Die *Kleidung* ist im ersten Stock.",
+    "The clothing is on the first floor."
+   ],
+   [
+    "Ich brauche neue *Kleidung* für den Winter.",
+    "I need new clothes for the winter."
+   ]
+  ],
+  "günstig": [
+   [
+    "Das Brot hier ist sehr *günstig*.",
+    "The bread here is really good value."
+   ],
+   [
+    "Wir suchen ein *günstiges* Hotel.",
+    "We're looking for an inexpensive hotel."
+   ]
+  ],
+  "Hose": [
+   [
+    "Die *Hose* ist zu lang.",
+    "The trousers are too long."
+   ],
+   [
+    "Ich habe zwei *Hosen* anprobiert.",
+    "I tried on two pairs of trousers."
+   ]
+  ],
+  "Cent": [
+   [
+    "Das kostet 99 *Cent*.",
+    "That costs 99 cents."
+   ],
+   [
+    "Hast du einen *Cent* für mich?",
+    "Do you have a cent for me?"
+   ]
+  ],
+  "einkaufen": [
+   [
+    "Ich *kaufe* am Samstag *ein*.",
+    "I go shopping on Saturday."
+   ],
+   [
+    "Wir haben schon *eingekauft*.",
+    "We've already done the shopping."
+   ]
+  ],
+  "Kleid": [
+   [
+    "Das *Kleid* passt sehr gut.",
+    "The dress fits really well."
+   ],
+   [
+    "Im Laden hängen viele schöne *Kleider*.",
+    "There are lots of nice dresses in the shop."
+   ]
+  ],
+  "Kasse": [
+   [
+    "Bitte zahlen Sie an der *Kasse*.",
+    "Please pay at the till."
+   ],
+   [
+    "Heute sind nur zwei *Kassen* offen.",
+    "Only two checkouts are open today."
+   ]
+  ],
+  "T-Shirt": [
+   [
+    "Das *T-Shirt* kostet zehn Euro.",
+    "The T-shirt costs ten euros."
+   ],
+   [
+    "Ich kaufe drei weiße *T-Shirts*.",
+    "I'm buying three white T-shirts."
+   ]
+  ],
+  "billig": [
+   [
+    "Die Socken sind sehr *billig*.",
+    "The socks are very cheap."
+   ],
+   [
+    "Das ist eine *billige* Uhr.",
+    "That's a cheap watch."
+   ]
+  ],
+  "Jacke": [
+   [
+    "Wo ist meine *Jacke*?",
+    "Where's my jacket?"
+   ],
+   [
+    "Die *Jacken* sind heute im Angebot.",
+    "The jackets are on sale today."
+   ]
+  ],
+  "grau": [
+   [
+    "Der Mantel ist *grau*.",
+    "The coat is grey."
+   ],
+   [
+    "Er trägt einen *grauen* Pullover.",
+    "He's wearing a grey jumper."
+   ]
+  ],
+  "Brille": [
+   [
+    "Ich kann ohne *Brille* nicht lesen.",
+    "I can't read without glasses."
+   ],
+   [
+    "Die *Brille* liegt auf dem Tisch.",
+    "The glasses are on the table."
+   ]
+  ],
+  "Schuh": [
+   [
+    "Der linke *Schuh* ist zu klein.",
+    "The left shoe is too small."
+   ],
+   [
+    "Ich brauche neue *Schuhe*.",
+    "I need new shoes."
+   ]
+  ],
+  "Mantel": [
+   [
+    "Der *Mantel* ist sehr warm.",
+    "The coat is very warm."
+   ],
+   [
+    "Die *Mäntel* sind im zweiten Stock.",
+    "The coats are on the second floor."
+   ]
+  ],
+  "Hemd": [
+   [
+    "Ich trage heute ein weißes *Hemd*.",
+    "I'm wearing a white shirt today."
+   ],
+   [
+    "Wie viel kosten die *Hemden*?",
+    "How much are the shirts?"
+   ]
+  ],
+  "Batterie": [
+   [
+    "Die *Batterie* ist leer.",
+    "The battery is flat."
+   ],
+   [
+    "Ich brauche vier *Batterien* für die Kamera.",
+    "I need four batteries for the camera."
+   ]
+  ],
+  "Dose": [
+   [
+    "Ich kaufe eine *Dose* Tomaten.",
+    "I'm buying a tin of tomatoes."
+   ],
+   [
+    "Die *Dosen* stehen im Regal links.",
+    "The cans are on the shelf on the left."
+   ]
+  ],
+  "Kreditkarte": [
+   [
+    "Kann ich mit *Kreditkarte* bezahlen?",
+    "Can I pay by credit card?"
+   ],
+   [
+    "Ich habe meine *Kreditkarte* vergessen.",
+    "I've forgotten my credit card."
+   ]
+  ],
+  "Packung": [
+   [
+    "Eine *Packung* Kaffee, bitte.",
+    "A packet of coffee, please."
+   ],
+   [
+    "Die *Packung* ist leider kaputt.",
+    "Unfortunately the packet is damaged."
+   ]
+  ],
+  "Öffnungszeiten": [
+   [
+    "Was sind die *Öffnungszeiten*?",
+    "What are the opening hours?"
+   ],
+   [
+    "Die *Öffnungszeiten* stehen an der Tür.",
+    "The opening hours are on the door."
+   ]
+  ],
+  "Mütze": [
+   [
+    "Die *Mütze* ist schön warm.",
+    "The beanie is nice and warm."
+   ],
+   [
+    "Im Winter trage ich eine *Mütze*.",
+    "In winter I wear a beanie."
+   ]
+  ],
+  "Schirm": [
+   [
+    "Es regnet. Hast du einen *Schirm*?",
+    "It's raining. Do you have an umbrella?"
+   ],
+   [
+    "Ich habe meinen *Schirm* im Bus vergessen.",
+    "I left my umbrella on the bus."
+   ]
+  ],
+  "Handtuch": [
+   [
+    "Das *Handtuch* ist noch nass.",
+    "The towel is still wet."
+   ],
+   [
+    "Wir brauchen zwei neue *Handtücher*.",
+    "We need two new towels."
+   ]
+  ],
+  "Pullover": [
+   [
+    "Der *Pullover* ist zu groß.",
+    "The jumper is too big."
+   ],
+   [
+    "Ich habe einen warmen *Pullover* gekauft.",
+    "I bought a warm jumper."
+   ]
+  ],
+  "Seife": [
+   [
+    "Die *Seife* ist im Bad.",
+    "The soap is in the bathroom."
+   ],
+   [
+    "Ich kaufe Zahnpasta und *Seife*.",
+    "I'm buying toothpaste and soap."
+   ]
+  ],
+  "Kiosk": [
+   [
+    "Ich kaufe die Zeitung am *Kiosk*.",
+    "I buy the newspaper at the kiosk."
+   ],
+   [
+    "Der *Kiosk* ist auch am Sonntag offen.",
+    "The kiosk is open on Sundays too."
+   ]
+  ],
+  "Kaufhaus": [
+   [
+    "Das *Kaufhaus* hat fünf Etagen.",
+    "The department store has five floors."
+   ],
+   [
+    "Wir gehen heute ins *Kaufhaus*.",
+    "We're going to the department store today."
+   ]
+  ],
+  "Quittung": [
+   [
+    "Möchten Sie eine *Quittung*?",
+    "Would you like a receipt?"
+   ],
+   [
+    "Die *Quittung* ist in der Tüte.",
+    "The receipt is in the bag."
+   ]
+  ],
+  "Zahnbürste": [
+   [
+    "Ich brauche eine neue *Zahnbürste*.",
+    "I need a new toothbrush."
+   ],
+   [
+    "Die *Zahnbürsten* sind im Angebot.",
+    "The toothbrushes are on special offer."
+   ]
+  ],
+  "Socke": [
+   [
+    "Wo ist die zweite *Socke*?",
+    "Where's the other sock?"
+   ],
+   [
+    "Ich kaufe fünf Paar *Socken*.",
+    "I'm buying five pairs of socks."
+   ]
+  ],
+  "anprobieren": [
+   [
+    "Kann ich die Hose *anprobieren*?",
+    "Can I try on the trousers?"
+   ],
+   [
+    "Sie *probiert* das Kleid *an*.",
+    "She's trying on the dress."
+   ]
+  ]
+ },
+ "de-erziehung": {
+  "Schule": [
+   [
+    "Die *Schule* beginnt um acht Uhr.",
+    "School starts at eight o'clock."
+   ],
+   [
+    "In unserer Stadt gibt es drei *Schulen*.",
+    "There are three schools in our town."
+   ]
+  ],
+  "Junge": [
+   [
+    "Der *Junge* spielt im Garten.",
+    "The boy is playing in the garden."
+   ],
+   [
+    "Wir haben zwei *Jungen* und ein Mädchen.",
+    "We have two boys and a girl."
+   ]
+  ],
+  "Mädchen": [
+   [
+    "Das *Mädchen* heißt Lena.",
+    "The girl's name is Lena."
+   ],
+   [
+    "In meiner Klasse sind zwölf *Mädchen*.",
+    "There are twelve girls in my class."
+   ]
+  ],
+  "Klasse": [
+   [
+    "Meine Tochter ist in der zweiten *Klasse*.",
+    "My daughter is in second grade."
+   ],
+   [
+    "Die *Klasse* macht morgen einen Ausflug.",
+    "The class is going on a trip tomorrow."
+   ]
+  ],
+  "Ausbildung": [
+   [
+    "Mein Sohn macht eine *Ausbildung* als Koch.",
+    "My son is training to be a chef."
+   ],
+   [
+    "Die *Ausbildung* dauert drei Jahre.",
+    "The training takes three years."
+   ]
+  ],
+  "Schüler": [
+   [
+    "Der *Schüler* hat heute keine Hausaufgaben.",
+    "The pupil has no homework today."
+   ],
+   [
+    "Die *Schüler* lernen Englisch.",
+    "The pupils are learning English."
+   ]
+  ],
+  "Studium": [
+   [
+    "Wie war dein *Studium* in Berlin?",
+    "How were your studies in Berlin?"
+   ],
+   [
+    "Nach dem *Studium* arbeitet sie als Lehrerin.",
+    "After university she works as a teacher."
+   ]
+  ],
+  "zählen": [
+   [
+    "Das Kind *zählt* bis zehn.",
+    "The child counts to ten."
+   ],
+   [
+    "Hast du das Geld schon *gezählt*?",
+    "Have you counted the money yet?"
+   ]
+  ],
+  "Jugendliche": [
+   [
+    "Die *Jugendlichen* treffen sich im Park.",
+    "The teenagers meet in the park."
+   ],
+   [
+    "Mein Neffe ist ein netter *Jugendlicher*.",
+    "My nephew is a nice young guy."
+   ]
+  ],
+  "Unterricht": [
+   [
+    "Der *Unterricht* endet um eins.",
+    "Lessons finish at one."
+   ],
+   [
+    "Heute haben wir keinen *Unterricht*.",
+    "We don't have any lessons today."
+   ]
+  ],
+  "rechnen": [
+   [
+    "Mein Sohn *rechnet* sehr gut.",
+    "My son is very good at sums."
+   ],
+   [
+    "Wir haben heute in der Schule *gerechnet*.",
+    "We did sums at school today."
+   ]
+  ],
+  "Gymnasium": [
+   [
+    "Meine Tochter geht aufs *Gymnasium*.",
+    "My daughter goes to grammar school."
+   ],
+   [
+    "Das *Gymnasium* ist neben dem Bahnhof.",
+    "The grammar school is next to the station."
+   ]
+  ],
+  "Fach": [
+   [
+    "Welches *Fach* hast du gern?",
+    "Which subject do you like?"
+   ],
+   [
+    "Wie viele *Fächer* hast du?",
+    "How many subjects do you have?"
+   ]
+  ],
+  "Heft": [
+   [
+    "Schreib das bitte in dein *Heft*.",
+    "Please write that in your exercise book."
+   ],
+   [
+    "Ich brauche zwei neue *Hefte*.",
+    "I need two new exercise books."
+   ]
+  ],
+  "Note": [
+   [
+    "Er hat eine gute *Note* in Mathe.",
+    "He got a good mark in maths."
+   ],
+   [
+    "Ihre *Noten* sind dieses Jahr besser.",
+    "Her grades are better this year."
+   ]
+  ],
+  "Kindergarten": [
+   [
+    "Mein Sohn geht in den *Kindergarten*.",
+    "My son goes to kindergarten."
+   ],
+   [
+    "Der *Kindergarten* ist bis vier Uhr offen.",
+    "The kindergarten is open until four."
+   ]
+  ],
+  "Grundschule": [
+   [
+    "Die *Grundschule* ist ganz in der Nähe.",
+    "The primary school is very close by."
+   ],
+   [
+    "Lisa geht seit September in die *Grundschule*.",
+    "Lisa has been at primary school since September."
+   ]
+  ],
+  "Abitur": [
+   [
+    "Mein Bruder macht nächstes Jahr das *Abitur*.",
+    "My brother is doing his final exams next year."
+   ],
+   [
+    "Nach dem *Abitur* möchte sie studieren.",
+    "After finishing school she wants to go to university."
+   ]
+  ],
+  "Tafel": [
+   [
+    "Die Lehrerin schreibt an die *Tafel*.",
+    "The teacher writes on the board."
+   ],
+   [
+    "Die *Tafel* ist noch schmutzig.",
+    "The board is still dirty."
+   ]
+  ],
+  "aufpassen": [
+   [
+    "Kannst du heute auf die Kinder *aufpassen*?",
+    "Can you look after the kids today?"
+   ],
+   [
+    "Er hat im Unterricht nicht *aufgepasst*.",
+    "He didn't pay attention in class."
+   ]
+  ],
+  "Spielzeug": [
+   [
+    "Das *Spielzeug* liegt auf dem Boden.",
+    "The toys are lying on the floor."
+   ],
+   [
+    "Räum bitte dein *Spielzeug* auf!",
+    "Please tidy up your toys!"
+   ]
+  ],
+  "fleißig": [
+   [
+    "Anna ist sehr *fleißig*.",
+    "Anna is very hard-working."
+   ],
+   [
+    "Er ist ein *fleißiger* Schüler.",
+    "He's a hard-working pupil."
+   ]
+  ],
+  "Mathe": [
+   [
+    "*Mathe* ist mein Lieblingsfach.",
+    "Maths is my favourite subject."
+   ],
+   [
+    "Wir haben morgen einen Test in *Mathe*.",
+    "We have a maths test tomorrow."
+   ]
+  ],
+  "abholen": [
+   [
+    "Ich *hole* die Kinder um drei *ab*.",
+    "I'll pick the kids up at three."
+   ],
+   [
+    "Hast du Tom vom Kindergarten *abgeholt*?",
+    "Did you pick Tom up from kindergarten?"
+   ]
+  ],
+  "Kita": [
+   [
+    "Unsere Tochter geht in die *Kita*.",
+    "Our daughter goes to daycare."
+   ],
+   [
+    "Die *Kita* macht um halb fünf zu.",
+    "The daycare closes at half past four."
+   ]
+  ],
+  "Zeugnis": [
+   [
+    "Heute bekommen die Kinder ihr *Zeugnis*.",
+    "The children get their school reports today."
+   ],
+   [
+    "Das *Zeugnis* ist sehr gut.",
+    "The report is very good."
+   ]
+  ],
+  "basteln": [
+   [
+    "Die Kinder *basteln* gern.",
+    "The kids love doing crafts."
+   ],
+   [
+    "Wir haben heute Sterne *gebastelt*.",
+    "We made stars today."
+   ]
+  ],
+  "Spielplatz": [
+   [
+    "Wir gehen auf den *Spielplatz*.",
+    "We're going to the playground."
+   ],
+   [
+    "Hier gibt es viele *Spielplätze*.",
+    "There are lots of playgrounds here."
+   ]
+  ],
+  "Schülerin": [
+   [
+    "Die *Schülerin* ist zwölf Jahre alt.",
+    "The pupil is twelve years old."
+   ],
+   [
+    "Sie ist eine gute *Schülerin*.",
+    "She's a good pupil."
+   ]
+  ],
+  "Erzieher": [
+   [
+    "Der *Erzieher* spielt mit den Kindern.",
+    "The nursery teacher is playing with the children."
+   ],
+   [
+    "Die *Erzieher* sind sehr freundlich.",
+    "The nursery staff are very friendly."
+   ]
+  ],
+  "Erzieherin": [
+   [
+    "Meine Schwester ist *Erzieherin*.",
+    "My sister is a nursery teacher."
+   ],
+   [
+    "Die *Erzieherin* liest eine Geschichte vor.",
+    "The nursery teacher reads a story aloud."
+   ]
+  ],
+  "Babysitter": [
+   [
+    "Wir brauchen am Samstag einen *Babysitter*.",
+    "We need a babysitter on Saturday."
+   ],
+   [
+    "Der *Babysitter* kommt um sieben.",
+    "The babysitter is coming at seven."
+   ]
+  ],
+  "Elternabend": [
+   [
+    "Am Montag ist *Elternabend*.",
+    "There's a parents' evening on Monday."
+   ],
+   [
+    "Warst du beim *Elternabend*?",
+    "Were you at the parents' evening?"
+   ]
+  ],
+  "Schultasche": [
+   [
+    "Die *Schultasche* ist sehr schwer.",
+    "The school bag is very heavy."
+   ],
+   [
+    "Hast du deine *Schultasche* gepackt?",
+    "Have you packed your school bag?"
+   ]
+  ]
+ },
+ "de-essen": {
+  "Essen": [
+   [
+    "Das *Essen* ist heute sehr gut.",
+    "The food is really good today."
+   ],
+   [
+    "Nach dem *Essen* trinken wir einen Kaffee.",
+    "After the meal we have a coffee."
+   ]
+  ],
+  "essen": [
+   [
+    "Mein Sohn *isst* gern Pizza.",
+    "My son likes eating pizza."
+   ],
+   [
+    "Hast du schon *gegessen*?",
+    "Have you eaten yet?"
+   ]
+  ],
+  "Wasser": [
+   [
+    "Ein *Wasser*, bitte!",
+    "A water, please!"
+   ],
+   [
+    "Ich trinke jeden Tag zwei Liter *Wasser*.",
+    "I drink two litres of water every day."
+   ]
+  ],
+  "zahlen": [
+   [
+    "Wir möchten bitte *zahlen*.",
+    "We'd like to pay, please."
+   ],
+   [
+    "Ich *zahle* mit Karte.",
+    "I'm paying by card."
+   ]
+  ],
+  "Stück": [
+   [
+    "Ich nehme ein *Stück* Kuchen.",
+    "I'll have a piece of cake."
+   ],
+   [
+    "Die Brötchen kosten 50 Cent pro *Stück*.",
+    "The rolls cost 50 cents each."
+   ]
+  ],
+  "Markt": [
+   [
+    "Am Samstag gehe ich auf den *Markt*.",
+    "On Saturday I go to the market."
+   ],
+   [
+    "Das Obst vom *Markt* ist sehr frisch.",
+    "The fruit from the market is very fresh."
+   ]
+  ],
+  "Kaffee": [
+   [
+    "Möchtest du einen *Kaffee*?",
+    "Would you like a coffee?"
+   ],
+   [
+    "Der *Kaffee* ist zu heiß.",
+    "The coffee is too hot."
+   ]
+  ],
+  "Bier": [
+   [
+    "Ein *Bier*, bitte.",
+    "A beer, please."
+   ],
+   [
+    "Wir haben zwei *Biere* bestellt.",
+    "We ordered two beers."
+   ]
+  ],
+  "trinken": [
+   [
+    "Was *trinkst* du?",
+    "What are you drinking?"
+   ],
+   [
+    "Ich habe zu viel Kaffee *getrunken*.",
+    "I've drunk too much coffee."
+   ]
+  ],
+  "Fleisch": [
+   [
+    "Ich esse kein *Fleisch*.",
+    "I don't eat meat."
+   ],
+   [
+    "Das *Fleisch* ist sehr lecker.",
+    "The meat is very tasty."
+   ]
+  ],
+  "Wein": [
+   [
+    "Möchten Sie ein Glas *Wein*?",
+    "Would you like a glass of wine?"
+   ],
+   [
+    "Der *Wein* kommt aus Italien.",
+    "The wine comes from Italy."
+   ]
+  ],
+  "Rechnung": [
+   [
+    "Die *Rechnung*, bitte!",
+    "The bill, please!"
+   ],
+   [
+    "Der Kellner bringt uns die *Rechnung*.",
+    "The waiter brings us the bill."
+   ]
+  ],
+  "Glas": [
+   [
+    "Ich hätte gern ein *Glas* Wasser.",
+    "I'd like a glass of water."
+   ],
+   [
+    "Die *Gläser* stehen im Schrank.",
+    "The glasses are in the cupboard."
+   ]
+  ],
+  "frisch": [
+   [
+    "Das Brot ist ganz *frisch*.",
+    "The bread is really fresh."
+   ],
+   [
+    "Ich kaufe *frisches* Obst auf dem Markt.",
+    "I buy fresh fruit at the market."
+   ]
+  ],
+  "Restaurant": [
+   [
+    "Das *Restaurant* ist heute geschlossen.",
+    "The restaurant is closed today."
+   ],
+   [
+    "Wir essen heute Abend im *Restaurant*.",
+    "We're eating at a restaurant tonight."
+   ]
+  ],
+  "kochen": [
+   [
+    "Mein Mann *kocht* jeden Abend.",
+    "My husband cooks every evening."
+   ],
+   [
+    "Ich habe eine Suppe *gekocht*.",
+    "I've made a soup."
+   ]
+  ],
+  "Milch": [
+   [
+    "Die *Milch* ist im Kühlschrank.",
+    "The milk is in the fridge."
+   ],
+   [
+    "Trinkst du Kaffee mit *Milch*?",
+    "Do you take your coffee with milk?"
+   ]
+  ],
+  "Frühstück": [
+   [
+    "Das *Frühstück* ist um acht Uhr.",
+    "Breakfast is at eight o'clock."
+   ],
+   [
+    "Zum *Frühstück* esse ich ein Brötchen.",
+    "For breakfast I have a bread roll."
+   ]
+  ],
+  "Brot": [
+   [
+    "Ich kaufe ein *Brot* beim Bäcker.",
+    "I'm buying a loaf of bread at the baker's."
+   ],
+   [
+    "Das *Brot* ist noch warm.",
+    "The bread is still warm."
+   ]
+  ],
+  "Messer": [
+   [
+    "Das *Messer* ist sehr scharf.",
+    "The knife is very sharp."
+   ],
+   [
+    "Kannst du mir ein *Messer* geben?",
+    "Can you pass me a knife?"
+   ]
+  ],
+  "Kuchen": [
+   [
+    "Der *Kuchen* schmeckt super!",
+    "The cake tastes great!"
+   ],
+   [
+    "Ich backe heute zwei *Kuchen*.",
+    "I'm baking two cakes today."
+   ]
+  ],
+  "süß": [
+   [
+    "Der Tee ist zu *süß*.",
+    "The tea is too sweet."
+   ],
+   [
+    "Kinder essen gern *süße* Sachen.",
+    "Children like eating sweet things."
+   ]
+  ],
+  "Hunger": [
+   [
+    "Ich habe großen *Hunger*.",
+    "I'm really hungry."
+   ],
+   [
+    "Hast du *Hunger*? Wir können essen.",
+    "Are you hungry? We can eat."
+   ]
+  ],
+  "Tee": [
+   [
+    "Ich trinke morgens einen *Tee*.",
+    "I drink a tea in the morning."
+   ],
+   [
+    "Der *Tee* ist noch zu heiß.",
+    "The tea is still too hot."
+   ]
+  ],
+  "Zucker": [
+   [
+    "Nimmst du *Zucker* in den Kaffee?",
+    "Do you take sugar in your coffee?"
+   ],
+   [
+    "Der *Zucker* steht auf dem Tisch.",
+    "The sugar is on the table."
+   ]
+  ],
+  "bestellen": [
+   [
+    "Ich *bestelle* eine Pizza.",
+    "I'm ordering a pizza."
+   ],
+   [
+    "Haben Sie schon *bestellt*?",
+    "Have you already ordered?"
+   ]
+  ],
+  "Ei": [
+   [
+    "Ich esse jeden Morgen ein *Ei*.",
+    "I eat an egg every morning."
+   ],
+   [
+    "Wir brauchen sechs *Eier* für den Kuchen.",
+    "We need six eggs for the cake."
+   ]
+  ],
+  "Liter": [
+   [
+    "Ein *Liter* Milch kostet einen Euro.",
+    "A litre of milk costs one euro."
+   ],
+   [
+    "Ich kaufe zwei *Liter* Saft.",
+    "I'm buying two litres of juice."
+   ]
+  ],
+  "Flasche": [
+   [
+    "Eine *Flasche* Wasser, bitte.",
+    "A bottle of water, please."
+   ],
+   [
+    "Die leeren *Flaschen* bringe ich zurück.",
+    "I'm taking the empty bottles back."
+   ]
+  ],
+  "Fisch": [
+   [
+    "Heute gibt es *Fisch* mit Kartoffeln.",
+    "Today there's fish with potatoes."
+   ],
+   [
+    "Der *Fisch* ist sehr frisch.",
+    "The fish is very fresh."
+   ]
+  ],
+  "Käse": [
+   [
+    "Ich esse gern Brot mit *Käse*.",
+    "I like eating bread with cheese."
+   ],
+   [
+    "Der *Käse* kommt aus der Schweiz.",
+    "The cheese comes from Switzerland."
+   ]
+  ],
+  "Gemüse": [
+   [
+    "*Gemüse* ist sehr gesund.",
+    "Vegetables are very healthy."
+   ],
+   [
+    "Ich kaufe das *Gemüse* auf dem Markt.",
+    "I buy the vegetables at the market."
+   ]
+  ],
+  "Salz": [
+   [
+    "Die Suppe braucht mehr *Salz*.",
+    "The soup needs more salt."
+   ],
+   [
+    "Gibst du mir bitte das *Salz*?",
+    "Could you pass me the salt, please?"
+   ]
+  ],
+  "lecker": [
+   [
+    "Die Pizza ist sehr *lecker*!",
+    "The pizza is really tasty!"
+   ],
+   [
+    "Meine Oma macht einen *leckeren* Kuchen.",
+    "My grandma makes a tasty cake."
+   ]
+  ],
+  "Obst": [
+   [
+    "Ich esse jeden Tag *Obst*.",
+    "I eat fruit every day."
+   ],
+   [
+    "Das *Obst* liegt in der Küche.",
+    "The fruit is in the kitchen."
+   ]
+  ],
+  "Café": [
+   [
+    "Wir treffen uns im *Café*.",
+    "We're meeting at the café."
+   ],
+   [
+    "Das *Café* hat sehr guten Kuchen.",
+    "The café has really good cake."
+   ]
+  ],
+  "Kilo": [
+   [
+    "Ein *Kilo* Äpfel kostet zwei Euro.",
+    "A kilo of apples costs two euros."
+   ],
+   [
+    "Ich nehme zwei *Kilo* Kartoffeln.",
+    "I'll take two kilos of potatoes."
+   ]
+  ],
+  "Butter": [
+   [
+    "Die *Butter* ist im Kühlschrank.",
+    "The butter is in the fridge."
+   ],
+   [
+    "Ich esse Brot mit *Butter* und Honig.",
+    "I eat bread with butter and honey."
+   ]
+  ],
+  "schmecken": [
+   [
+    "Die Suppe *schmeckt* sehr gut.",
+    "The soup tastes very good."
+   ],
+   [
+    "Hat es Ihnen *geschmeckt*?",
+    "Did you enjoy your meal?"
+   ]
+  ],
+  "Supermarkt": [
+   [
+    "Ich gehe schnell in den *Supermarkt*.",
+    "I'm just popping to the supermarket."
+   ],
+   [
+    "Die *Supermärkte* sind am Sonntag zu.",
+    "The supermarkets are closed on Sunday."
+   ]
+  ],
+  "Orange": [
+   [
+    "Die *Orange* ist sehr süß.",
+    "The orange is very sweet."
+   ],
+   [
+    "Ich kaufe ein Kilo *Orangen*.",
+    "I'm buying a kilo of oranges."
+   ]
+  ],
+  "Mittagessen": [
+   [
+    "Das *Mittagessen* ist um zwölf Uhr.",
+    "Lunch is at twelve o'clock."
+   ],
+   [
+    "Was gibt es heute zum *Mittagessen*?",
+    "What's for lunch today?"
+   ]
+  ],
+  "Abendessen": [
+   [
+    "Ich koche das *Abendessen*.",
+    "I'm cooking dinner."
+   ],
+   [
+    "Nach dem *Abendessen* sehen wir fern.",
+    "After dinner we watch TV."
+   ]
+  ],
+  "Reis": [
+   [
+    "Ich esse gern *Reis* mit Gemüse.",
+    "I like eating rice with vegetables."
+   ],
+   [
+    "Der *Reis* ist noch nicht fertig.",
+    "The rice isn't ready yet."
+   ]
+  ],
+  "Gramm": [
+   [
+    "Ich hätte gern 200 *Gramm* Käse.",
+    "I'd like 200 grams of cheese, please."
+   ],
+   [
+    "Für den Kuchen braucht man 100 *Gramm* Zucker.",
+    "For the cake you need 100 grams of sugar."
+   ]
+  ],
+  "Wurst": [
+   [
+    "Die *Wurst* ist sehr lecker.",
+    "The sausage is very tasty."
+   ],
+   [
+    "Wir grillen heute *Würste*.",
+    "We're grilling sausages today."
+   ]
+  ],
+  "Salat": [
+   [
+    "Ich nehme einen *Salat*, bitte.",
+    "I'll have a salad, please."
+   ],
+   [
+    "Der *Salat* ist ganz frisch.",
+    "The salad is really fresh."
+   ]
+  ],
+  "Teller": [
+   [
+    "Der *Teller* ist leer.",
+    "The plate is empty."
+   ],
+   [
+    "Kannst du die *Teller* auf den Tisch stellen?",
+    "Can you put the plates on the table?"
+   ]
+  ],
+  "Tasse": [
+   [
+    "Möchtest du eine *Tasse* Tee?",
+    "Would you like a cup of tea?"
+   ],
+   [
+    "Die *Tassen* sind im Schrank.",
+    "The cups are in the cupboard."
+   ]
+  ],
+  "Apfel": [
+   [
+    "Der *Apfel* ist rot und süß.",
+    "The apple is red and sweet."
+   ],
+   [
+    "Ich kaufe ein Kilo *Äpfel*.",
+    "I'm buying a kilo of apples."
+   ]
+  ],
+  "Saft": [
+   [
+    "Ich trinke morgens einen *Saft*.",
+    "I have a juice in the morning."
+   ],
+   [
+    "Der *Saft* ist aus Orangen.",
+    "The juice is made from oranges."
+   ]
+  ],
+  "Brötchen": [
+   [
+    "Ich hole *Brötchen* beim Bäcker.",
+    "I'm getting bread rolls from the baker's."
+   ],
+   [
+    "Das *Brötchen* ist noch warm.",
+    "The bread roll is still warm."
+   ]
+  ],
+  "Suppe": [
+   [
+    "Die *Suppe* ist zu heiß.",
+    "The soup is too hot."
+   ],
+   [
+    "Als Vorspeise nehme ich eine *Suppe*.",
+    "As a starter I'll have a soup."
+   ]
+  ],
+  "Nudeln": [
+   [
+    "Die Kinder essen gern *Nudeln*.",
+    "The children like eating pasta."
+   ],
+   [
+    "Die *Nudeln* sind in zehn Minuten fertig.",
+    "The pasta will be ready in ten minutes."
+   ]
+  ],
+  "Kellner": [
+   [
+    "Der *Kellner* bringt die Speisekarte.",
+    "The waiter brings the menu."
+   ],
+   [
+    "Ich frage den *Kellner* nach der Rechnung.",
+    "I ask the waiter for the bill."
+   ]
+  ],
+  "Guten Appetit!": [
+   [
+    "Das Essen ist fertig. *Guten Appetit!*",
+    "The food is ready. Enjoy your meal!"
+   ],
+   [
+    "„*Guten Appetit!*“ – „Danke, gleichfalls!“",
+    "\"Enjoy your meal!\" – \"Thanks, you too!\""
+   ]
+  ],
+  "Pfeffer": [
+   [
+    "Die Suppe braucht noch *Pfeffer*.",
+    "The soup still needs pepper."
+   ],
+   [
+    "Gibst du mir bitte den *Pfeffer*?",
+    "Could you pass me the pepper, please?"
+   ]
+  ],
+  "Löffel": [
+   [
+    "Ich brauche einen *Löffel* für die Suppe.",
+    "I need a spoon for the soup."
+   ],
+   [
+    "Die *Löffel* liegen in der Schublade.",
+    "The spoons are in the drawer."
+   ]
+  ],
+  "Bäckerei": [
+   [
+    "Die *Bäckerei* öffnet um sechs Uhr.",
+    "The bakery opens at six o'clock."
+   ],
+   [
+    "Ich kaufe Brot in der *Bäckerei*.",
+    "I buy bread at the bakery."
+   ]
+  ],
+  "Durst": [
+   [
+    "Ich habe *Durst*. Gibt es Wasser?",
+    "I'm thirsty. Is there any water?"
+   ],
+   [
+    "Hast du keinen *Durst*?",
+    "Aren't you thirsty?"
+   ]
+  ],
+  "Kartoffel": [
+   [
+    "Zum Fisch gibt es *Kartoffeln*.",
+    "The fish comes with potatoes."
+   ],
+   [
+    "Die *Kartoffel* ist noch nicht weich.",
+    "The potato isn't soft yet."
+   ]
+  ],
+  "Banane": [
+   [
+    "Ich esse eine *Banane* zum Frühstück.",
+    "I eat a banana for breakfast."
+   ],
+   [
+    "Die *Bananen* sind noch grün.",
+    "The bananas are still green."
+   ]
+  ],
+  "Gabel": [
+   [
+    "Ich brauche eine *Gabel*, bitte.",
+    "I need a fork, please."
+   ],
+   [
+    "Die *Gabel* liegt links neben dem Teller.",
+    "The fork goes to the left of the plate."
+   ]
+  ],
+  "frühstücken": [
+   [
+    "Wir *frühstücken* um sieben Uhr.",
+    "We have breakfast at seven o'clock."
+   ],
+   [
+    "Hast du schon *gefrühstückt*?",
+    "Have you had breakfast yet?"
+   ]
+  ],
+  "Hähnchen": [
+   [
+    "Ich nehme das *Hähnchen* mit Reis.",
+    "I'll have the chicken with rice."
+   ],
+   [
+    "Das *Hähnchen* ist sehr lecker.",
+    "The chicken is very tasty."
+   ]
+  ],
+  "Speisekarte": [
+   [
+    "Die *Speisekarte*, bitte!",
+    "The menu, please!"
+   ],
+   [
+    "Was steht heute auf der *Speisekarte*?",
+    "What's on the menu today?"
+   ]
+  ],
+  "Tomate": [
+   [
+    "Die *Tomate* ist rot und frisch.",
+    "The tomato is red and fresh."
+   ],
+   [
+    "Ich kaufe ein Kilo *Tomaten*.",
+    "I'm buying a kilo of tomatoes."
+   ]
+  ]
+ },
+ "de-freizeit": {
+  "finden": [
+   [
+    "Ich *finde* den Film sehr gut.",
+    "I think the film is really good."
+   ],
+   [
+    "Hast du das Buch *gefunden*?",
+    "Did you find the book?"
+   ]
+  ],
+  "Spiel": [
+   [
+    "Das *Spiel* beginnt um acht Uhr.",
+    "The match starts at eight o'clock."
+   ],
+   [
+    "Wir spielen am Abend gern *Spiele*.",
+    "We like playing games in the evening."
+   ]
+  ],
+  "spielen": [
+   [
+    "Mein Sohn *spielt* jeden Tag Fußball.",
+    "My son plays football every day."
+   ],
+   [
+    "Wir haben gestern Karten *gespielt*.",
+    "We played cards yesterday."
+   ]
+  ],
+  "Musik": [
+   [
+    "Ich höre gern *Musik*.",
+    "I like listening to music."
+   ],
+   [
+    "Die *Musik* auf der Party ist super.",
+    "The music at the party is great."
+   ]
+  ],
+  "treffen": [
+   [
+    "Ich *treffe* am Samstag meine Freunde.",
+    "I'm meeting my friends on Saturday."
+   ],
+   [
+    "Wir haben uns im Café *getroffen*.",
+    "We met at the café."
+   ]
+  ],
+  "lesen": [
+   [
+    "Am Abend *liest* sie gern Bücher.",
+    "In the evening she likes reading books."
+   ],
+   [
+    "Hast du die Zeitung schon *gelesen*?",
+    "Have you read the newspaper yet?"
+   ]
+  ],
+  "Internet": [
+   [
+    "Ich suche das im *Internet*.",
+    "I'll look that up on the internet."
+   ],
+   [
+    "Das *Internet* ist heute sehr langsam.",
+    "The internet is really slow today."
+   ]
+  ],
+  "Film": [
+   [
+    "Der *Film* war sehr lustig.",
+    "The film was really funny."
+   ],
+   [
+    "Am Wochenende sehen wir zwei *Filme*.",
+    "We're watching two films at the weekend."
+   ]
+  ],
+  "Buch": [
+   [
+    "Das *Buch* ist sehr interessant.",
+    "The book is very interesting."
+   ],
+   [
+    "Ich habe viele *Bücher* zu Hause.",
+    "I have lots of books at home."
+   ]
+  ],
+  "Fest": [
+   [
+    "Im Sommer gibt es ein großes *Fest*.",
+    "There's a big festival in summer."
+   ],
+   [
+    "Wir feiern viele *Feste* mit der Familie.",
+    "We celebrate lots of festivals with the family."
+   ]
+  ],
+  "gern": [
+   [
+    "Ich spiele *gern* Tennis.",
+    "I like playing tennis."
+   ],
+   [
+    "*Am liebsten* lese ich Krimis.",
+    "Most of all I like reading crime novels."
+   ]
+  ],
+  "hören": [
+   [
+    "Ich *höre* jeden Morgen Radio.",
+    "I listen to the radio every morning."
+   ],
+   [
+    "Hast du das neue Lied *gehört*?",
+    "Have you heard the new song?"
+   ]
+  ],
+  "laufen": [
+   [
+    "Er *läuft* jeden Morgen im Park.",
+    "He runs in the park every morning."
+   ],
+   [
+    "Wir sind zehn Kilometer *gelaufen*.",
+    "We ran ten kilometres."
+   ]
+  ],
+  "toll": [
+   [
+    "Das Konzert war *toll*!",
+    "The concert was great!"
+   ],
+   [
+    "Das ist eine *tolle* Idee.",
+    "That's a great idea."
+   ]
+  ],
+  "Interesse": [
+   [
+    "Ich habe großes *Interesse* an Musik.",
+    "I'm very interested in music."
+   ],
+   [
+    "Was sind deine *Interessen*?",
+    "What are your interests?"
+   ]
+  ],
+  "Foto": [
+   [
+    "Das *Foto* ist sehr schön.",
+    "The photo is really nice."
+   ],
+   [
+    "Ich mache im Urlaub viele *Fotos*.",
+    "I take lots of photos on holiday."
+   ]
+  ],
+  "Fußball": [
+   [
+    "Am Samstag spiele ich *Fußball*.",
+    "On Saturday I play football."
+   ],
+   [
+    "Der *Fußball* liegt im Garten.",
+    "The football is in the garden."
+   ]
+  ],
+  "Verein": [
+   [
+    "Mein Bruder ist in einem *Verein*.",
+    "My brother is in a club."
+   ],
+   [
+    "Der *Verein* trainiert jeden Dienstag.",
+    "The club trains every Tuesday."
+   ]
+  ],
+  "Nachrichten": [
+   [
+    "Um acht Uhr kommen die *Nachrichten*.",
+    "The news is on at eight o'clock."
+   ],
+   [
+    "Hast du heute die *Nachrichten* gesehen?",
+    "Did you see the news today?"
+   ]
+  ],
+  "Zeitung": [
+   [
+    "Mein Vater liest jeden Morgen die *Zeitung*.",
+    "My father reads the newspaper every morning."
+   ],
+   [
+    "Am Kiosk gibt es viele *Zeitungen*.",
+    "There are lots of newspapers at the kiosk."
+   ]
+  ],
+  "Programm": [
+   [
+    "Was kommt heute im *Programm*?",
+    "What's on the channel today?"
+   ],
+   [
+    "Das *Programm* vom Theater ist interessant.",
+    "The theatre's programme is interesting."
+   ]
+  ],
+  "Sport": [
+   [
+    "Ich mache dreimal pro Woche *Sport*.",
+    "I do sport three times a week."
+   ],
+   [
+    "Welchen *Sport* magst du?",
+    "Which sport do you like?"
+   ]
+  ],
+  "Wochenende": [
+   [
+    "Was machst du am *Wochenende*?",
+    "What are you doing at the weekend?"
+   ],
+   [
+    "Das *Wochenende* war sehr schön.",
+    "The weekend was really nice."
+   ]
+  ],
+  "Mannschaft": [
+   [
+    "Unsere *Mannschaft* hat heute gewonnen.",
+    "Our team won today."
+   ],
+   [
+    "Zwei *Mannschaften* spielen im Stadion.",
+    "Two teams are playing in the stadium."
+   ]
+  ],
+  "Lust": [
+   [
+    "Hast du *Lust* auf Kino?",
+    "Do you feel like going to the cinema?"
+   ],
+   [
+    "Ich habe heute keine *Lust* zu kochen.",
+    "I don't feel like cooking today."
+   ]
+  ],
+  "Party": [
+   [
+    "Kommst du am Freitag zur *Party*?",
+    "Are you coming to the party on Friday?"
+   ],
+   [
+    "Im Sommer gibt es viele *Partys*.",
+    "There are lots of parties in summer."
+   ]
+  ],
+  "interessant": [
+   [
+    "Die Sendung ist sehr *interessant*.",
+    "The show is very interesting."
+   ],
+   [
+    "Ich lese ein *interessantes* Buch.",
+    "I'm reading an interesting book."
+   ]
+  ],
+  "feiern": [
+   [
+    "Wir *feiern* am Samstag meinen Geburtstag.",
+    "We're celebrating my birthday on Saturday."
+   ],
+   [
+    "Habt ihr gestern lange *gefeiert*?",
+    "Did you party until late yesterday?"
+   ]
+  ],
+  "Lied": [
+   [
+    "Das *Lied* finde ich sehr schön.",
+    "I think the song is really beautiful."
+   ],
+   [
+    "Wir singen zusammen deutsche *Lieder*.",
+    "We sing German songs together."
+   ]
+  ],
+  "fernsehen": [
+   [
+    "Am Abend *sehe* ich oft *fern*.",
+    "I often watch TV in the evening."
+   ],
+   [
+    "Die Kinder haben zu lange *ferngesehen*.",
+    "The children watched TV for too long."
+   ]
+  ],
+  "Theater": [
+   [
+    "Heute Abend gehen wir ins *Theater*.",
+    "We're going to the theatre this evening."
+   ],
+   [
+    "Das *Theater* ist in der Stadtmitte.",
+    "The theatre is in the city centre."
+   ]
+  ],
+  "Museum": [
+   [
+    "Am Sonntag besuchen wir das *Museum*.",
+    "On Sunday we're visiting the museum."
+   ],
+   [
+    "In Berlin gibt es viele *Museen*.",
+    "There are lots of museums in Berlin."
+   ]
+  ],
+  "Sendung": [
+   [
+    "Die *Sendung* beginnt um 20 Uhr.",
+    "The show starts at 8 p.m."
+   ],
+   [
+    "Ich sehe gern *Sendungen* über Tiere.",
+    "I like watching shows about animals."
+   ]
+  ],
+  "Radio": [
+   [
+    "Im Auto höre ich immer *Radio*.",
+    "I always listen to the radio in the car."
+   ],
+   [
+    "Das *Radio* ist zu laut.",
+    "The radio is too loud."
+   ]
+  ],
+  "besuchen": [
+   [
+    "Am Wochenende *besuche* ich meine Oma.",
+    "At the weekend I'm visiting my grandma."
+   ],
+   [
+    "Wir haben das Konzert *besucht*.",
+    "We went to the concert."
+   ]
+  ],
+  "Computer": [
+   [
+    "Mein *Computer* ist leider kaputt.",
+    "Unfortunately my computer is broken."
+   ],
+   [
+    "In der Schule gibt es zehn *Computer*.",
+    "There are ten computers at the school."
+   ]
+  ],
+  "Ball": [
+   [
+    "Wo ist der *Ball*?",
+    "Where's the ball?"
+   ],
+   [
+    "Die Kinder spielen mit zwei *Bällen*.",
+    "The children are playing with two balls."
+   ]
+  ],
+  "Kino": [
+   [
+    "Gehen wir heute ins *Kino*?",
+    "Shall we go to the cinema today?"
+   ],
+   [
+    "Das *Kino* ist neben dem Bahnhof.",
+    "The cinema is next to the station."
+   ]
+  ],
+  "Konzert": [
+   [
+    "Das *Konzert* beginnt um 19 Uhr.",
+    "The concert starts at 7 p.m."
+   ],
+   [
+    "Im Sommer gehe ich oft zu *Konzerten*.",
+    "In summer I often go to concerts."
+   ]
+  ],
+  "Gast": [
+   [
+    "Unser *Gast* kommt aus Spanien.",
+    "Our guest is from Spain."
+   ],
+   [
+    "Wir haben heute Abend viele *Gäste*.",
+    "We have lots of guests this evening."
+   ]
+  ],
+  "singen": [
+   [
+    "Meine Schwester *singt* sehr schön.",
+    "My sister sings beautifully."
+   ],
+   [
+    "Wir haben auf der Party *gesungen*.",
+    "We sang at the party."
+   ]
+  ],
+  "Zeitschrift": [
+   [
+    "Ich kaufe eine *Zeitschrift* am Bahnhof.",
+    "I'm buying a magazine at the station."
+   ],
+   [
+    "Auf dem Tisch liegen viele *Zeitschriften*.",
+    "There are lots of magazines on the table."
+   ]
+  ],
+  "langweilig": [
+   [
+    "Der Film ist echt *langweilig*.",
+    "The film is really boring."
+   ],
+   [
+    "Das war ein *langweiliges* Spiel.",
+    "That was a boring match."
+   ]
+  ],
+  "tanzen": [
+   [
+    "*Tanzt* du gern?",
+    "Do you like dancing?"
+   ],
+   [
+    "Wir haben die ganze Nacht *getanzt*.",
+    "We danced all night."
+   ]
+  ],
+  "Einladung": [
+   [
+    "Danke für die *Einladung*!",
+    "Thanks for the invitation!"
+   ],
+   [
+    "Ich schreibe heute die *Einladungen*.",
+    "I'm writing the invitations today."
+   ]
+  ],
+  "Freizeit": [
+   [
+    "Was machst du in deiner *Freizeit*?",
+    "What do you do in your free time?"
+   ],
+   [
+    "Ich habe leider wenig *Freizeit*.",
+    "Unfortunately I don't have much free time."
+   ]
+  ],
+  "schwimmen": [
+   [
+    "Im Sommer *schwimme* ich im See.",
+    "In summer I swim in the lake."
+   ],
+   [
+    "Bist du gestern *geschwommen*?",
+    "Did you go swimming yesterday?"
+   ]
+  ],
+  "Rad fahren": [
+   [
+    "Am Wochenende *fahre* ich gern *Rad*.",
+    "At the weekend I like cycling."
+   ],
+   [
+    "Wir sind zum See *Rad gefahren*.",
+    "We cycled to the lake."
+   ]
+  ],
+  "Fernseher": [
+   [
+    "Der *Fernseher* steht im Wohnzimmer.",
+    "The TV is in the living room."
+   ],
+   [
+    "Wir haben zwei *Fernseher* zu Hause.",
+    "We have two TVs at home."
+   ]
+  ],
+  "Hobby": [
+   [
+    "Mein *Hobby* ist Fotografieren.",
+    "My hobby is photography."
+   ],
+   [
+    "Was sind deine *Hobbys*?",
+    "What are your hobbies?"
+   ]
+  ],
+  "Gitarre": [
+   [
+    "Er spielt seit zwei Jahren *Gitarre*.",
+    "He's been playing guitar for two years."
+   ],
+   [
+    "Die *Gitarre* gehört meinem Bruder.",
+    "The guitar belongs to my brother."
+   ]
+  ],
+  "wandern": [
+   [
+    "Im Urlaub *wandern* wir in den Bergen.",
+    "On holiday we go hiking in the mountains."
+   ],
+   [
+    "Am Sonntag sind wir lange *gewandert*.",
+    "We went for a long hike on Sunday."
+   ]
+  ],
+  "Klavier": [
+   [
+    "Meine Tochter spielt *Klavier*.",
+    "My daughter plays the piano."
+   ],
+   [
+    "Das *Klavier* steht im Wohnzimmer.",
+    "The piano is in the living room."
+   ]
+  ],
+  "malen": [
+   [
+    "Meine Mutter *malt* gern Bilder.",
+    "My mother likes painting pictures."
+   ],
+   [
+    "Das Kind hat ein Haus *gemalt*.",
+    "The child painted a house."
+   ]
+  ],
+  "einladen": [
+   [
+    "Ich *lade* dich zum Essen *ein*.",
+    "I'm inviting you to dinner."
+   ],
+   [
+    "Wir haben zwanzig Gäste *eingeladen*.",
+    "We invited twenty guests."
+   ]
+  ],
+  "spazieren gehen": [
+   [
+    "Nach dem Essen *gehen* wir *spazieren*.",
+    "After the meal we go for a walk."
+   ],
+   [
+    "Ich bin im Park *spazieren gegangen*.",
+    "I went for a walk in the park."
+   ]
+  ],
+  "fotografieren": [
+   [
+    "Er *fotografiert* gern Tiere.",
+    "He likes taking photos of animals."
+   ],
+   [
+    "Hast du das Konzert *fotografiert*?",
+    "Did you take photos at the concert?"
+   ]
+  ],
+  "joggen": [
+   [
+    "Ich *jogge* jeden Morgen im Park.",
+    "I jog in the park every morning."
+   ],
+   [
+    "Wir sind gestern eine Stunde *gejoggt*.",
+    "We went jogging for an hour yesterday."
+   ]
+  ]
+ },
+ "de-koerper": {
+  "Kopf": [
+   [
+    "Mein *Kopf* ist heute so schwer.",
+    "My head feels so heavy today."
+   ],
+   [
+    "Die Kinder schütteln die *Köpfe*.",
+    "The children shake their heads."
+   ]
+  ],
+  "Hand": [
+   [
+    "Gib mir bitte die *Hand*.",
+    "Give me your hand, please."
+   ],
+   [
+    "Wasch dir vor dem Essen die *Hände*!",
+    "Wash your hands before eating!"
+   ]
+  ],
+  "schlecht": [
+   [
+    "Mir ist heute *schlecht*.",
+    "I feel unwell today."
+   ],
+   [
+    "Ich habe eine *schlechte* Nacht gehabt.",
+    "I had a bad night."
+   ]
+  ],
+  "Gesicht": [
+   [
+    "Dein *Gesicht* ist ganz rot.",
+    "Your face is all red."
+   ],
+   [
+    "Ich wasche mir morgens das *Gesicht*.",
+    "I wash my face in the morning."
+   ]
+  ],
+  "Herz": [
+   [
+    "Das *Herz* schlägt sehr schnell.",
+    "The heart is beating very fast."
+   ],
+   [
+    "Der Arzt hört mein *Herz* ab.",
+    "The doctor listens to my heart."
+   ]
+  ],
+  "Körper": [
+   [
+    "Sport ist gut für den *Körper*.",
+    "Exercise is good for the body."
+   ],
+   [
+    "Mein ganzer *Körper* tut weh.",
+    "My whole body hurts."
+   ]
+  ],
+  "Ruhe": [
+   [
+    "Sie brauchen jetzt viel *Ruhe*.",
+    "You need a lot of rest now."
+   ],
+   [
+    "*Ruhe* bitte! Das Baby schläft.",
+    "Quiet, please! The baby is sleeping."
+   ]
+  ],
+  "Arzt": [
+   [
+    "Ich gehe heute zum *Arzt*.",
+    "I'm going to the doctor today."
+   ],
+   [
+    "In der Praxis arbeiten zwei *Ärzte*.",
+    "Two doctors work at the practice."
+   ]
+  ],
+  "Auge": [
+   [
+    "Mein linkes *Auge* tut weh.",
+    "My left eye hurts."
+   ],
+   [
+    "Sie hat blaue *Augen*.",
+    "She has blue eyes."
+   ]
+  ],
+  "sich fühlen": [
+   [
+    "Ich *fühle* *mich* nicht gut.",
+    "I don't feel well."
+   ],
+   [
+    "Wie *fühlst* du *dich* heute?",
+    "How are you feeling today?"
+   ]
+  ],
+  "Fuß": [
+   [
+    "Mein rechter *Fuß* ist dick.",
+    "My right foot is swollen."
+   ],
+   [
+    "Ich habe kalte *Füße*.",
+    "My feet are cold."
+   ]
+  ],
+  "Rücken": [
+   [
+    "Ich habe Schmerzen im *Rücken*.",
+    "I have pain in my back."
+   ],
+   [
+    "Mein *Rücken* tut seit Montag weh.",
+    "My back has been hurting since Monday."
+   ]
+  ],
+  "Praxis": [
+   [
+    "Die *Praxis* öffnet um acht Uhr.",
+    "The practice opens at eight o'clock."
+   ],
+   [
+    "Ich rufe in der *Praxis* an.",
+    "I'm calling the doctor's office."
+   ]
+  ],
+  "Mund": [
+   [
+    "Bitte öffnen Sie den *Mund*.",
+    "Please open your mouth."
+   ],
+   [
+    "Mein *Mund* ist ganz trocken.",
+    "My mouth is really dry."
+   ]
+  ],
+  "Krankenhaus": [
+   [
+    "Er liegt seit gestern im *Krankenhaus*.",
+    "He's been in hospital since yesterday."
+   ],
+   [
+    "Das *Krankenhaus* ist nicht weit von hier.",
+    "The hospital isn't far from here."
+   ]
+  ],
+  "Arm": [
+   [
+    "Ich habe mir den *Arm* gebrochen.",
+    "I've broken my arm."
+   ],
+   [
+    "Heben Sie bitte beide *Arme*.",
+    "Please raise both arms."
+   ]
+  ],
+  "krank": [
+   [
+    "Ich bin heute *krank*.",
+    "I'm sick today."
+   ],
+   [
+    "Das *kranke* Kind bleibt zu Hause.",
+    "The sick child is staying at home."
+   ]
+  ],
+  "Gesundheit": [
+   [
+    "„Hatschi!“ – „*Gesundheit*!“",
+    "\"Achoo!\" – \"Bless you!\""
+   ],
+   [
+    "Die *Gesundheit* ist sehr wichtig.",
+    "Health is very important."
+   ]
+  ],
+  "Finger": [
+   [
+    "Ich habe mich in den *Finger* geschnitten.",
+    "I've cut my finger."
+   ],
+   [
+    "Meine *Finger* sind ganz kalt.",
+    "My fingers are really cold."
+   ]
+  ],
+  "Nase": [
+   [
+    "Meine *Nase* läuft.",
+    "My nose is running."
+   ],
+   [
+    "Er hat eine rote *Nase*.",
+    "He has a red nose."
+   ]
+  ],
+  "gesund": [
+   [
+    "Mein Opa ist noch sehr *gesund*.",
+    "My grandpa is still very healthy."
+   ],
+   [
+    "Obst ist ein *gesundes* Essen.",
+    "Fruit is healthy food."
+   ]
+  ],
+  "Schmerzen": [
+   [
+    "Ich habe starke *Schmerzen* im Bauch.",
+    "I have bad stomach pain."
+   ],
+   [
+    "Haben Sie oft *Kopfschmerzen*?",
+    "Do you often get headaches?"
+   ]
+  ],
+  "müde": [
+   [
+    "Ich bin heute sehr *müde*.",
+    "I'm very tired today."
+   ],
+   [
+    "Die *müden* Kinder gehen früh ins Bett.",
+    "The tired children go to bed early."
+   ]
+  ],
+  "Hals": [
+   [
+    "Mein *Hals* tut weh.",
+    "My throat hurts."
+   ],
+   [
+    "Er trägt einen Schal um den *Hals*.",
+    "He's wearing a scarf around his neck."
+   ]
+  ],
+  "Haar": [
+   [
+    "Da ist ein *Haar* in meiner Suppe!",
+    "There's a hair in my soup!"
+   ],
+   [
+    "Sie hat lange, braune *Haare*.",
+    "She has long brown hair."
+   ]
+  ],
+  "Bauch": [
+   [
+    "Mir tut der *Bauch* weh.",
+    "My stomach hurts."
+   ],
+   [
+    "Nach dem Essen ist mein *Bauch* voll.",
+    "My stomach is full after eating."
+   ]
+  ],
+  "Rezept": [
+   [
+    "Der Arzt gibt mir ein *Rezept*.",
+    "The doctor gives me a prescription."
+   ],
+   [
+    "Mit dem *Rezept* gehe ich zur Apotheke.",
+    "I take the prescription to the pharmacy."
+   ]
+  ],
+  "Ohr": [
+   [
+    "Mein linkes *Ohr* tut weh.",
+    "My left ear hurts."
+   ],
+   [
+    "Hast du kalte *Ohren*?",
+    "Are your ears cold?"
+   ]
+  ],
+  "Knie": [
+   [
+    "Ich bin gefallen und mein *Knie* blutet.",
+    "I fell and my knee is bleeding."
+   ],
+   [
+    "Beim Laufen tun mir die *Knie* weh.",
+    "My knees hurt when I run."
+   ]
+  ],
+  "Bein": [
+   [
+    "Mein *Bein* tut beim Gehen weh.",
+    "My leg hurts when I walk."
+   ],
+   [
+    "Nach dem Sport sind meine *Beine* müde.",
+    "My legs are tired after exercise."
+   ]
+  ],
+  "untersuchen": [
+   [
+    "Die Ärztin *untersucht* das Kind.",
+    "The doctor examines the child."
+   ],
+   [
+    "Hat der Arzt Sie schon *untersucht*?",
+    "Has the doctor examined you yet?"
+   ]
+  ],
+  "Fieber": [
+   [
+    "Das Kind hat hohes *Fieber*.",
+    "The child has a high fever."
+   ],
+   [
+    "Ich messe jeden Morgen das *Fieber*.",
+    "I take my temperature every morning."
+   ]
+  ],
+  "Gute Besserung!": [
+   [
+    "Du bist krank? *Gute Besserung!*",
+    "You're sick? Get well soon!"
+   ],
+   [
+    "„Ich habe Grippe.“ – „Oh, *gute Besserung!*“",
+    "\"I've got the flu.\" – \"Oh, get well soon!\""
+   ]
+  ],
+  "Apotheke": [
+   [
+    "Die *Apotheke* ist gleich um die Ecke.",
+    "The pharmacy is just around the corner."
+   ],
+   [
+    "Ich hole die Tabletten in der *Apotheke*.",
+    "I'm picking up the tablets at the pharmacy."
+   ]
+  ],
+  "Zahn": [
+   [
+    "Mein *Zahn* tut sehr weh.",
+    "My tooth really hurts."
+   ],
+   [
+    "Putz dir bitte die *Zähne*!",
+    "Please brush your teeth!"
+   ]
+  ],
+  "Zahnarzt": [
+   [
+    "Morgen gehe ich zum *Zahnarzt*.",
+    "Tomorrow I'm going to the dentist."
+   ],
+   [
+    "Der *Zahnarzt* hat heute keine Termine mehr.",
+    "The dentist has no more appointments today."
+   ]
+  ],
+  "Ärztin": [
+   [
+    "Die *Ärztin* ist sehr nett.",
+    "The doctor is very nice."
+   ],
+   [
+    "Ich habe einen Termin bei der *Ärztin*.",
+    "I have an appointment with the doctor."
+   ]
+  ],
+  "Krankenkasse": [
+   [
+    "Bei welcher *Krankenkasse* sind Sie?",
+    "Which health insurance fund are you with?"
+   ],
+   [
+    "Die *Krankenkasse* bezahlt das Medikament.",
+    "The health insurance pays for the medicine."
+   ]
+  ],
+  "Husten": [
+   [
+    "Ich habe seit einer Woche *Husten*.",
+    "I've had a cough for a week."
+   ],
+   [
+    "Der *Husten* ist nachts schlimm.",
+    "The cough is bad at night."
+   ]
+  ],
+  "Medikament": [
+   [
+    "Nehmen Sie das *Medikament* dreimal am Tag.",
+    "Take the medicine three times a day."
+   ],
+   [
+    "Brauche ich für die *Medikamente* ein Rezept?",
+    "Do I need a prescription for the medicines?"
+   ]
+  ],
+  "Grippe": [
+   [
+    "Ich habe die *Grippe*.",
+    "I've got the flu."
+   ],
+   [
+    "Meine Frau war letzte Woche mit *Grippe* im Bett.",
+    "My wife was in bed with the flu last week."
+   ]
+  ],
+  "Erkältung": [
+   [
+    "Ich habe eine *Erkältung*.",
+    "I have a cold."
+   ],
+   [
+    "Im Winter haben viele Leute *Erkältungen*.",
+    "Lots of people get colds in winter."
+   ]
+  ],
+  "Schnupfen": [
+   [
+    "Ich habe *Schnupfen* und Husten.",
+    "I have a runny nose and a cough."
+   ],
+   [
+    "Der *Schnupfen* ist schon fast weg.",
+    "The runny nose is almost gone."
+   ]
+  ],
+  "Sprechstunde": [
+   [
+    "Die *Sprechstunde* ist von neun bis zwölf.",
+    "Consultation hours are from nine to twelve."
+   ],
+   [
+    "Wann hat der Arzt *Sprechstunde*?",
+    "When does the doctor see patients?"
+   ]
+  ],
+  "Wartezimmer": [
+   [
+    "Bitte nehmen Sie im *Wartezimmer* Platz.",
+    "Please take a seat in the waiting room."
+   ],
+   [
+    "Das *Wartezimmer* ist heute sehr voll.",
+    "The waiting room is very full today."
+   ]
+  ],
+  "Tablette": [
+   [
+    "Nehmen Sie eine *Tablette* nach dem Essen.",
+    "Take one tablet after eating."
+   ],
+   [
+    "Hast du die *Tabletten* schon genommen?",
+    "Have you taken the pills yet?"
+   ]
+  ],
+  "wehtun": [
+   [
+    "Mein Kopf *tut* sehr *weh*.",
+    "My head hurts a lot."
+   ],
+   [
+    "Hat die Spritze *wehgetan*?",
+    "Did the injection hurt?"
+   ]
+  ],
+  "Versicherungskarte": [
+   [
+    "Haben Sie Ihre *Versicherungskarte* dabei?",
+    "Do you have your health insurance card with you?"
+   ],
+   [
+    "Ich habe die *Versicherungskarte* zu Hause vergessen.",
+    "I left my insurance card at home."
+   ]
+  ]
+ },
+ "de-person": {
+  "Deutschland": [
+   [
+    "Ich wohne seit zwei Jahren in *Deutschland*.",
+    "I've been living in Germany for two years."
+   ],
+   [
+    "Kommst du aus *Deutschland*?",
+    "Are you from Germany?"
+   ]
+  ],
+  "Mann": [
+   [
+    "Mein *Mann* heißt Thomas.",
+    "My husband's name is Thomas."
+   ],
+   [
+    "Die zwei *Männer* sind Brüder.",
+    "The two men are brothers."
+   ]
+  ],
+  "kommen": [
+   [
+    "Ich *komme* aus Südafrika.",
+    "I'm from South Africa."
+   ],
+   [
+    "Wann bist du nach Berlin *gekommen*?",
+    "When did you come to Berlin?"
+   ]
+  ],
+  "Stadt": [
+   [
+    "Die *Stadt* ist klein, aber schön.",
+    "The town is small but pretty."
+   ],
+   [
+    "Ich wohne in einer großen *Stadt*.",
+    "I live in a big city."
+   ]
+  ],
+  "Frau": [
+   [
+    "Das ist meine *Frau* Anna.",
+    "This is my wife, Anna."
+   ],
+   [
+    "Guten Morgen, *Frau* Weber!",
+    "Good morning, Mrs Weber!"
+   ]
+  ],
+  "Leute": [
+   [
+    "Die *Leute* hier sind sehr nett.",
+    "The people here are very nice."
+   ],
+   [
+    "Ich kenne viele *Leute* aus Spanien.",
+    "I know a lot of people from Spain."
+   ]
+  ],
+  "Land": [
+   [
+    "Aus welchem *Land* kommst du?",
+    "Which country are you from?"
+   ],
+   [
+    "Meine Eltern wohnen auf dem *Land*.",
+    "My parents live in the countryside."
+   ]
+  ],
+  "Familie": [
+   [
+    "Meine *Familie* wohnt in Kapstadt.",
+    "My family lives in Cape Town."
+   ],
+   [
+    "Hast du eine große *Familie*?",
+    "Do you have a big family?"
+   ]
+  ],
+  "Alter": [
+   [
+    "Bitte schreiben Sie Ihr *Alter* hier.",
+    "Please write your age here."
+   ],
+   [
+    "Das *Alter* ist nicht wichtig.",
+    "Age doesn't matter."
+   ]
+  ],
+  "Straße": [
+   [
+    "In welcher *Straße* wohnst du?",
+    "What street do you live on?"
+   ],
+   [
+    "Die *Straße* heißt Gartenweg.",
+    "The street is called Gartenweg."
+   ]
+  ],
+  "Kind": [
+   [
+    "Wir haben ein *Kind*, einen Sohn.",
+    "We have one child, a son."
+   ],
+   [
+    "Die *Kinder* sind fünf und acht Jahre alt.",
+    "The children are five and eight years old."
+   ]
+  ],
+  "Eltern": [
+   [
+    "Meine *Eltern* wohnen in Hamburg.",
+    "My parents live in Hamburg."
+   ],
+   [
+    "Ich besuche am Sonntag meine *Eltern*.",
+    "I'm visiting my parents on Sunday."
+   ]
+  ],
+  "Mutter": [
+   [
+    "Meine *Mutter* ist Lehrerin.",
+    "My mother is a teacher."
+   ],
+   [
+    "Ich telefoniere jeden Tag mit meiner *Mutter*.",
+    "I talk to my mother on the phone every day."
+   ]
+  ],
+  "Herr": [
+   [
+    "Das ist *Herr* Schmidt, mein Kollege.",
+    "This is Mr Schmidt, my colleague."
+   ],
+   [
+    "Guten Tag, meine Damen und *Herren*!",
+    "Good afternoon, ladies and gentlemen!"
+   ]
+  ],
+  "Deutsch": [
+   [
+    "Ich lerne seit einem Jahr *Deutsch*.",
+    "I've been learning German for a year."
+   ],
+   [
+    "Sprechen Sie *Deutsch*?",
+    "Do you speak German?"
+   ]
+  ],
+  "Guten Tag": [
+   [
+    "*Guten Tag*, Frau Müller! – *Guten Tag*!",
+    "Hello, Mrs Müller! – Hello!"
+   ],
+   [
+    "*Guten Tag*, mein Name ist Lehmann.",
+    "Good afternoon, my name is Lehmann."
+   ]
+  ],
+  "Sohn": [
+   [
+    "Mein *Sohn* ist zehn Jahre alt.",
+    "My son is ten years old."
+   ],
+   [
+    "Sie hat zwei *Söhne* und eine Tochter.",
+    "She has two sons and a daughter."
+   ]
+  ],
+  "Vater": [
+   [
+    "Mein *Vater* kommt aus Italien.",
+    "My father is from Italy."
+   ],
+   [
+    "Ich habe meinen *Vater* gestern angerufen.",
+    "I called my father yesterday."
+   ]
+  ],
+  "Österreich": [
+   [
+    "Sie kommt aus *Österreich*, aus Wien.",
+    "She's from Austria, from Vienna."
+   ],
+   [
+    "Wir haben in *Österreich* gewohnt.",
+    "We lived in Austria."
+   ]
+  ],
+  "alt": [
+   [
+    "Wie *alt* bist du? – Ich bin dreißig.",
+    "How old are you? – I'm thirty."
+   ],
+   [
+    "Mein Bruder ist zwei Jahre *älter*.",
+    "My brother is two years older."
+   ]
+  ],
+  "Name": [
+   [
+    "Wie ist Ihr *Name*, bitte?",
+    "What's your name, please?"
+   ],
+   [
+    "Mein *Name* ist Peter Braun.",
+    "My name is Peter Braun."
+   ]
+  ],
+  "sprechen": [
+   [
+    "Ich *spreche* Englisch und ein bisschen Deutsch.",
+    "I speak English and a little German."
+   ],
+   [
+    "*Spricht* deine Mutter Französisch?",
+    "Does your mother speak French?"
+   ]
+  ],
+  "Freund": [
+   [
+    "Das ist mein *Freund* Max.",
+    "This is my friend Max."
+   ],
+   [
+    "Ich habe viele *Freunde* in München.",
+    "I have lots of friends in Munich."
+   ]
+  ],
+  "Schweiz": [
+   [
+    "Mein Onkel wohnt in der *Schweiz*.",
+    "My uncle lives in Switzerland."
+   ],
+   [
+    "Die *Schweiz* hat vier Sprachen.",
+    "Switzerland has four languages."
+   ]
+  ],
+  "Tochter": [
+   [
+    "Unsere *Tochter* heißt Lena.",
+    "Our daughter is called Lena."
+   ],
+   [
+    "Sie haben drei *Töchter*.",
+    "They have three daughters."
+   ]
+  ],
+  "Sprache": [
+   [
+    "Welche *Sprachen* sprechen Sie?",
+    "Which languages do you speak?"
+   ],
+   [
+    "Deutsch ist eine schöne *Sprache*.",
+    "German is a beautiful language."
+   ]
+  ],
+  "Hallo": [
+   [
+    "*Hallo*, ich bin Sara!",
+    "Hi, I'm Sara!"
+   ],
+   [
+    "*Hallo* Tom, wie geht's?",
+    "Hello Tom, how are you?"
+   ]
+  ],
+  "Bruder": [
+   [
+    "Mein *Bruder* wohnt in London.",
+    "My brother lives in London."
+   ],
+   [
+    "Ich habe zwei *Brüder*.",
+    "I have two brothers."
+   ]
+  ],
+  "Freundin": [
+   [
+    "Das ist meine *Freundin* Julia.",
+    "This is my girlfriend Julia."
+   ],
+   [
+    "Ich gehe mit meinen *Freundinnen* ins Kino.",
+    "I'm going to the cinema with my friends."
+   ]
+  ],
+  "Englisch": [
+   [
+    "Ich spreche gut *Englisch*.",
+    "I speak good English."
+   ],
+   [
+    "*Englisch* ist meine Muttersprache.",
+    "English is my mother tongue."
+   ]
+  ],
+  "Wie geht's?": [
+   [
+    "Hallo Anna, *wie geht's?* – Gut, danke!",
+    "Hi Anna, how are you? – Good, thanks!"
+   ],
+   [
+    "*Wie geht's?* – Na ja, es geht.",
+    "How are you? – Oh, so-so."
+   ]
+  ],
+  "heißen": [
+   [
+    "Ich *heiße* Ben. Und wie *heißt* du?",
+    "My name is Ben. And what's yours?"
+   ],
+   [
+    "Wie *heißt* deine Schwester?",
+    "What's your sister's name?"
+   ]
+  ],
+  "geboren": [
+   [
+    "Ich bin 1990 *geboren*.",
+    "I was born in 1990."
+   ],
+   [
+    "Wo bist du *geboren*? – In Durban.",
+    "Where were you born? – In Durban."
+   ]
+  ],
+  "Partner": [
+   [
+    "Mein *Partner* arbeitet als Arzt.",
+    "My partner works as a doctor."
+   ],
+   [
+    "Wohnst du mit deinem *Partner* zusammen?",
+    "Do you live with your partner?"
+   ]
+  ],
+  "Geburtstag": [
+   [
+    "Wann hast du *Geburtstag*?",
+    "When is your birthday?"
+   ],
+   [
+    "Mein *Geburtstag* ist im Mai.",
+    "My birthday is in May."
+   ]
+  ],
+  "Schwester": [
+   [
+    "Meine *Schwester* ist Studentin.",
+    "My sister is a student."
+   ],
+   [
+    "Ich habe zwei *Schwestern* und einen Bruder.",
+    "I have two sisters and a brother."
+   ]
+  ],
+  "Ausland": [
+   [
+    "Mein Sohn wohnt im *Ausland*.",
+    "My son lives abroad."
+   ],
+   [
+    "Ich habe drei Jahre im *Ausland* gearbeitet.",
+    "I worked abroad for three years."
+   ]
+  ],
+  "wohnen": [
+   [
+    "Ich *wohne* in Johannesburg.",
+    "I live in Johannesburg."
+   ],
+   [
+    "Wo *wohnen* Sie jetzt?",
+    "Where do you live now?"
+   ]
+  ],
+  "Baby": [
+   [
+    "Das *Baby* ist drei Monate alt.",
+    "The baby is three months old."
+   ],
+   [
+    "Meine Schwester hat ein *Baby* bekommen.",
+    "My sister has had a baby."
+   ]
+  ],
+  "jung": [
+   [
+    "Meine Mutter ist noch *jung*.",
+    "My mother is still young."
+   ],
+   [
+    "Er ist ein *junger* Mann aus Polen.",
+    "He's a young man from Poland."
+   ]
+  ],
+  "Beruf": [
+   [
+    "Was sind Sie von *Beruf*?",
+    "What do you do for a living?"
+   ],
+   [
+    "Mein *Beruf* ist interessant.",
+    "My job is interesting."
+   ]
+  ],
+  "E-Mail": [
+   [
+    "Hast du meine *E-Mail* bekommen?",
+    "Did you get my email?"
+   ],
+   [
+    "Ich schreibe dir eine *E-Mail*.",
+    "I'll write you an email."
+   ]
+  ],
+  "Adresse": [
+   [
+    "Wie ist Ihre *Adresse*?",
+    "What's your address?"
+   ],
+   [
+    "Ich habe eine neue *Adresse*.",
+    "I have a new address."
+   ]
+  ],
+  "verheiratet": [
+   [
+    "Sind Sie *verheiratet*? – Ja, seit fünf Jahren.",
+    "Are you married? – Yes, for five years."
+   ],
+   [
+    "Mein Bruder ist nicht *verheiratet*.",
+    "My brother isn't married."
+   ]
+  ],
+  "Oma": [
+   [
+    "Meine *Oma* ist achtzig Jahre alt.",
+    "My grandma is eighty years old."
+   ],
+   [
+    "Am Wochenende besuchen wir die *Oma*.",
+    "At the weekend we're visiting Grandma."
+   ]
+  ],
+  "Onkel": [
+   [
+    "Mein *Onkel* wohnt in Kanada.",
+    "My uncle lives in Canada."
+   ],
+   [
+    "Ich habe zwei *Onkel* und eine Tante.",
+    "I have two uncles and an aunt."
+   ]
+  ],
+  "Opa": [
+   [
+    "Mein *Opa* spricht nur Deutsch.",
+    "My grandpa only speaks German."
+   ],
+   [
+    "Ich habe meinem *Opa* eine Karte geschrieben.",
+    "I wrote my grandpa a card."
+   ]
+  ],
+  "Tante": [
+   [
+    "Meine *Tante* ist Ärztin.",
+    "My aunt is a doctor."
+   ],
+   [
+    "Hast du *Tanten* in Deutschland?",
+    "Do you have aunts in Germany?"
+   ]
+  ],
+  "Auf Wiedersehen": [
+   [
+    "Danke und *auf Wiedersehen*, Herr Klein!",
+    "Thank you and goodbye, Mr Klein!"
+   ],
+   [
+    "*Auf Wiedersehen*! – Tschüss, bis morgen!",
+    "Goodbye! – Bye, see you tomorrow!"
+   ]
+  ],
+  "Telefonnummer": [
+   [
+    "Wie ist deine *Telefonnummer*?",
+    "What's your phone number?"
+   ],
+   [
+    "Ich habe seine *Telefonnummer* nicht.",
+    "I don't have his phone number."
+   ]
+  ],
+  "Geschwister": [
+   [
+    "Hast du *Geschwister*?",
+    "Do you have any brothers or sisters?"
+   ],
+   [
+    "Meine *Geschwister* wohnen alle in Berlin.",
+    "My siblings all live in Berlin."
+   ]
+  ],
+  "Großvater": [
+   [
+    "Mein *Großvater* kommt aus Ungarn.",
+    "My grandfather is from Hungary."
+   ],
+   [
+    "Beide *Großväter* waren Lehrer.",
+    "Both grandfathers were teachers."
+   ]
+  ],
+  "Großmutter": [
+   [
+    "Meine *Großmutter* wohnt bei uns.",
+    "My grandmother lives with us."
+   ],
+   [
+    "Ich habe meine *Großmutter* lange nicht gesehen.",
+    "I haven't seen my grandmother for a long time."
+   ]
+  ],
+  "Tschüss": [
+   [
+    "*Tschüss*, bis morgen!",
+    "Bye, see you tomorrow!"
+   ],
+   [
+    "Ich muss jetzt gehen. *Tschüss*!",
+    "I have to go now. Bye!"
+   ]
+  ],
+  "ausfüllen": [
+   [
+    "Bitte *füllen* Sie das Formular *aus*.",
+    "Please fill in the form."
+   ],
+   [
+    "Hast du den Antrag schon *ausgefüllt*?",
+    "Have you filled in the application yet?"
+   ]
+  ],
+  "Muttersprache": [
+   [
+    "Meine *Muttersprache* ist Afrikaans.",
+    "My mother tongue is Afrikaans."
+   ],
+   [
+    "Was ist Ihre *Muttersprache*?",
+    "What's your native language?"
+   ]
+  ],
+  "Vorname": [
+   [
+    "Mein *Vorname* ist Lukas.",
+    "My first name is Lukas."
+   ],
+   [
+    "Schreiben Sie bitte Ihren *Vornamen* hier.",
+    "Please write your first name here."
+   ]
+  ],
+  "Formular": [
+   [
+    "Das *Formular* ist auf Deutsch.",
+    "The form is in German."
+   ],
+   [
+    "Ich muss noch zwei *Formulare* ausfüllen.",
+    "I still have to fill in two forms."
+   ]
+  ],
+  "geschieden": [
+   [
+    "Ich bin seit drei Jahren *geschieden*.",
+    "I've been divorced for three years."
+   ],
+   [
+    "Sind Ihre Eltern *geschieden*?",
+    "Are your parents divorced?"
+   ]
+  ],
+  "Nachname": [
+   [
+    "Wie ist Ihr *Nachname*?",
+    "What's your surname?"
+   ],
+   [
+    "Ihr *Nachname* ist Fischer.",
+    "Her surname is Fischer."
+   ]
+  ],
+  "Hausnummer": [
+   [
+    "Ich wohne in der Bergstraße, *Hausnummer* 12.",
+    "I live on Bergstraße, number 12."
+   ],
+   [
+    "Die *Hausnummer* fehlt im Formular.",
+    "The house number is missing on the form."
+   ]
+  ],
+  "Geburtsort": [
+   [
+    "Mein *Geburtsort* ist Pretoria.",
+    "My place of birth is Pretoria."
+   ],
+   [
+    "Bitte schreiben Sie hier Ihren *Geburtsort*.",
+    "Please write your place of birth here."
+   ]
+  ],
+  "ledig": [
+   [
+    "Sind Sie verheiratet? – Nein, ich bin *ledig*.",
+    "Are you married? – No, I'm single."
+   ],
+   [
+    "Meine Schwester ist noch *ledig*.",
+    "My sister is still single."
+   ]
+  ],
+  "Postleitzahl": [
+   [
+    "Wie ist die *Postleitzahl* von Köln?",
+    "What's the postcode for Cologne?"
+   ],
+   [
+    "Die *Postleitzahl* hat fünf Zahlen.",
+    "The postcode has five digits."
+   ]
+  ],
+  "Familienname": [
+   [
+    "Mein *Familienname* ist Becker.",
+    "My family name is Becker."
+   ],
+   [
+    "Wie schreibt man Ihren *Familiennamen*?",
+    "How do you spell your surname?"
+   ]
+  ],
+  "buchstabieren": [
+   [
+    "Können Sie das bitte *buchstabieren*?",
+    "Could you spell that, please?"
+   ],
+   [
+    "Ich *buchstabiere*: M-E-Y-E-R.",
+    "I'll spell it: M-E-Y-E-R."
+   ]
+  ]
+ },
+ "de-reisen": {
+  "einfach": [
+   [
+    "Eine *einfache* Fahrkarte nach Berlin, bitte.",
+    "A one-way ticket to Berlin, please."
+   ],
+   [
+    "Der Weg zum Bahnhof ist ganz *einfach*.",
+    "The way to the station is really simple."
+   ]
+  ],
+  "Weg": [
+   [
+    "Ist das der *Weg* zum Bahnhof?",
+    "Is this the way to the station?"
+   ],
+   [
+    "Die *Wege* in den Bergen sind sehr schön.",
+    "The paths in the mountains are very beautiful."
+   ]
+  ],
+  "zurück": [
+   [
+    "Eine Fahrkarte hin und *zurück*, bitte.",
+    "A return ticket, please."
+   ],
+   [
+    "Wir sind am Sonntag wieder *zurück*.",
+    "We'll be back on Sunday."
+   ]
+  ],
+  "weit": [
+   [
+    "Ist der Flughafen *weit*?",
+    "Is the airport far?"
+   ],
+   [
+    "Wir machen eine *weite* Reise nach Australien.",
+    "We're taking a long trip to Australia."
+   ]
+  ],
+  "direkt": [
+   [
+    "Der Zug fährt *direkt* nach München.",
+    "The train goes direct to Munich."
+   ],
+   [
+    "Gibt es eine *direkte* Verbindung nach Wien?",
+    "Is there a direct connection to Vienna?"
+   ]
+  ],
+  "Auto": [
+   [
+    "Das *Auto* steht vor dem Haus.",
+    "The car is parked in front of the house."
+   ],
+   [
+    "Wir fahren mit dem *Auto* in den Urlaub.",
+    "We're driving on holiday."
+   ]
+  ],
+  "fahren": [
+   [
+    "Er *fährt* morgen nach Hamburg.",
+    "He's going to Hamburg tomorrow."
+   ],
+   [
+    "Wir sind gestern mit dem Zug *gefahren*.",
+    "We went by train yesterday."
+   ]
+  ],
+  "Bahn": [
+   [
+    "Ich fahre mit der *Bahn* nach Köln.",
+    "I'm taking the train to Cologne."
+   ],
+   [
+    "Die *Bahn* hat heute wieder Verspätung.",
+    "The train is late again today."
+   ]
+  ],
+  "S-Bahn": [
+   [
+    "Die *S-Bahn* fährt direkt zum Flughafen.",
+    "The suburban train goes straight to the airport."
+   ],
+   [
+    "Nimm die *S-Bahn*, das geht schneller.",
+    "Take the suburban train, it's quicker."
+   ]
+  ],
+  "Zug": [
+   [
+    "Der *Zug* nach Berlin kommt um acht.",
+    "The train to Berlin arrives at eight."
+   ],
+   [
+    "Die *Züge* sind heute sehr voll.",
+    "The trains are very full today."
+   ]
+  ],
+  "U-Bahn": [
+   [
+    "Ich fahre mit der *U-Bahn* zur Uni.",
+    "I take the underground to university."
+   ],
+   [
+    "Am Morgen ist die *U-Bahn* sehr voll.",
+    "The metro is very crowded in the morning."
+   ]
+  ],
+  "Hotel": [
+   [
+    "Das *Hotel* ist direkt am Bahnhof.",
+    "The hotel is right by the station."
+   ],
+   [
+    "Ich suche ein billiges *Hotel* im Zentrum.",
+    "I'm looking for a cheap hotel in the centre."
+   ]
+  ],
+  "Reise": [
+   [
+    "Die *Reise* nach Spanien war toll.",
+    "The trip to Spain was great."
+   ],
+   [
+    "Gute *Reise*! – Danke, bis bald!",
+    "Have a good trip! – Thanks, see you soon!"
+   ]
+  ],
+  "Urlaub": [
+   [
+    "Wir machen im August *Urlaub*.",
+    "We're going on holiday in August."
+   ],
+   [
+    "Der *Urlaub* in Griechenland war wunderbar.",
+    "The holiday in Greece was wonderful."
+   ]
+  ],
+  "Flughafen": [
+   [
+    "Wie komme ich zum *Flughafen*?",
+    "How do I get to the airport?"
+   ],
+   [
+    "Der *Flughafen* ist weit von der Stadt.",
+    "The airport is far from the city."
+   ]
+  ],
+  "Bus": [
+   [
+    "Der *Bus* kommt in fünf Minuten.",
+    "The bus is coming in five minutes."
+   ],
+   [
+    "Ich fahre jeden Tag mit dem *Bus*.",
+    "I take the bus every day."
+   ]
+  ],
+  "Meer": [
+   [
+    "Im Sommer fahren wir ans *Meer*.",
+    "In summer we go to the seaside."
+   ],
+   [
+    "Das *Meer* ist heute sehr ruhig.",
+    "The sea is very calm today."
+   ]
+  ],
+  "reisen": [
+   [
+    "Ich *reise* gern mit dem Zug.",
+    "I like travelling by train."
+   ],
+   [
+    "Wir sind letztes Jahr nach Japan *gereist*.",
+    "We travelled to Japan last year."
+   ]
+  ],
+  "Schiff": [
+   [
+    "Wir fahren mit dem *Schiff* nach Schweden.",
+    "We're going to Sweden by ship."
+   ],
+   [
+    "Das *Schiff* ist sehr groß.",
+    "The ship is very big."
+   ]
+  ],
+  "Bahnhof": [
+   [
+    "Entschuldigung, wo ist der *Bahnhof*?",
+    "Excuse me, where is the train station?"
+   ],
+   [
+    "Ich warte am *Bahnhof* auf dich.",
+    "I'll wait for you at the station."
+   ]
+  ],
+  "fliegen": [
+   [
+    "Wir *fliegen* morgen nach London.",
+    "We're flying to London tomorrow."
+   ],
+   [
+    "Bist du schon einmal nach Amerika *geflogen*?",
+    "Have you ever flown to America?"
+   ]
+  ],
+  "Information": [
+   [
+    "Die *Information* ist am Eingang.",
+    "The information desk is at the entrance."
+   ],
+   [
+    "Ich brauche *Informationen* über die Züge nach Wien.",
+    "I need information about the trains to Vienna."
+   ]
+  ],
+  "Pass": [
+   [
+    "Haben Sie Ihren *Pass* dabei?",
+    "Do you have your passport with you?"
+   ],
+   [
+    "Mein *Pass* liegt im Koffer.",
+    "My passport is in the suitcase."
+   ]
+  ],
+  "nah": [
+   [
+    "Der Bahnhof ist ganz *nah*.",
+    "The station is very close."
+   ],
+   [
+    "Wo ist die *nächste* Tankstelle?",
+    "Where is the nearest petrol station?"
+   ]
+  ],
+  "Fahrrad": [
+   [
+    "Ich fahre mit dem *Fahrrad* zur Arbeit.",
+    "I cycle to work."
+   ],
+   [
+    "Mein *Fahrrad* ist kaputt.",
+    "My bike is broken."
+   ]
+  ],
+  "Flugzeug": [
+   [
+    "Das *Flugzeug* landet um 14 Uhr.",
+    "The plane lands at 2 p.m."
+   ],
+   [
+    "Ich reise nicht gern mit dem *Flugzeug*.",
+    "I don't like travelling by plane."
+   ]
+  ],
+  "Strand": [
+   [
+    "Wir gehen jeden Tag an den *Strand*.",
+    "We go to the beach every day."
+   ],
+   [
+    "Der *Strand* ist schön und sauber.",
+    "The beach is nice and clean."
+   ]
+  ],
+  "Eingang": [
+   [
+    "Wo ist der *Eingang*?",
+    "Where is the entrance?"
+   ],
+   [
+    "Wir treffen uns am *Eingang* vom Bahnhof.",
+    "Let's meet at the station entrance."
+   ]
+  ],
+  "Parkplatz": [
+   [
+    "Ich finde keinen *Parkplatz*.",
+    "I can't find a parking space."
+   ],
+   [
+    "Hat das Hotel einen *Parkplatz*?",
+    "Does the hotel have parking?"
+   ]
+  ],
+  "Ticket": [
+   [
+    "Ich habe das *Ticket* online gekauft.",
+    "I bought the ticket online."
+   ],
+   [
+    "Was kostet ein *Ticket* nach Hamburg?",
+    "How much is a ticket to Hamburg?"
+   ]
+  ],
+  "pünktlich": [
+   [
+    "Der Zug ist heute *pünktlich*.",
+    "The train is on time today."
+   ],
+   [
+    "Der Bus kommt nie *pünktlich*.",
+    "The bus is never on time."
+   ]
+  ],
+  "Ankunft": [
+   [
+    "Die *Ankunft* ist um 18 Uhr.",
+    "Arrival is at 6 p.m."
+   ],
+   [
+    "Nach der *Ankunft* rufe ich dich an.",
+    "I'll call you after I arrive."
+   ]
+  ],
+  "Ausgang": [
+   [
+    "Wo ist der *Ausgang*?",
+    "Where is the exit?"
+   ],
+   [
+    "Das Taxi wartet am *Ausgang*.",
+    "The taxi is waiting at the exit."
+   ]
+  ],
+  "Koffer": [
+   [
+    "Mein *Koffer* ist sehr schwer.",
+    "My suitcase is very heavy."
+   ],
+   [
+    "Wir haben zwei *Koffer* und einen Rucksack.",
+    "We have two suitcases and a backpack."
+   ]
+  ],
+  "Führerschein": [
+   [
+    "Hast du einen *Führerschein*?",
+    "Do you have a driving licence?"
+   ],
+   [
+    "Ich habe den *Führerschein* letztes Jahr gemacht.",
+    "I got my driving licence last year."
+   ]
+  ],
+  "Ferien": [
+   [
+    "In den *Ferien* fahren wir ans Meer.",
+    "In the holidays we go to the seaside."
+   ],
+   [
+    "Die *Ferien* beginnen im Juli.",
+    "The holidays start in July."
+   ]
+  ],
+  "Taxi": [
+   [
+    "Wir nehmen ein *Taxi* zum Hotel.",
+    "We'll take a taxi to the hotel."
+   ],
+   [
+    "Das *Taxi* kommt in zehn Minuten.",
+    "The taxi is coming in ten minutes."
+   ]
+  ],
+  "Benzin": [
+   [
+    "Das *Benzin* ist sehr teuer.",
+    "Petrol is very expensive."
+   ],
+   [
+    "Wir brauchen noch *Benzin*.",
+    "We still need petrol."
+   ]
+  ],
+  "ankommen": [
+   [
+    "Der Zug *kommt* um neun Uhr *an*.",
+    "The train arrives at nine o'clock."
+   ],
+   [
+    "Wir sind gut in Berlin *angekommen*.",
+    "We arrived safely in Berlin."
+   ]
+  ],
+  "Abfahrt": [
+   [
+    "Die *Abfahrt* ist um 7:30 Uhr.",
+    "Departure is at 7:30."
+   ],
+   [
+    "Wir treffen uns zehn Minuten vor der *Abfahrt*.",
+    "Let's meet ten minutes before departure."
+   ]
+  ],
+  "buchen": [
+   [
+    "Ich *buche* ein Zimmer für zwei Nächte.",
+    "I'm booking a room for two nights."
+   ],
+   [
+    "Hast du die Reise schon *gebucht*?",
+    "Have you booked the trip yet?"
+   ]
+  ],
+  "Gepäck": [
+   [
+    "Wo kann ich mein *Gepäck* lassen?",
+    "Where can I leave my luggage?"
+   ],
+   [
+    "Das *Gepäck* ist schon im Auto.",
+    "The luggage is already in the car."
+   ]
+  ],
+  "Rucksack": [
+   [
+    "Ich reise nur mit einem *Rucksack*.",
+    "I only travel with a backpack."
+   ],
+   [
+    "Der *Rucksack* ist zu schwer.",
+    "The backpack is too heavy."
+   ]
+  ],
+  "einsteigen": [
+   [
+    "Bitte *steigen* Sie schnell *ein*!",
+    "Please get on quickly!"
+   ],
+   [
+    "Wir sind in Hamburg *eingestiegen*.",
+    "We got on in Hamburg."
+   ]
+  ],
+  "Kreuzung": [
+   [
+    "An der *Kreuzung* gehen Sie links.",
+    "Turn left at the crossroads."
+   ],
+   [
+    "Die Ampel an der *Kreuzung* ist rot.",
+    "The traffic light at the crossroads is red."
+   ]
+  ],
+  "Haltestelle": [
+   [
+    "Die *Haltestelle* ist direkt vor dem Hotel.",
+    "The stop is right in front of the hotel."
+   ],
+   [
+    "Ich warte an der *Haltestelle* auf den Bus.",
+    "I'm waiting at the stop for the bus."
+   ]
+  ],
+  "Verspätung": [
+   [
+    "Der Zug hat zehn Minuten *Verspätung*.",
+    "The train is ten minutes late."
+   ],
+   [
+    "Entschuldigung für die *Verspätung*!",
+    "Sorry for the delay!"
+   ]
+  ],
+  "Ampel": [
+   [
+    "Die *Ampel* ist rot.",
+    "The traffic light is red."
+   ],
+   [
+    "Gehen Sie bis zur *Ampel* und dann rechts.",
+    "Go as far as the traffic light and then turn right."
+   ]
+  ],
+  "parken": [
+   [
+    "Hier kann man nicht *parken*.",
+    "You can't park here."
+   ],
+   [
+    "Ich habe das Auto vor dem Hotel *geparkt*.",
+    "I parked the car in front of the hotel."
+   ]
+  ],
+  "Ausweis": [
+   [
+    "Kann ich bitte Ihren *Ausweis* sehen?",
+    "Can I see your ID, please?"
+   ],
+   [
+    "Ich habe meinen *Ausweis* zu Hause vergessen.",
+    "I left my ID card at home."
+   ]
+  ],
+  "Pension": [
+   [
+    "Wir schlafen in einer kleinen *Pension*.",
+    "We're staying in a small guesthouse."
+   ],
+   [
+    "Die *Pension* hat nur fünf Zimmer.",
+    "The guesthouse only has five rooms."
+   ]
+  ],
+  "Straßenbahn": [
+   [
+    "Ich fahre mit der *Straßenbahn* in die Stadt.",
+    "I take the tram into town."
+   ],
+   [
+    "Die *Straßenbahn* kommt alle zehn Minuten.",
+    "The tram comes every ten minutes."
+   ]
+  ],
+  "aussteigen": [
+   [
+    "Wir *steigen* am Hauptbahnhof *aus*.",
+    "We get off at the main station."
+   ],
+   [
+    "Wo bist du *ausgestiegen*?",
+    "Where did you get off?"
+   ]
+  ],
+  "Gleis": [
+   [
+    "Der Zug kommt auf *Gleis* 5 an.",
+    "The train arrives on platform 5."
+   ],
+   [
+    "Das *Gleis* ist dort drüben links.",
+    "The platform is over there on the left."
+   ]
+  ],
+  "übernachten": [
+   [
+    "Wir *übernachten* bei Freunden in Wien.",
+    "We're staying overnight with friends in Vienna."
+   ],
+   [
+    "Wo habt ihr *übernachtet*?",
+    "Where did you stay the night?"
+   ]
+  ],
+  "Fahrplan": [
+   [
+    "Der *Fahrplan* hängt an der Haltestelle.",
+    "The timetable is posted at the stop."
+   ],
+   [
+    "Ich schaue mal auf den *Fahrplan*.",
+    "I'll have a look at the timetable."
+   ]
+  ],
+  "umsteigen": [
+   [
+    "In Frankfurt *steigen* wir *um*.",
+    "We change trains in Frankfurt."
+   ],
+   [
+    "Ich bin zweimal *umgestiegen*.",
+    "I changed twice."
+   ]
+  ],
+  "Tourist": [
+   [
+    "Viele *Touristen* besuchen im Sommer Berlin.",
+    "Many tourists visit Berlin in summer."
+   ],
+   [
+    "Sind Sie *Tourist*? – Ja, aus England.",
+    "Are you a tourist? – Yes, from England."
+   ]
+  ],
+  "geradeaus": [
+   [
+    "Gehen Sie *geradeaus* und dann links.",
+    "Go straight ahead and then left."
+   ],
+   [
+    "Der Bahnhof? Immer *geradeaus*!",
+    "The station? Just keep going straight!"
+   ]
+  ],
+  "reservieren": [
+   [
+    "Ich möchte einen Platz im Zug *reservieren*.",
+    "I'd like to reserve a seat on the train."
+   ],
+   [
+    "Wir haben ein Doppelzimmer *reserviert*.",
+    "We've reserved a double room."
+   ]
+  ],
+  "Fahrkarte": [
+   [
+    "Wo kann ich eine *Fahrkarte* kaufen?",
+    "Where can I buy a ticket?"
+   ],
+   [
+    "Die *Fahrkarte* kostet zwölf Euro.",
+    "The ticket costs twelve euros."
+   ]
+  ],
+  "Reisebüro": [
+   [
+    "Wir buchen den Urlaub im *Reisebüro*.",
+    "We book our holiday at the travel agency."
+   ],
+   [
+    "Das *Reisebüro* ist neben der Bank.",
+    "The travel agency is next to the bank."
+   ]
+  ],
+  "abfahren": [
+   [
+    "Der Bus *fährt* um acht Uhr *ab*.",
+    "The bus leaves at eight o'clock."
+   ],
+   [
+    "Der Zug ist schon *abgefahren*.",
+    "The train has already left."
+   ]
+  ],
+  "Jugendherberge": [
+   [
+    "Die *Jugendherberge* ist billig und nett.",
+    "The youth hostel is cheap and nice."
+   ],
+   [
+    "Wir übernachten in einer *Jugendherberge*.",
+    "We're staying in a youth hostel."
+   ]
+  ],
+  "Stadtplan": [
+   [
+    "Haben Sie einen *Stadtplan* für mich?",
+    "Do you have a city map for me?"
+   ],
+   [
+    "Auf dem *Stadtplan* ist der Bahnhof hier.",
+    "On the map, the station is here."
+   ]
+  ],
+  "Einzelzimmer": [
+   [
+    "Ich möchte ein *Einzelzimmer* für drei Nächte.",
+    "I'd like a single room for three nights."
+   ],
+   [
+    "Das *Einzelzimmer* kostet 60 Euro pro Nacht.",
+    "The single room costs 60 euros a night."
+   ]
+  ],
+  "Doppelzimmer": [
+   [
+    "Haben Sie noch ein *Doppelzimmer* frei?",
+    "Do you still have a double room available?"
+   ],
+   [
+    "Die *Doppelzimmer* haben alle einen Balkon.",
+    "The double rooms all have a balcony."
+   ]
+  ]
+ },
+ "de-umwelt": {
+  "Sommer": [
+   [
+    "Im *Sommer* fahren wir ans Meer.",
+    "In summer we go to the seaside."
+   ],
+   [
+    "Der *Sommer* ist dieses Jahr sehr heiß.",
+    "The summer is very hot this year."
+   ]
+  ],
+  "Luft": [
+   [
+    "Die *Luft* ist hier sehr sauber.",
+    "The air here is very clean."
+   ],
+   [
+    "Ich brauche frische *Luft*.",
+    "I need some fresh air."
+   ]
+  ],
+  "Grad": [
+   [
+    "Heute sind es 25 *Grad*.",
+    "It's 25 degrees today."
+   ],
+   [
+    "Wie viel *Grad* hat das Wasser?",
+    "How warm is the water?"
+   ]
+  ],
+  "Natur": [
+   [
+    "Ich bin gern in der *Natur*.",
+    "I like being out in nature."
+   ],
+   [
+    "Die *Natur* in Österreich ist sehr schön.",
+    "The countryside in Austria is very beautiful."
+   ]
+  ],
+  "Erde": [
+   [
+    "Die *Erde* ist rund.",
+    "The earth is round."
+   ],
+   [
+    "Die Blumen brauchen gute *Erde*.",
+    "The flowers need good soil."
+   ]
+  ],
+  "Hund": [
+   [
+    "Mein *Hund* heißt Bello.",
+    "My dog is called Bello."
+   ],
+   [
+    "Im Park spielen viele *Hunde*.",
+    "Lots of dogs are playing in the park."
+   ]
+  ],
+  "Sonne": [
+   [
+    "Die *Sonne* ist heute sehr stark.",
+    "The sun is really strong today."
+   ],
+   [
+    "Wir sitzen gern in der *Sonne*.",
+    "We like sitting in the sun."
+   ]
+  ],
+  "Winter": [
+   [
+    "Der *Winter* in Berlin ist lang und kalt.",
+    "Winter in Berlin is long and cold."
+   ],
+   [
+    "Im *Winter* fahren wir Ski.",
+    "We go skiing in winter."
+   ]
+  ],
+  "Himmel": [
+   [
+    "Der *Himmel* ist heute ganz blau.",
+    "The sky is completely blue today."
+   ],
+   [
+    "Siehst du die Vögel am *Himmel*?",
+    "Can you see the birds in the sky?"
+   ]
+  ],
+  "Wald": [
+   [
+    "Wir gehen am Sonntag im *Wald* spazieren.",
+    "We go for a walk in the forest on Sunday."
+   ],
+   [
+    "In Deutschland gibt es viele *Wälder*.",
+    "There are lots of forests in Germany."
+   ]
+  ],
+  "See": [
+   [
+    "Der *See* ist im Sommer warm.",
+    "The lake is warm in summer."
+   ],
+   [
+    "Wir haben am *See* gegrillt.",
+    "We had a barbecue by the lake."
+   ]
+  ],
+  "Wetter": [
+   [
+    "Wie ist das *Wetter* heute?",
+    "What's the weather like today?"
+   ],
+   [
+    "Bei schlechtem *Wetter* bleibe ich zu Hause.",
+    "In bad weather I stay at home."
+   ]
+  ],
+  "Herbst": [
+   [
+    "Im *Herbst* sind die Blätter bunt.",
+    "In autumn the leaves are colourful."
+   ],
+   [
+    "Der *Herbst* ist meine Lieblingsjahreszeit.",
+    "Autumn is my favourite season."
+   ]
+  ],
+  "Dorf": [
+   [
+    "Meine Oma wohnt in einem kleinen *Dorf*.",
+    "My grandma lives in a small village."
+   ],
+   [
+    "Die *Dörfer* hier sind sehr ruhig.",
+    "The villages here are very quiet."
+   ]
+  ],
+  "Park": [
+   [
+    "Der *Park* ist gleich neben unserem Haus.",
+    "The park is right next to our house."
+   ],
+   [
+    "Wir machen ein Picknick im *Park*.",
+    "We're having a picnic in the park."
+   ]
+  ],
+  "Wind": [
+   [
+    "Der *Wind* ist heute sehr stark.",
+    "The wind is very strong today."
+   ],
+   [
+    "Am Meer gibt es oft kalte *Winde*.",
+    "There are often cold winds by the sea."
+   ]
+  ],
+  "Umwelt": [
+   [
+    "Wir müssen die *Umwelt* schützen.",
+    "We have to protect the environment."
+   ],
+   [
+    "Das Fahrrad ist gut für die *Umwelt*.",
+    "Cycling is good for the environment."
+   ]
+  ],
+  "Regen": [
+   [
+    "Der *Regen* hört nicht auf.",
+    "The rain won't stop."
+   ],
+   [
+    "Bei *Regen* nehme ich den Bus.",
+    "When it rains I take the bus."
+   ]
+  ],
+  "Baum": [
+   [
+    "Vor unserem Haus steht ein großer *Baum*.",
+    "There's a big tree in front of our house."
+   ],
+   [
+    "Im Herbst verlieren die *Bäume* ihre Blätter.",
+    "In autumn the trees lose their leaves."
+   ]
+  ],
+  "Berg": [
+   [
+    "Der *Berg* ist sehr hoch.",
+    "The mountain is very high."
+   ],
+   [
+    "Im Urlaub wandern wir in den *Bergen*.",
+    "On holiday we go hiking in the mountains."
+   ]
+  ],
+  "heiß": [
+   [
+    "Heute ist es sehr *heiß*.",
+    "It's very hot today."
+   ],
+   [
+    "Nach dem Sport trinke ich keinen *heißen* Tee.",
+    "After sport I don't drink hot tea."
+   ]
+  ],
+  "Tier": [
+   [
+    "Das *Tier* hat Hunger.",
+    "The animal is hungry."
+   ],
+   [
+    "Im Zoo sehen wir viele *Tiere*.",
+    "We see lots of animals at the zoo."
+   ]
+  ],
+  "kalt": [
+   [
+    "Im Januar ist es oft *kalt*.",
+    "It's often cold in January."
+   ],
+   [
+    "Heute ist es *kälter* als gestern.",
+    "Today it's colder than yesterday."
+   ]
+  ],
+  "scheinen": [
+   [
+    "Heute *scheint* die Sonne.",
+    "The sun is shining today."
+   ],
+   [
+    "Gestern hat die Sonne den ganzen Tag *geschienen*.",
+    "Yesterday the sun shone all day."
+   ]
+  ],
+  "Temperatur": [
+   [
+    "Die *Temperatur* ist heute sehr niedrig.",
+    "The temperature is very low today."
+   ],
+   [
+    "Im Sommer steigen die *Temperaturen* auf 30 Grad.",
+    "In summer temperatures rise to 30 degrees."
+   ]
+  ],
+  "warm": [
+   [
+    "Das Wasser ist schön *warm*.",
+    "The water is nice and warm."
+   ],
+   [
+    "Zieh eine *warme* Jacke an!",
+    "Put on a warm jacket!"
+   ]
+  ],
+  "Katze": [
+   [
+    "Die *Katze* schläft auf dem Sofa.",
+    "The cat is sleeping on the sofa."
+   ],
+   [
+    "Meine Nachbarin hat drei *Katzen*.",
+    "My neighbour has three cats."
+   ]
+  ],
+  "Schnee": [
+   [
+    "Der *Schnee* ist weiß und kalt.",
+    "The snow is white and cold."
+   ],
+   [
+    "Die Kinder spielen im *Schnee*.",
+    "The children are playing in the snow."
+   ]
+  ],
+  "Vogel": [
+   [
+    "Der *Vogel* singt am Morgen.",
+    "The bird sings in the morning."
+   ],
+   [
+    "Im Frühling kommen die *Vögel* zurück.",
+    "In spring the birds come back."
+   ]
+  ],
+  "Klima": [
+   [
+    "Das *Klima* in Spanien ist warm.",
+    "The climate in Spain is warm."
+   ],
+   [
+    "Wir sprechen heute über das *Klima*.",
+    "Today we're talking about the climate."
+   ]
+  ],
+  "Fluss": [
+   [
+    "Der *Fluss* fließt durch die Stadt.",
+    "The river flows through the town."
+   ],
+   [
+    "Der Rhein und die Donau sind große *Flüsse*.",
+    "The Rhine and the Danube are big rivers."
+   ]
+  ],
+  "Pferd": [
+   [
+    "Das *Pferd* steht auf der Wiese.",
+    "The horse is standing in the meadow."
+   ],
+   [
+    "Meine Tochter reitet gern auf *Pferden*.",
+    "My daughter loves riding horses."
+   ]
+  ],
+  "Müll": [
+   [
+    "Wohin kommt der *Müll*?",
+    "Where does the rubbish go?"
+   ],
+   [
+    "Bring bitte den *Müll* raus!",
+    "Please take the rubbish out!"
+   ]
+  ],
+  "trennen": [
+   [
+    "In Deutschland *trennen* wir den Müll.",
+    "In Germany we separate our rubbish."
+   ],
+   [
+    "Hast du das Papier *getrennt*?",
+    "Have you separated out the paper?"
+   ]
+  ],
+  "Gras": [
+   [
+    "Das *Gras* ist nach dem Regen nass.",
+    "The grass is wet after the rain."
+   ],
+   [
+    "Die Kühe fressen *Gras*.",
+    "The cows are eating grass."
+   ]
+  ],
+  "Frühling": [
+   [
+    "Der *Frühling* kommt im März.",
+    "Spring arrives in March."
+   ],
+   [
+    "Im *Frühling* blühen die Blumen.",
+    "The flowers bloom in spring."
+   ]
+  ],
+  "Pflanze": [
+   [
+    "Die *Pflanze* braucht viel Wasser.",
+    "The plant needs a lot of water."
+   ],
+   [
+    "In meinem Zimmer stehen viele *Pflanzen*.",
+    "There are lots of plants in my room."
+   ]
+  ],
+  "Nebel": [
+   [
+    "Heute Morgen gibt es viel *Nebel*.",
+    "There's a lot of fog this morning."
+   ],
+   [
+    "Im *Nebel* fahre ich langsam.",
+    "I drive slowly in fog."
+   ]
+  ],
+  "Schwein": [
+   [
+    "Das *Schwein* ist im Stall.",
+    "The pig is in the sty."
+   ],
+   [
+    "Auf dem Bauernhof gibt es viele *Schweine*.",
+    "There are lots of pigs on the farm."
+   ]
+  ],
+  "Kuh": [
+   [
+    "Die *Kuh* gibt Milch.",
+    "The cow gives milk."
+   ],
+   [
+    "Auf der Wiese stehen zehn *Kühe*.",
+    "There are ten cows in the meadow."
+   ]
+  ],
+  "Jahreszeit": [
+   [
+    "Welche *Jahreszeit* magst du am liebsten?",
+    "Which season do you like best?"
+   ],
+   [
+    "Das Jahr hat vier *Jahreszeiten*.",
+    "The year has four seasons."
+   ]
+  ],
+  "Blume": [
+   [
+    "Die *Blume* ist rot und schön.",
+    "The flower is red and pretty."
+   ],
+   [
+    "Ich kaufe *Blumen* für meine Mutter.",
+    "I'm buying flowers for my mother."
+   ]
+  ],
+  "kühl": [
+   [
+    "Am Abend wird es *kühl*.",
+    "It gets cool in the evening."
+   ],
+   [
+    "Ich trinke gern ein *kühles* Wasser.",
+    "I like a cool glass of water."
+   ]
+  ],
+  "Gewitter": [
+   [
+    "Heute Abend kommt ein *Gewitter*.",
+    "A thunderstorm is coming this evening."
+   ],
+   [
+    "Im Sommer gibt es hier oft *Gewitter*.",
+    "There are often thunderstorms here in summer."
+   ]
+  ],
+  "Wolke": [
+   [
+    "Am Himmel ist keine *Wolke*.",
+    "There isn't a cloud in the sky."
+   ],
+   [
+    "Die *Wolken* sind heute dunkel.",
+    "The clouds are dark today."
+   ]
+  ],
+  "regnen": [
+   [
+    "Es *regnet* schon den ganzen Tag.",
+    "It's been raining all day."
+   ],
+   [
+    "Hat es gestern *geregnet*?",
+    "Did it rain yesterday?"
+   ]
+  ],
+  "bewölkt": [
+   [
+    "Der Himmel ist heute *bewölkt*.",
+    "The sky is cloudy today."
+   ],
+   [
+    "Morgen wird es *bewölkt* und kühl.",
+    "Tomorrow it'll be cloudy and cool."
+   ]
+  ],
+  "sonnig": [
+   [
+    "Heute ist es *sonnig* und warm.",
+    "It's sunny and warm today."
+   ],
+   [
+    "Wir hatten einen *sonnigen* Tag am See.",
+    "We had a sunny day at the lake."
+   ]
+  ],
+  "windig": [
+   [
+    "Am Meer ist es oft *windig*.",
+    "It's often windy by the sea."
+   ],
+   [
+    "Das war ein kalter, *windiger* Tag.",
+    "That was a cold, windy day."
+   ]
+  ],
+  "schneien": [
+   [
+    "Im Dezember *schneit* es oft.",
+    "It often snows in December."
+   ],
+   [
+    "Hat es in der Nacht *geschneit*?",
+    "Did it snow overnight?"
+   ]
+  ]
+ },
+ "de-wohnen": {
+  "Platz": [
+   [
+    "Im Wohnzimmer ist viel *Platz*.",
+    "There's a lot of space in the living room."
+   ],
+   [
+    "Wir haben keinen *Platz* für ein Sofa.",
+    "We have no room for a sofa."
+   ]
+  ],
+  "Haus": [
+   [
+    "Das *Haus* hat einen großen Garten.",
+    "The house has a big garden."
+   ],
+   [
+    "In unserer Straße gibt es alte *Häuser*.",
+    "There are old houses on our street."
+   ]
+  ],
+  "oben": [
+   [
+    "Das Bad ist *oben*.",
+    "The bathroom is upstairs."
+   ],
+   [
+    "Wohnst du *oben* oder unten?",
+    "Do you live upstairs or downstairs?"
+   ]
+  ],
+  "laut": [
+   [
+    "Die Straße ist sehr *laut*.",
+    "The street is very noisy."
+   ],
+   [
+    "Wir haben einen *lauten* Nachbarn.",
+    "We have a noisy neighbour."
+   ]
+  ],
+  "frei": [
+   [
+    "Ist die Wohnung noch *frei*?",
+    "Is the flat still available?"
+   ],
+   [
+    "Wir haben ein *freies* Zimmer.",
+    "We have a vacant room."
+   ]
+  ],
+  "links": [
+   [
+    "Die Küche ist *links*.",
+    "The kitchen is on the left."
+   ],
+   [
+    "Gehen Sie hier *links* und dann geradeaus.",
+    "Go left here and then straight on."
+   ]
+  ],
+  "rechts": [
+   [
+    "Das Bad ist *rechts* neben der Küche.",
+    "The bathroom is on the right, next to the kitchen."
+   ],
+   [
+    "Stell den Stuhl bitte *rechts* hin.",
+    "Please put the chair on the right."
+   ]
+  ],
+  "Wohnung": [
+   [
+    "Die *Wohnung* hat drei Zimmer.",
+    "The flat has three rooms."
+   ],
+   [
+    "Wir suchen eine neue *Wohnung*.",
+    "We're looking for a new flat."
+   ]
+  ],
+  "Bad": [
+   [
+    "Das *Bad* ist klein, aber modern.",
+    "The bathroom is small but modern."
+   ],
+   [
+    "Die Wohnung hat zwei *Bäder*.",
+    "The flat has two bathrooms."
+   ]
+  ],
+  "Boden": [
+   [
+    "Die Tasche liegt auf dem *Boden*.",
+    "The bag is lying on the floor."
+   ],
+   [
+    "Der *Boden* in der Küche ist kalt.",
+    "The kitchen floor is cold."
+   ]
+  ],
+  "unten": [
+   [
+    "Der Keller ist *unten*.",
+    "The cellar is downstairs."
+   ],
+   [
+    "Ich warte *unten* vor der Tür.",
+    "I'm waiting downstairs in front of the door."
+   ]
+  ],
+  "Zimmer": [
+   [
+    "Mein *Zimmer* ist hell und ruhig.",
+    "My room is bright and quiet."
+   ],
+   [
+    "Wie viele *Zimmer* hat die Wohnung?",
+    "How many rooms does the flat have?"
+   ]
+  ],
+  "Bett": [
+   [
+    "Das *Bett* steht am Fenster.",
+    "The bed is by the window."
+   ],
+   [
+    "Ich habe ein neues *Bett* gekauft.",
+    "I bought a new bed."
+   ]
+  ],
+  "Tür": [
+   [
+    "Mach bitte die *Tür* zu.",
+    "Please close the door."
+   ],
+   [
+    "Die Wohnung hat eine rote *Tür*.",
+    "The flat has a red door."
+   ]
+  ],
+  "Fenster": [
+   [
+    "Das *Fenster* ist offen.",
+    "The window is open."
+   ],
+   [
+    "Das Wohnzimmer hat zwei große *Fenster*.",
+    "The living room has two big windows."
+   ]
+  ],
+  "Tisch": [
+   [
+    "Der *Tisch* steht in der Küche.",
+    "The table is in the kitchen."
+   ],
+   [
+    "Die Schlüssel liegen auf dem *Tisch*.",
+    "The keys are on the table."
+   ]
+  ],
+  "ruhig": [
+   [
+    "Die Wohnung ist sehr *ruhig*.",
+    "The flat is very quiet."
+   ],
+   [
+    "Wir wohnen in einer *ruhigen* Straße.",
+    "We live on a quiet street."
+   ]
+  ],
+  "Garten": [
+   [
+    "Das Haus hat einen schönen *Garten*.",
+    "The house has a lovely garden."
+   ],
+   [
+    "Die Kinder spielen im *Garten*.",
+    "The children are playing in the garden."
+   ]
+  ],
+  "Wand": [
+   [
+    "Das Bild hängt an der *Wand*.",
+    "The picture is hanging on the wall."
+   ],
+   [
+    "Die *Wände* sind weiß.",
+    "The walls are white."
+   ]
+  ],
+  "Küche": [
+   [
+    "Die *Küche* ist neu.",
+    "The kitchen is new."
+   ],
+   [
+    "Wir essen oft in der *Küche*.",
+    "We often eat in the kitchen."
+   ]
+  ],
+  "Keller": [
+   [
+    "Das Fahrrad steht im *Keller*.",
+    "The bike is in the cellar."
+   ],
+   [
+    "Hat die Wohnung einen *Keller*?",
+    "Does the flat have a basement?"
+   ]
+  ],
+  "Anzeige": [
+   [
+    "Ich habe die *Anzeige* im Internet gesehen.",
+    "I saw the listing online."
+   ],
+   [
+    "Die *Anzeige* ist von gestern.",
+    "The advert is from yesterday."
+   ]
+  ],
+  "dunkel": [
+   [
+    "Der Flur ist sehr *dunkel*.",
+    "The hallway is very dark."
+   ],
+   [
+    "Ich mag keine *dunklen* Zimmer.",
+    "I don't like dark rooms."
+   ]
+  ],
+  "Schlüssel": [
+   [
+    "Wo ist mein *Schlüssel*?",
+    "Where's my key?"
+   ],
+   [
+    "Der Vermieter gibt uns zwei *Schlüssel*.",
+    "The landlord gives us two keys."
+   ]
+  ],
+  "Miete": [
+   [
+    "Die *Miete* ist 800 Euro im Monat.",
+    "The rent is 800 euros a month."
+   ],
+   [
+    "Wir zahlen die *Miete* am Anfang des Monats.",
+    "We pay the rent at the start of the month."
+   ]
+  ],
+  "Stock": [
+   [
+    "Ich wohne im dritten *Stock*.",
+    "I live on the third floor."
+   ],
+   [
+    "Das Haus hat vier *Stockwerke*.",
+    "The building has four storeys."
+   ]
+  ],
+  "hell": [
+   [
+    "Das Wohnzimmer ist schön *hell*.",
+    "The living room is nice and bright."
+   ],
+   [
+    "Wir suchen eine *helle* Wohnung.",
+    "We're looking for a bright flat."
+   ]
+  ],
+  "Stuhl": [
+   [
+    "Der *Stuhl* steht am Tisch.",
+    "The chair is at the table."
+   ],
+   [
+    "Wir brauchen noch zwei *Stühle*.",
+    "We still need two chairs."
+   ]
+  ],
+  "mieten": [
+   [
+    "Wir *mieten* eine Wohnung in Berlin.",
+    "We're renting a flat in Berlin."
+   ],
+   [
+    "Hast du das Haus *gemietet*?",
+    "Did you rent the house?"
+   ]
+  ],
+  "modern": [
+   [
+    "Die Küche ist sehr *modern*.",
+    "The kitchen is very modern."
+   ],
+   [
+    "Sie wohnt in einem *modernen* Haus.",
+    "She lives in a modern building."
+   ]
+  ],
+  "Dusche": [
+   [
+    "Die *Dusche* ist kaputt.",
+    "The shower is broken."
+   ],
+   [
+    "Das Bad hat eine *Dusche*, aber keine Badewanne.",
+    "The bathroom has a shower but no bath."
+   ]
+  ],
+  "Kühlschrank": [
+   [
+    "Die Milch ist im *Kühlschrank*.",
+    "The milk is in the fridge."
+   ],
+   [
+    "Der *Kühlschrank* ist leer.",
+    "The fridge is empty."
+   ]
+  ],
+  "Umzug": [
+   [
+    "Der *Umzug* ist am Samstag.",
+    "The move is on Saturday."
+   ],
+   [
+    "Hilfst du mir beim *Umzug*?",
+    "Will you help me with the move?"
+   ]
+  ],
+  "Wohnzimmer": [
+   [
+    "Das *Wohnzimmer* ist groß und hell.",
+    "The living room is big and bright."
+   ],
+   [
+    "Wir sehen im *Wohnzimmer* fern.",
+    "We watch TV in the living room."
+   ]
+  ],
+  "Schlafzimmer": [
+   [
+    "Das *Schlafzimmer* ist sehr ruhig.",
+    "The bedroom is very quiet."
+   ],
+   [
+    "Die Wohnung hat zwei *Schlafzimmer*.",
+    "The flat has two bedrooms."
+   ]
+  ],
+  "Balkon": [
+   [
+    "Wir frühstücken gern auf dem *Balkon*.",
+    "We like having breakfast on the balcony."
+   ],
+   [
+    "Hat die Wohnung einen *Balkon*?",
+    "Does the flat have a balcony?"
+   ]
+  ],
+  "Treppe": [
+   [
+    "Die *Treppe* ist sehr steil.",
+    "The stairs are very steep."
+   ],
+   [
+    "Ich gehe die *Treppe* hoch.",
+    "I'm going up the stairs."
+   ]
+  ],
+  "Sofa": [
+   [
+    "Das *Sofa* ist sehr bequem.",
+    "The sofa is very comfortable."
+   ],
+   [
+    "Die Katze schläft auf dem *Sofa*.",
+    "The cat is sleeping on the sofa."
+   ]
+  ],
+  "Schrank": [
+   [
+    "Die Kleidung ist im *Schrank*.",
+    "The clothes are in the wardrobe."
+   ],
+   [
+    "Die Küche hat viele *Schränke*.",
+    "The kitchen has lots of cupboards."
+   ]
+  ],
+  "Toilette": [
+   [
+    "Wo ist die *Toilette*, bitte?",
+    "Where's the toilet, please?"
+   ],
+   [
+    "Die Wohnung hat eine extra *Toilette*.",
+    "The flat has a separate toilet."
+   ]
+  ],
+  "Nachbar": [
+   [
+    "Mein *Nachbar* ist sehr nett.",
+    "My neighbour is very nice."
+   ],
+   [
+    "Ich kenne meine *Nachbarn* nicht.",
+    "I don't know my neighbours."
+   ]
+  ],
+  "gemütlich": [
+   [
+    "Die Wohnung ist klein, aber *gemütlich*.",
+    "The flat is small but cosy."
+   ],
+   [
+    "Wir haben ein *gemütliches* Wohnzimmer.",
+    "We have a cosy living room."
+   ]
+  ],
+  "Teppich": [
+   [
+    "Der *Teppich* liegt im Wohnzimmer.",
+    "The rug is in the living room."
+   ],
+   [
+    "Ich habe einen neuen *Teppich* gekauft.",
+    "I bought a new rug."
+   ]
+  ],
+  "Möbel": [
+   [
+    "Die *Möbel* sind ganz neu.",
+    "The furniture is brand new."
+   ],
+   [
+    "Wir haben noch keine *Möbel*.",
+    "We don't have any furniture yet."
+   ]
+  ],
+  "Vermieter": [
+   [
+    "Der *Vermieter* wohnt im Erdgeschoss.",
+    "The landlord lives on the ground floor."
+   ],
+   [
+    "Hast du den *Vermieter* angerufen?",
+    "Did you call the landlord?"
+   ]
+  ],
+  "Flur": [
+   [
+    "Die Schuhe stehen im *Flur*.",
+    "The shoes are in the hallway."
+   ],
+   [
+    "Der *Flur* ist lang und dunkel.",
+    "The hallway is long and dark."
+   ]
+  ],
+  "Heizung": [
+   [
+    "Die *Heizung* funktioniert nicht.",
+    "The heating isn't working."
+   ],
+   [
+    "Mach bitte die *Heizung* an.",
+    "Please turn the heating on."
+   ]
+  ],
+  "Lampe": [
+   [
+    "Die *Lampe* steht neben dem Sofa.",
+    "The lamp is next to the sofa."
+   ],
+   [
+    "Wir brauchen eine neue *Lampe*.",
+    "We need a new lamp."
+   ]
+  ],
+  "Erdgeschoss": [
+   [
+    "Die Wohnung ist im *Erdgeschoss*.",
+    "The flat is on the ground floor."
+   ],
+   [
+    "Das *Erdgeschoss* hat einen kleinen Garten.",
+    "The ground floor has a small garden."
+   ]
+  ],
+  "Regal": [
+   [
+    "Die Bücher stehen im *Regal*.",
+    "The books are on the shelf."
+   ],
+   [
+    "Ich habe zwei *Regale* gekauft.",
+    "I bought two shelves."
+   ]
+  ],
+  "Herd": [
+   [
+    "Der *Herd* ist ganz neu.",
+    "The cooker is brand new."
+   ],
+   [
+    "Der Topf steht auf dem *Herd*.",
+    "The pot is on the stove."
+   ]
+  ],
+  "Aufzug": [
+   [
+    "Das Haus hat keinen *Aufzug*.",
+    "The building has no lift."
+   ],
+   [
+    "Wir nehmen den *Aufzug* in den fünften Stock.",
+    "We take the lift to the fifth floor."
+   ]
+  ],
+  "einziehen": [
+   [
+    "Wir *ziehen* am Montag *ein*.",
+    "We're moving in on Monday."
+   ],
+   [
+    "Sie ist letzte Woche *eingezogen*.",
+    "She moved in last week."
+   ]
+  ],
+  "ausziehen": [
+   [
+    "Mein Mitbewohner *zieht* im Mai *aus*.",
+    "My flatmate is moving out in May."
+   ],
+   [
+    "Wir sind gestern *ausgezogen*.",
+    "We moved out yesterday."
+   ]
+  ],
+  "Quadratmeter": [
+   [
+    "Die Wohnung hat 60 *Quadratmeter*.",
+    "The flat is 60 square metres."
+   ],
+   [
+    "Wie viel kostet ein *Quadratmeter* hier?",
+    "How much does a square metre cost here?"
+   ]
+  ],
+  "umziehen": [
+   [
+    "Wir *ziehen* nach Hamburg *um*.",
+    "We're moving to Hamburg."
+   ],
+   [
+    "Bist du schon *umgezogen*?",
+    "Have you moved house yet?"
+   ]
+  ],
+  "Sessel": [
+   [
+    "Der *Sessel* ist sehr bequem.",
+    "The armchair is very comfortable."
+   ],
+   [
+    "Opa sitzt gern in seinem *Sessel*.",
+    "Grandpa likes sitting in his armchair."
+   ]
+  ],
+  "Waschmaschine": [
+   [
+    "Die *Waschmaschine* ist im Keller.",
+    "The washing machine is in the basement."
+   ],
+   [
+    "Wir brauchen eine neue *Waschmaschine*.",
+    "We need a new washing machine."
+   ]
+  ],
+  "Kinderzimmer": [
+   [
+    "Das *Kinderzimmer* ist neben dem Bad.",
+    "The children's room is next to the bathroom."
+   ],
+   [
+    "Wir streichen das *Kinderzimmer* blau.",
+    "We're painting the children's room blue."
+   ]
+  ],
+  "Nebenkosten": [
+   [
+    "Die *Nebenkosten* sind 150 Euro im Monat.",
+    "The utility costs are 150 euros a month."
+   ],
+   [
+    "Ist die Miete mit *Nebenkosten*?",
+    "Does the rent include utilities?"
+   ]
+  ]
+ },
+ "de-zeit": {
+  "nach": [
+   [
+    "Es ist zehn *nach* acht.",
+    "It's ten past eight. (8:10)"
+   ],
+   [
+    "*Nach* dem Frühstück gehe ich zur Arbeit.",
+    "After breakfast I go to work."
+   ]
+  ],
+  "um": [
+   [
+    "Der Kurs beginnt *um* neun Uhr.",
+    "The course starts at nine o'clock."
+   ],
+   [
+    "Treffen wir uns *um* halb sieben?",
+    "Shall we meet at six thirty? (6:30)"
+   ]
+  ],
+  "vor": [
+   [
+    "Es ist Viertel *vor* drei.",
+    "It's quarter to three. (2:45)"
+   ],
+   [
+    "*Vor* dem Termin trinke ich einen Kaffee.",
+    "Before the appointment I'll have a coffee."
+   ]
+  ],
+  "bis": [
+   [
+    "Ich arbeite *bis* fünf Uhr.",
+    "I work until five o'clock."
+   ],
+   [
+    "*Bis* morgen!",
+    "See you tomorrow!"
+   ]
+  ],
+  "Zeit": [
+   [
+    "Hast du am Freitag *Zeit*?",
+    "Are you free on Friday?"
+   ],
+   [
+    "Die *Zeiten* für den Kurs stehen im Internet.",
+    "The course times are online."
+   ]
+  ],
+  "ab": [
+   [
+    "Der Laden ist *ab* acht Uhr offen.",
+    "The shop is open from eight o'clock."
+   ],
+   [
+    "*Ab* Montag habe ich Urlaub.",
+    "I'm on holiday from Monday."
+   ]
+  ],
+  "Jahr": [
+   [
+    "Das *Jahr* hat zwölf Monate.",
+    "The year has twelve months."
+   ],
+   [
+    "Ich wohne seit drei *Jahren* in Berlin.",
+    "I've been living in Berlin for three years."
+   ]
+  ],
+  "Tag": [
+   [
+    "Guten *Tag*, Frau Müller!",
+    "Hello, Ms Müller!"
+   ],
+   [
+    "Der Kurs dauert fünf *Tage*.",
+    "The course lasts five days."
+   ]
+  ],
+  "Uhr": [
+   [
+    "Es ist jetzt drei *Uhr*.",
+    "It's three o'clock now."
+   ],
+   [
+    "Meine *Uhr* ist leider kaputt.",
+    "Unfortunately my watch is broken."
+   ]
+  ],
+  "nie": [
+   [
+    "Er kommt *nie* pünktlich.",
+    "He's never on time."
+   ],
+   [
+    "Am Sonntag arbeite ich *nie*.",
+    "I never work on Sundays."
+   ]
+  ],
+  "gleich": [
+   [
+    "Warte, ich komme *gleich*!",
+    "Wait, I'm coming right away!"
+   ],
+   [
+    "Wir haben am *gleichen* Tag Geburtstag.",
+    "Our birthdays are on the same day."
+   ]
+  ],
+  "später": [
+   [
+    "Ich rufe dich *später* an.",
+    "I'll call you later."
+   ],
+   [
+    "Kannst du eine Stunde *später* kommen?",
+    "Can you come an hour later?"
+   ]
+  ],
+  "oft": [
+   [
+    "Wie *oft* gehst du ins Kino?",
+    "How often do you go to the cinema?"
+   ],
+   [
+    "Ich trinke *oft* Tee am Abend.",
+    "I often drink tea in the evening."
+   ]
+  ],
+  "Morgen": [
+   [
+    "Guten *Morgen*! Hast du gut geschlafen?",
+    "Good morning! Did you sleep well?"
+   ],
+   [
+    "Am *Morgen* gehe ich joggen.",
+    "In the morning I go jogging."
+   ]
+  ],
+  "Woche": [
+   [
+    "Die *Woche* hat sieben Tage.",
+    "The week has seven days."
+   ],
+   [
+    "Ich habe zwei *Wochen* Urlaub.",
+    "I have two weeks of holiday."
+   ]
+  ],
+  "leider": [
+   [
+    "Ich habe *leider* keine Zeit.",
+    "Unfortunately I don't have time."
+   ],
+   [
+    "*Leider* kann ich am Montag nicht kommen.",
+    "Sadly I can't come on Monday."
+   ]
+  ],
+  "Nacht": [
+   [
+    "Gute *Nacht*, schlaf gut!",
+    "Good night, sleep well!"
+   ],
+   [
+    "Wir bleiben drei *Nächte* im Hotel.",
+    "We're staying three nights at the hotel."
+   ]
+  ],
+  "Abend": [
+   [
+    "Am *Abend* sehe ich fern.",
+    "In the evening I watch TV."
+   ],
+   [
+    "Guten *Abend*! Wie geht es Ihnen?",
+    "Good evening! How are you?"
+   ]
+  ],
+  "bald": [
+   [
+    "Bis *bald*!",
+    "See you soon!"
+   ],
+   [
+    "Der Zug kommt *bald*.",
+    "The train is coming soon."
+   ]
+  ],
+  "manchmal": [
+   [
+    "*Manchmal* stehe ich sehr früh auf.",
+    "Sometimes I get up very early."
+   ],
+   [
+    "Ich esse *manchmal* im Restaurant.",
+    "I sometimes eat at a restaurant."
+   ]
+  ],
+  "wann": [
+   [
+    "*Wann* beginnt der Film?",
+    "When does the film start?"
+   ],
+   [
+    "Bis *wann* bist du im Büro?",
+    "Until when are you at the office?"
+   ]
+  ],
+  "Mai": [
+   [
+    "Im *Mai* ist das Wetter schön.",
+    "In May the weather is nice."
+   ],
+   [
+    "Mein Geburtstag ist am 3. *Mai*.",
+    "My birthday is on the 3rd of May."
+   ]
+  ],
+  "September": [
+   [
+    "Der Kurs beginnt im *September*.",
+    "The course starts in September."
+   ],
+   [
+    "Der *September* hat dreißig Tage.",
+    "September has thirty days."
+   ]
+  ],
+  "gestern": [
+   [
+    "*Gestern* war ich beim Arzt.",
+    "Yesterday I was at the doctor's."
+   ],
+   [
+    "Ich habe *gestern* lange gearbeitet.",
+    "I worked late yesterday."
+   ]
+  ],
+  "März": [
+   [
+    "Im *März* fahren wir nach Wien.",
+    "In March we're going to Vienna."
+   ],
+   [
+    "Heute ist der 1. *März*.",
+    "Today is the 1st of March."
+   ]
+  ],
+  "August": [
+   [
+    "Im *August* habe ich Urlaub.",
+    "I'm on holiday in August."
+   ],
+   [
+    "Der *August* ist oft sehr heiß.",
+    "August is often very hot."
+   ]
+  ],
+  "November": [
+   [
+    "Im *November* ist es kalt und grau.",
+    "In November it's cold and grey."
+   ],
+   [
+    "Der Termin ist am 12. *November*.",
+    "The appointment is on the 12th of November."
+   ]
+  ],
+  "April": [
+   [
+    "Im *April* regnet es oft.",
+    "It often rains in April."
+   ],
+   [
+    "Wir heiraten am 20. *April*.",
+    "We're getting married on the 20th of April."
+   ]
+  ],
+  "Juni": [
+   [
+    "Der *Juni* ist mein Lieblingsmonat.",
+    "June is my favourite month."
+   ],
+   [
+    "Im *Juni* besuche ich meine Eltern.",
+    "In June I'm visiting my parents."
+   ]
+  ],
+  "Juli": [
+   [
+    "Im *Juli* sind die Schulen zu.",
+    "In July the schools are closed."
+   ],
+   [
+    "Sie hat am 5. *Juli* Geburtstag.",
+    "Her birthday is on the 5th of July."
+   ]
+  ],
+  "Oktober": [
+   [
+    "Im *Oktober* beginnt das Semester.",
+    "The semester starts in October."
+   ],
+   [
+    "Der *Oktober* war sehr warm.",
+    "October was very warm."
+   ]
+  ],
+  "Stunde": [
+   [
+    "Der Film dauert zwei *Stunden*.",
+    "The film lasts two hours."
+   ],
+   [
+    "Die *Stunde* beginnt um zehn Uhr.",
+    "The lesson starts at ten o'clock."
+   ]
+  ],
+  "Dezember": [
+   [
+    "Im *Dezember* ist Weihnachten.",
+    "Christmas is in December."
+   ],
+   [
+    "Der 31. *Dezember* ist Silvester.",
+    "The 31st of December is New Year's Eve."
+   ]
+  ],
+  "Januar": [
+   [
+    "Der *Januar* ist sehr kalt.",
+    "January is very cold."
+   ],
+   [
+    "Im *Januar* mache ich einen Deutschkurs.",
+    "In January I'm doing a German course."
+   ]
+  ],
+  "Sonntag": [
+   [
+    "Am *Sonntag* schlafe ich lange.",
+    "On Sunday I sleep in."
+   ],
+   [
+    "Der *Sonntag* ist mein freier Tag.",
+    "Sunday is my day off."
+   ]
+  ],
+  "Februar": [
+   [
+    "Der *Februar* hat nur 28 Tage.",
+    "February has only 28 days."
+   ],
+   [
+    "Im *Februar* fahren wir Ski.",
+    "In February we go skiing."
+   ]
+  ],
+  "Monat": [
+   [
+    "Ich zahle die Miete jeden *Monat*.",
+    "I pay the rent every month."
+   ],
+   [
+    "Ich lerne seit drei *Monaten* Deutsch.",
+    "I've been learning German for three months."
+   ]
+  ],
+  "Samstag": [
+   [
+    "Am *Samstag* gehe ich einkaufen.",
+    "On Saturday I go shopping."
+   ],
+   [
+    "Hast du am *Samstag* Zeit?",
+    "Are you free on Saturday?"
+   ]
+  ],
+  "früh": [
+   [
+    "Es ist noch *früh*.",
+    "It's still early."
+   ],
+   [
+    "Ich stehe jeden Tag *früh* auf.",
+    "I get up early every day."
+   ]
+  ],
+  "Freitag": [
+   [
+    "Am *Freitag* gehen wir ins Kino.",
+    "On Friday we're going to the cinema."
+   ],
+   [
+    "Der *Freitag* ist immer sehr lang.",
+    "Friday is always very long."
+   ]
+  ],
+  "Montag": [
+   [
+    "Am *Montag* beginnt die Arbeit wieder.",
+    "Work starts again on Monday."
+   ],
+   [
+    "Ich habe jeden *Montag* einen Kurs.",
+    "I have a class every Monday."
+   ]
+  ],
+  "schlafen": [
+   [
+    "Mein Sohn *schläft* noch.",
+    "My son is still asleep."
+   ],
+   [
+    "Hast du gut *geschlafen*?",
+    "Did you sleep well?"
+   ]
+  ],
+  "spät": [
+   [
+    "Es ist schon *spät*.",
+    "It's already late."
+   ],
+   [
+    "Der Bus kommt heute zu *spät*.",
+    "The bus is late today."
+   ]
+  ],
+  "Wie spät ist es?": [
+   [
+    "*Wie spät ist es?* – Es ist vier Uhr.",
+    "What time is it? – It's four o'clock."
+   ],
+   [
+    "Entschuldigung, *wie spät ist es?*",
+    "Excuse me, what time is it?"
+   ]
+  ],
+  "Minute": [
+   [
+    "Der Bus kommt in fünf *Minuten*.",
+    "The bus comes in five minutes."
+   ],
+   [
+    "Warte bitte eine *Minute*!",
+    "Please wait a minute!"
+   ]
+  ],
+  "Mittwoch": [
+   [
+    "Am *Mittwoch* habe ich einen Termin.",
+    "I have an appointment on Wednesday."
+   ],
+   [
+    "Der Markt ist jeden *Mittwoch*.",
+    "The market is every Wednesday."
+   ]
+  ],
+  "beginnen": [
+   [
+    "Der Unterricht *beginnt* um acht Uhr.",
+    "The class begins at eight o'clock."
+   ],
+   [
+    "Der Film hat schon *begonnen*.",
+    "The film has already started."
+   ]
+  ],
+  "halb": [
+   [
+    "Es ist *halb* drei.",
+    "It's half past two. (2:30)"
+   ],
+   [
+    "Wir essen um *halb* acht.",
+    "We eat at seven thirty. (7:30)"
+   ]
+  ],
+  "Donnerstag": [
+   [
+    "Am *Donnerstag* spiele ich Fußball.",
+    "On Thursday I play football."
+   ],
+   [
+    "Ist der *Donnerstag* gut für dich?",
+    "Is Thursday good for you?"
+   ]
+  ],
+  "Dienstag": [
+   [
+    "Am *Dienstag* arbeite ich zu Hause.",
+    "On Tuesday I work from home."
+   ],
+   [
+    "Wir sehen uns nächsten *Dienstag*.",
+    "See you next Tuesday."
+   ]
+  ],
+  "Termin": [
+   [
+    "Ich habe morgen einen *Termin* beim Arzt.",
+    "I have a doctor's appointment tomorrow."
+   ],
+   [
+    "Der *Termin* ist um zehn Uhr.",
+    "The appointment is at ten o'clock."
+   ]
+  ],
+  "Nachmittag": [
+   [
+    "Am *Nachmittag* trinke ich Kaffee.",
+    "In the afternoon I have coffee."
+   ],
+   [
+    "Der *Nachmittag* ist frei.",
+    "The afternoon is free."
+   ]
+  ],
+  "Viertel": [
+   [
+    "Es ist *Viertel* nach vier.",
+    "It's quarter past four. (4:15)"
+   ],
+   [
+    "Der Zug kommt um *Viertel* vor neun.",
+    "The train arrives at quarter to nine. (8:45)"
+   ]
+  ],
+  "dauern": [
+   [
+    "Wie lange *dauert* der Kurs?",
+    "How long does the course last?"
+   ],
+   [
+    "Das Gespräch hat eine Stunde *gedauert*.",
+    "The conversation took an hour."
+   ]
+  ],
+  "Datum": [
+   [
+    "Welches *Datum* ist heute?",
+    "What's the date today?"
+   ],
+   [
+    "Schreiben Sie bitte das *Datum* hier.",
+    "Please write the date here."
+   ]
+  ],
+  "Sekunde": [
+   [
+    "Eine Minute hat sechzig *Sekunden*.",
+    "A minute has sixty seconds."
+   ],
+   [
+    "Moment, nur eine *Sekunde*!",
+    "Hang on, just a second!"
+   ]
+  ],
+  "Mittag": [
+   [
+    "Zu *Mittag* esse ich in der Kantine.",
+    "At lunchtime I eat in the canteen."
+   ],
+   [
+    "Am *Mittag* habe ich eine Stunde Pause.",
+    "At midday I have an hour's break."
+   ]
+  ],
+  "aufstehen": [
+   [
+    "Ich *stehe* um sechs Uhr *auf*.",
+    "I get up at six o'clock."
+   ],
+   [
+    "Bist du schon *aufgestanden*?",
+    "Have you got up yet?"
+   ]
+  ],
+  "Kalender": [
+   [
+    "Der Termin steht im *Kalender*.",
+    "The appointment is in the calendar."
+   ],
+   [
+    "Ich habe einen neuen *Kalender* gekauft.",
+    "I've bought a new calendar."
+   ]
+  ],
+  "verschieben": [
+   [
+    "Können wir den Termin *verschieben*?",
+    "Can we postpone the appointment?"
+   ],
+   [
+    "Sie hat das Treffen auf Montag *verschoben*.",
+    "She postponed the meeting to Monday."
+   ]
+  ],
+  "Vormittag": [
+   [
+    "Am *Vormittag* bin ich im Büro.",
+    "In the morning I'm at the office."
+   ],
+   [
+    "Der *Vormittag* ist leider schon voll.",
+    "The morning is unfortunately already full."
+   ]
+  ],
+  "Uhrzeit": [
+   [
+    "Welche *Uhrzeit* passt dir?",
+    "What time suits you?"
+   ],
+   [
+    "Die *Uhrzeit* steht auf dem Ticket.",
+    "The time is on the ticket."
+   ]
+  ],
+  "vereinbaren": [
+   [
+    "Ich möchte einen Termin *vereinbaren*.",
+    "I'd like to make an appointment."
+   ],
+   [
+    "Wir haben einen Termin um drei *vereinbart*.",
+    "We've arranged an appointment for three."
+   ]
+  ],
+  "absagen": [
+   [
+    "Ich *sage* den Termin leider *ab*.",
+    "Unfortunately I'm cancelling the appointment."
+   ],
+   [
+    "Er hat die Party *abgesagt*.",
+    "He cancelled the party."
+   ]
+  ],
+  "Wecker": [
+   [
+    "Der *Wecker* klingelt um sechs Uhr.",
+    "The alarm clock goes off at six."
+   ],
+   [
+    "Ich habe zwei *Wecker* im Schlafzimmer.",
+    "I have two alarm clocks in the bedroom."
+   ]
+  ],
+  "übermorgen": [
+   [
+    "*Übermorgen* ist Samstag.",
+    "The day after tomorrow is Saturday."
+   ],
+   [
+    "Ich fahre *übermorgen* nach Hamburg.",
+    "I'm going to Hamburg the day after tomorrow."
+   ]
+  ],
+  "Verabredung": [
+   [
+    "Ich habe heute Abend eine *Verabredung*.",
+    "I've got a date this evening."
+   ],
+   [
+    "Die *Verabredung* ist um acht im Café.",
+    "We're meeting at eight in the café."
+   ]
+  ],
+  "sich verabreden": [
+   [
+    "Wir *verabreden* *uns* für Samstag.",
+    "We're arranging to meet on Saturday."
+   ],
+   [
+    "Hast du *dich* mit Anna *verabredet*?",
+    "Have you arranged to meet Anna?"
+   ]
+  ]
+ },
+ "de": {
+  "der · die · das": [
+   [
+    "*Der* Kaffee ist sehr heiß.",
+    "The coffee is very hot."
+   ],
+   [
+    "*Die* Wohnung ist klein, aber schön.",
+    "The flat is small but nice."
+   ]
+  ],
+  "und": [
+   [
+    "Ich trinke Kaffee *und* Wasser.",
+    "I'm drinking coffee and water."
+   ],
+   [
+    "Anna *und* ich gehen heute ins Kino.",
+    "Anna and I are going to the cinema today."
+   ]
+  ],
+  "sein": [
+   [
+    "Mein Bruder *ist* Lehrer.",
+    "My brother is a teacher."
+   ],
+   [
+    "*Bist* du schon in Berlin *gewesen*?",
+    "Have you been to Berlin yet?"
+   ]
+  ],
+  "ich": [
+   [
+    "*Ich* heiße Tom.",
+    "My name is Tom."
+   ],
+   [
+    "Morgen arbeite *ich* zu Hause.",
+    "Tomorrow I'm working from home."
+   ]
+  ],
+  "nicht": [
+   [
+    "Das Wetter ist heute *nicht* gut.",
+    "The weather isn't good today."
+   ],
+   [
+    "Ich komme heute Abend *nicht*.",
+    "I'm not coming tonight."
+   ]
+  ],
+  "es": [
+   [
+    "*Es* regnet schon den ganzen Tag.",
+    "It's been raining all day."
+   ],
+   [
+    "Wo ist das Buch? – *Es* liegt auf dem Tisch.",
+    "Where's the book? – It's on the table."
+   ]
+  ],
+  "haben": [
+   [
+    "Ich *habe* zwei Kinder.",
+    "I have two children."
+   ],
+   [
+    "Wir *haben* keine Zeit *gehabt*.",
+    "We didn't have any time."
+   ]
+  ],
+  "werden": [
+   [
+    "Es *wird* heute warm.",
+    "It's going to be warm today."
+   ],
+   [
+    "Mein Sohn ist Arzt *geworden*.",
+    "My son became a doctor."
+   ]
+  ],
+  "sie": [
+   [
+    "Das ist Maria. *Sie* kommt aus Spanien.",
+    "This is Maria. She's from Spain."
+   ],
+   [
+    "Woher kommen *Sie*?",
+    "Where are you from?"
+   ]
+  ],
+  "er": [
+   [
+    "Mein Vater ist 60. *Er* arbeitet noch.",
+    "My father is 60. He still works."
+   ],
+   [
+    "Heute hat *er* keine Zeit.",
+    "He doesn't have time today."
+   ]
+  ],
+  "zu": [
+   [
+    "Ich fahre am Sonntag *zu* meiner Oma.",
+    "I'm going to my grandma's on Sunday."
+   ],
+   [
+    "Der Kaffee ist *zu* heiß.",
+    "The coffee is too hot."
+   ]
+  ],
+  "in": [
+   [
+    "Wir wohnen *in* einer kleinen Stadt.",
+    "We live in a small town."
+   ],
+   [
+    "Er geht *in* die Küche.",
+    "He goes into the kitchen."
+   ]
+  ],
+  "ein": [
+   [
+    "Ich nehme *einen* Kaffee, bitte.",
+    "I'll have a coffee, please."
+   ],
+   [
+    "Wir haben *ein* Kind und zwei Katzen.",
+    "We have one child and two cats."
+   ]
+  ],
+  "mit": [
+   [
+    "Ich fahre *mit* dem Bus zur Arbeit.",
+    "I take the bus to work."
+   ],
+   [
+    "Kommst du *mit* mir ins Kino?",
+    "Are you coming to the cinema with me?"
+   ]
+  ],
+  "auf": [
+   [
+    "Das Handy liegt *auf* dem Tisch.",
+    "The phone is on the table."
+   ],
+   [
+    "Stell die Tasse bitte *auf* den Tisch.",
+    "Please put the cup on the table."
+   ]
+  ],
+  "für": [
+   [
+    "Das Geschenk ist *für* dich.",
+    "The present is for you."
+   ],
+   [
+    "Ich kaufe Blumen *für* meine Mutter.",
+    "I'm buying flowers for my mother."
+   ]
+  ],
+  "an": [
+   [
+    "Das Bild hängt *an* der Wand.",
+    "The picture is hanging on the wall."
+   ],
+   [
+    "Wir treffen uns *an* der Haltestelle.",
+    "We're meeting at the bus stop."
+   ]
+  ],
+  "dass": [
+   [
+    "Ich glaube, *dass* er krank ist.",
+    "I think he's ill."
+   ],
+   [
+    "Schön, *dass* du da bist!",
+    "So glad you're here!"
+   ]
+  ],
+  "du": [
+   [
+    "Wie heißt *du*?",
+    "What's your name?"
+   ],
+   [
+    "*Du* sprichst sehr gut Deutsch.",
+    "You speak German very well."
+   ]
+  ],
+  "von": [
+   [
+    "Das ist ein Geschenk *von* meiner Oma.",
+    "This is a present from my grandma."
+   ],
+   [
+    "Der Zug fährt *von* Berlin nach Hamburg.",
+    "The train goes from Berlin to Hamburg."
+   ]
+  ],
+  "wir": [
+   [
+    "*Wir* wohnen in Köln.",
+    "We live in Cologne."
+   ],
+   [
+    "Am Wochenende gehen *wir* schwimmen.",
+    "We're going swimming at the weekend."
+   ]
+  ],
+  "auch": [
+   [
+    "Ich trinke *auch* einen Tee.",
+    "I'll have a tea too."
+   ],
+   [
+    "Ich bin müde. – Ich *auch*!",
+    "I'm tired. – Me too!"
+   ]
+  ],
+  "so": [
+   [
+    "Das Essen ist *so* lecker!",
+    "The food is so tasty!"
+   ],
+   [
+    "Mach es bitte *so*.",
+    "Please do it like this."
+   ]
+  ],
+  "wie": [
+   [
+    "*Wie* heißen Sie?",
+    "What's your name?"
+   ],
+   [
+    "Er ist so groß *wie* sein Vater.",
+    "He's as tall as his father."
+   ]
+  ],
+  "was": [
+   [
+    "*Was* machst du heute?",
+    "What are you doing today?"
+   ],
+   [
+    "Ich weiß nicht, *was* das ist.",
+    "I don't know what that is."
+   ]
+  ],
+  "aber": [
+   [
+    "Das Hotel ist klein, *aber* sauber.",
+    "The hotel is small but clean."
+   ],
+   [
+    "Ich möchte kommen, *aber* ich habe keine Zeit.",
+    "I'd like to come, but I don't have time."
+   ]
+  ],
+  "oder": [
+   [
+    "Möchtest du Kaffee *oder* Tee?",
+    "Would you like coffee or tea?"
+   ],
+   [
+    "Wir fahren mit dem Auto *oder* wir nehmen den Zug.",
+    "We'll drive or we'll take the train."
+   ]
+  ],
+  "können": [
+   [
+    "*Kannst* du mir helfen?",
+    "Can you help me?"
+   ],
+   [
+    "Ich *kann* leider nicht kommen.",
+    "Unfortunately I can't come."
+   ]
+  ],
+  "müssen": [
+   [
+    "Ich *muss* heute lange arbeiten.",
+    "I have to work late today."
+   ],
+   [
+    "*Müssen* wir jetzt gehen?",
+    "Do we have to go now?"
+   ]
+  ],
+  "nach": [
+   [
+    "*Nach* dem Essen trinken wir Kaffee.",
+    "After the meal we have coffee."
+   ],
+   [
+    "Im Sommer fliegen wir *nach* Spanien.",
+    "We're flying to Spain in the summer."
+   ]
+  ],
+  "noch": [
+   [
+    "Ich bin *noch* im Büro.",
+    "I'm still at the office."
+   ],
+   [
+    "Möchtest du *noch* einen Kaffee?",
+    "Would you like another coffee?"
+   ]
+  ],
+  "bei": [
+   [
+    "Ich wohne *bei* meinen Eltern.",
+    "I live with my parents."
+   ],
+   [
+    "Er arbeitet *bei* einer Bank.",
+    "He works at a bank."
+   ]
+  ],
+  "nur": [
+   [
+    "Ich habe *nur* zehn Euro.",
+    "I only have ten euros."
+   ],
+   [
+    "*Nur* einen Moment, bitte!",
+    "Just a moment, please!"
+   ]
+  ],
+  "aus": [
+   [
+    "Ich komme *aus* Kanada.",
+    "I'm from Canada."
+   ],
+   [
+    "Er trinkt Wasser *aus* der Flasche.",
+    "He's drinking water out of the bottle."
+   ]
+  ],
+  "wenn": [
+   [
+    "*Wenn* es regnet, bleibe ich zu Hause.",
+    "If it rains, I stay at home."
+   ],
+   [
+    "Ruf mich an, *wenn* du Zeit hast.",
+    "Call me when you have time."
+   ]
+  ],
+  "schon": [
+   [
+    "Bist du *schon* fertig?",
+    "Are you finished already?"
+   ],
+   [
+    "Ich habe *schon* gegessen.",
+    "I've already eaten."
+   ]
+  ],
+  "sagen": [
+   [
+    "Wie *sagt* man das auf Deutsch?",
+    "How do you say that in German?"
+   ],
+   [
+    "Er hat nichts *gesagt*.",
+    "He didn't say anything."
+   ]
+  ],
+  "machen": [
+   [
+    "Was *machst* du am Wochenende?",
+    "What are you doing at the weekend?"
+   ],
+   [
+    "Ich habe meine Hausaufgaben *gemacht*.",
+    "I've done my homework."
+   ]
+  ],
+  "gehen": [
+   [
+    "Ich *gehe* jeden Tag zu Fuß.",
+    "I walk every day."
+   ],
+   [
+    "Wir sind gestern ins Kino *gegangen*.",
+    "We went to the cinema yesterday."
+   ]
+  ],
+  "kommen": [
+   [
+    "Woher *kommst* du?",
+    "Where are you from?"
+   ],
+   [
+    "Der Bus ist zu spät *gekommen*.",
+    "The bus came late."
+   ]
+  ],
+  "wissen": [
+   [
+    "Ich *weiß* es nicht.",
+    "I don't know."
+   ],
+   [
+    "*Weißt* du, wo der Bahnhof ist?",
+    "Do you know where the station is?"
+   ]
+  ],
+  "sehen": [
+   [
+    "*Siehst* du das Auto dort?",
+    "Can you see the car over there?"
+   ],
+   [
+    "Hast du den Film schon *gesehen*?",
+    "Have you seen the film yet?"
+   ]
+  ],
+  "geben": [
+   [
+    "*Gibst* du mir bitte das Salz?",
+    "Could you pass me the salt?"
+   ],
+   [
+    "Er hat mir sein Handy *gegeben*.",
+    "He gave me his phone."
+   ]
+  ],
+  "wollen": [
+   [
+    "Ich *will* Deutsch lernen.",
+    "I want to learn German."
+   ],
+   [
+    "*Willst* du heute Abend ausgehen?",
+    "Do you want to go out tonight?"
+   ]
+  ],
+  "sollen": [
+   [
+    "Ich *soll* viel Wasser trinken.",
+    "I'm supposed to drink a lot of water."
+   ],
+   [
+    "Was *soll* ich machen?",
+    "What should I do?"
+   ]
+  ],
+  "mehr": [
+   [
+    "Ich brauche *mehr* Zeit.",
+    "I need more time."
+   ],
+   [
+    "Er arbeitet *mehr* als ich.",
+    "He works more than I do."
+   ]
+  ],
+  "gut": [
+   [
+    "Das Essen ist sehr *gut*.",
+    "The food is very good."
+   ],
+   [
+    "Das ist ein *guter* Film.",
+    "That's a good film."
+   ]
+  ],
+  "hier": [
+   [
+    "Ich wohne schon zwei Jahre *hier*.",
+    "I've lived here for two years."
+   ],
+   [
+    "Ist *hier* noch frei?",
+    "Is this seat free?"
+   ]
+  ],
+  "da": [
+   [
+    "Ist Herr Müller *da*?",
+    "Is Mr Müller there?"
+   ],
+   [
+    "*Da* ich krank bin, bleibe ich zu Hause.",
+    "Since I'm ill, I'm staying at home."
+   ]
+  ],
+  "jetzt": [
+   [
+    "Ich habe *jetzt* keine Zeit.",
+    "I don't have time right now."
+   ],
+   [
+    "*Jetzt* wohnen wir in Hamburg.",
+    "We live in Hamburg now."
+   ]
+  ],
+  "immer": [
+   [
+    "Er kommt *immer* zu spät.",
+    "He's always late."
+   ],
+   [
+    "Im Sommer ist es hier *immer* warm.",
+    "It's always warm here in summer."
+   ]
+  ],
+  "heute": [
+   [
+    "*Heute* ist Montag.",
+    "Today is Monday."
+   ],
+   [
+    "Was gibt es *heute* zum Abendessen?",
+    "What's for dinner today?"
+   ]
+  ],
+  "dann": [
+   [
+    "Zuerst esse ich, *dann* gehe ich ins Bett.",
+    "First I eat, then I go to bed."
+   ],
+   [
+    "Wir sehen uns am Freitag. Bis *dann*!",
+    "See you on Friday. See you then!"
+   ]
+  ],
+  "ja": [
+   [
+    "Kommst du mit? – *Ja*, gern!",
+    "Are you coming? – Yes, I'd love to!"
+   ],
+   [
+    "*Ja*, das ist richtig.",
+    "Yes, that's right."
+   ]
+  ],
+  "nein": [
+   [
+    "Bist du müde? – *Nein*, gar nicht.",
+    "Are you tired? – No, not at all."
+   ],
+   [
+    "*Nein*, danke. Ich habe keinen Hunger.",
+    "No, thanks. I'm not hungry."
+   ]
+  ],
+  "sehr": [
+   [
+    "Das Hotel ist *sehr* schön.",
+    "The hotel is very nice."
+   ],
+   [
+    "Ich mag Schokolade *sehr*.",
+    "I really like chocolate."
+   ]
+  ],
+  "man": [
+   [
+    "Hier darf *man* nicht rauchen.",
+    "You can't smoke here."
+   ],
+   [
+    "In Deutschland isst *man* oft Brot.",
+    "In Germany people often eat bread."
+   ]
+  ],
+  "alle": [
+   [
+    "*Alle* sind schon da.",
+    "Everyone's already here."
+   ],
+   [
+    "Ich habe *alle* Bücher gelesen.",
+    "I've read all the books."
+   ]
+  ],
+  "viel": [
+   [
+    "Ich habe heute *viel* Arbeit.",
+    "I've got a lot of work today."
+   ],
+   [
+    "*Vielen* Dank für das Essen!",
+    "Thanks very much for the meal!"
+   ]
+  ],
+  "neu": [
+   [
+    "Mein Handy ist *neu*.",
+    "My phone is new."
+   ],
+   [
+    "Wir haben eine *neue* Wohnung.",
+    "We have a new flat."
+   ]
+  ],
+  "groß": [
+   [
+    "Mein Bruder ist sehr *groß*.",
+    "My brother is very tall."
+   ],
+   [
+    "Berlin ist eine *große* Stadt.",
+    "Berlin is a big city."
+   ]
+  ],
+  "klein": [
+   [
+    "Die Wohnung ist leider *klein*.",
+    "Unfortunately the flat is small."
+   ],
+   [
+    "Wir haben einen *kleinen* Hund.",
+    "We have a small dog."
+   ]
+  ],
+  "andere": [
+   [
+    "Ich möchte eine *andere* Farbe.",
+    "I'd like a different colour."
+   ],
+   [
+    "Die *anderen* kommen später.",
+    "The others are coming later."
+   ]
+  ],
+  "erst": [
+   [
+    "Der Zug kommt *erst* um zehn Uhr.",
+    "The train doesn't come until ten o'clock."
+   ],
+   [
+    "*Erst* essen wir, dann gehen wir spazieren.",
+    "First we'll eat, then we'll go for a walk."
+   ]
+  ],
+  "lang": [
+   [
+    "Der Film ist sehr *lang*.",
+    "The film is very long."
+   ],
+   [
+    "Sie hat *lange* Haare.",
+    "She has long hair."
+   ]
+  ],
+  "alt": [
+   [
+    "Wie *alt* bist du?",
+    "How old are you?"
+   ],
+   [
+    "Wir wohnen in einem *alten* Haus.",
+    "We live in an old house."
+   ]
+  ],
+  "Jahr": [
+   [
+    "Ich lerne seit einem *Jahr* Deutsch.",
+    "I've been learning German for a year."
+   ],
+   [
+    "Meine Tochter ist fünf *Jahre* alt.",
+    "My daughter is five years old."
+   ]
+  ],
+  "Zeit": [
+   [
+    "Hast du heute *Zeit*?",
+    "Are you free today?"
+   ],
+   [
+    "Wir haben keine *Zeit* für Frühstück.",
+    "We don't have time for breakfast."
+   ]
+  ],
+  "Mensch": [
+   [
+    "Er ist ein netter *Mensch*.",
+    "He's a nice person."
+   ],
+   [
+    "In der Stadt leben viele *Menschen*.",
+    "Lots of people live in the city."
+   ]
+  ],
+  "Kind": [
+   [
+    "Das *Kind* spielt im Garten.",
+    "The child is playing in the garden."
+   ],
+   [
+    "Habt ihr *Kinder*?",
+    "Do you have children?"
+   ]
+  ],
+  "Frau": [
+   [
+    "Die *Frau* dort ist meine Lehrerin.",
+    "The woman over there is my teacher."
+   ],
+   [
+    "Guten Tag, *Frau* Schmidt!",
+    "Hello, Mrs Schmidt!"
+   ]
+  ],
+  "Mann": [
+   [
+    "Mein *Mann* kocht heute.",
+    "My husband is cooking today."
+   ],
+   [
+    "Kennst du den *Mann* da?",
+    "Do you know that man there?"
+   ]
+  ],
+  "Tag": [
+   [
+    "Ich arbeite jeden *Tag* acht Stunden.",
+    "I work eight hours every day."
+   ],
+   [
+    "Wir bleiben drei *Tage* in Wien.",
+    "We're staying in Vienna for three days."
+   ]
+  ],
+  "Land": [
+   [
+    "Deutschland ist ein schönes *Land*.",
+    "Germany is a beautiful country."
+   ],
+   [
+    "Wir wohnen auf dem *Land*.",
+    "We live in the countryside."
+   ]
+  ],
+  "Stadt": [
+   [
+    "Die *Stadt* ist sehr alt.",
+    "The town is very old."
+   ],
+   [
+    "Ich fahre heute in die *Stadt*.",
+    "I'm going into town today."
+   ]
+  ],
+  "Welt": [
+   [
+    "Die *Welt* ist klein!",
+    "It's a small world!"
+   ],
+   [
+    "Er reist gern um die *Welt*.",
+    "He likes travelling around the world."
+   ]
+  ],
+  "Leben": [
+   [
+    "Das *Leben* in Berlin ist teuer.",
+    "Life in Berlin is expensive."
+   ],
+   [
+    "Sie hat ein schönes *Leben*.",
+    "She has a good life."
+   ]
+  ],
+  "Hand": [
+   [
+    "Gib mir deine *Hand*.",
+    "Give me your hand."
+   ],
+   [
+    "Wasch dir bitte die *Hände*!",
+    "Please wash your hands!"
+   ]
+  ],
+  "Haus": [
+   [
+    "Das *Haus* hat einen Garten.",
+    "The house has a garden."
+   ],
+   [
+    "Ich bin heute den ganzen Tag zu *Hause*.",
+    "I'm at home all day today."
+   ]
+  ],
+  "Arbeit": [
+   [
+    "Ich fahre mit dem Rad zur *Arbeit*.",
+    "I cycle to work."
+   ],
+   [
+    "Die *Arbeit* macht mir Spaß.",
+    "I enjoy my job."
+   ]
+  ],
+  "Geld": [
+   [
+    "Ich habe kein *Geld* dabei.",
+    "I don't have any money on me."
+   ],
+   [
+    "Das *Geld* liegt auf dem Tisch.",
+    "The money is on the table."
+   ]
+  ],
+  "Frage": [
+   [
+    "Ich habe eine *Frage*.",
+    "I have a question."
+   ],
+   [
+    "Gibt es noch *Fragen*?",
+    "Are there any more questions?"
+   ]
+  ],
+  "Wort": [
+   [
+    "Was bedeutet das *Wort*?",
+    "What does this word mean?"
+   ],
+   [
+    "Ich lerne jeden Tag zehn neue *Wörter*.",
+    "I learn ten new words every day."
+   ]
+  ],
+  "Woche": [
+   [
+    "Diese *Woche* habe ich viel Arbeit.",
+    "I have a lot of work this week."
+   ],
+   [
+    "Wir fahren für zwei *Wochen* nach Italien.",
+    "We're going to Italy for two weeks."
+   ]
+  ],
+  "Freund": [
+   [
+    "Das ist mein *Freund* Tom.",
+    "This is my friend Tom."
+   ],
+   [
+    "Am Abend treffe ich meine *Freunde*.",
+    "I'm meeting my friends this evening."
+   ]
+  ],
+  "Schule": [
+   [
+    "Die *Schule* beginnt um acht Uhr.",
+    "School starts at eight."
+   ],
+   [
+    "Meine Kinder gehen gern in die *Schule*.",
+    "My kids like going to school."
+   ]
+  ],
+  "Weg": [
+   [
+    "Ist das der *Weg* zum Bahnhof?",
+    "Is this the way to the station?"
+   ],
+   [
+    "Ich kaufe auf dem *Weg* Brot.",
+    "I'll buy bread on the way."
+   ]
+  ],
+  "Problem": [
+   [
+    "Das ist kein *Problem*.",
+    "That's no problem."
+   ],
+   [
+    "Wir haben *Probleme* mit dem Auto.",
+    "We're having problems with the car."
+   ]
+  ],
+  "Ende": [
+   [
+    "Am *Ende* der Straße ist ein Café.",
+    "There's a café at the end of the street."
+   ],
+   [
+    "Das *Ende* vom Film ist traurig.",
+    "The ending of the film is sad."
+   ]
+  ],
+  "Familie": [
+   [
+    "Meine *Familie* wohnt in München.",
+    "My family lives in Munich."
+   ],
+   [
+    "Hast du eine große *Familie*?",
+    "Do you have a big family?"
+   ]
+  ],
+  "Abend": [
+   [
+    "Guten *Abend*, Herr Weber!",
+    "Good evening, Mr Weber!"
+   ],
+   [
+    "Am *Abend* sehe ich oft fern.",
+    "In the evening I often watch TV."
+   ]
+  ],
+  "Nacht": [
+   [
+    "Gute *Nacht*, schlaf gut!",
+    "Good night, sleep well!"
+   ],
+   [
+    "Ich habe in der *Nacht* schlecht geschlafen.",
+    "I slept badly last night."
+   ]
+  ],
+  "Morgen": [
+   [
+    "Guten *Morgen*! Hast du gut geschlafen?",
+    "Good morning! Did you sleep well?"
+   ],
+   [
+    "Am *Morgen* trinke ich immer Kaffee.",
+    "In the morning I always drink coffee."
+   ]
+  ],
+  "Sprache": [
+   [
+    "Deutsch ist eine schöne *Sprache*.",
+    "German is a beautiful language."
+   ],
+   [
+    "Welche *Sprachen* sprichst du?",
+    "Which languages do you speak?"
+   ]
+  ],
+  "Wasser": [
+   [
+    "Ein Glas *Wasser*, bitte.",
+    "A glass of water, please."
+   ],
+   [
+    "Das *Wasser* ist zu kalt.",
+    "The water is too cold."
+   ]
+  ],
+  "Buch": [
+   [
+    "Das *Buch* ist sehr spannend.",
+    "The book is really exciting."
+   ],
+   [
+    "Ich lese gern *Bücher*.",
+    "I like reading books."
+   ]
+  ],
+  "Auto": [
+   [
+    "Unser *Auto* ist schon alt.",
+    "Our car is quite old now."
+   ],
+   [
+    "Wir fahren mit dem *Auto* nach Hause.",
+    "We're driving home."
+   ]
+  ],
+  "Essen": [
+   [
+    "Das *Essen* ist fertig!",
+    "The food's ready!"
+   ],
+   [
+    "Nach dem *Essen* gehen wir spazieren.",
+    "After the meal we go for a walk."
+   ]
+  ],
+  "stehen": [
+   [
+    "Die Milch *steht* im Kühlschrank.",
+    "The milk is in the fridge."
+   ],
+   [
+    "Ich habe lange an der Kasse *gestanden*.",
+    "I stood at the checkout for ages."
+   ]
+  ],
+  "lassen": [
+   [
+    "Er *lässt* das Auto heute zu Hause.",
+    "He's leaving the car at home today."
+   ],
+   [
+    "Ich habe meine Tasche im Bus *gelassen*.",
+    "I left my bag on the bus."
+   ]
+  ],
+  "finden": [
+   [
+    "Ich *finde* meinen Schlüssel nicht.",
+    "I can't find my key."
+   ],
+   [
+    "Hast du deine Brille *gefunden*?",
+    "Did you find your glasses?"
+   ]
+  ],
+  "bleiben": [
+   [
+    "Ich *bleibe* heute zu Hause.",
+    "I'm staying at home today."
+   ],
+   [
+    "Wir sind drei Tage in Rom *geblieben*.",
+    "We stayed in Rome for three days."
+   ]
+  ],
+  "liegen": [
+   [
+    "Das Handy *liegt* auf dem Sofa.",
+    "The phone is on the sofa."
+   ],
+   [
+    "Ich habe den ganzen Tag im Bett *gelegen*.",
+    "I lay in bed all day."
+   ]
+  ],
+  "heißen": [
+   [
+    "Wie *heißt* du?",
+    "What's your name?"
+   ],
+   [
+    "Was *heißt* das auf Englisch?",
+    "What does that mean in English?"
+   ]
+  ],
+  "denken": [
+   [
+    "Was *denkst* du?",
+    "What do you think?"
+   ],
+   [
+    "Ich habe an dich *gedacht*.",
+    "I was thinking of you."
+   ]
+  ],
+  "nehmen": [
+   [
+    "Er *nimmt* jeden Tag den Bus.",
+    "He takes the bus every day."
+   ],
+   [
+    "Hast du den Schlüssel *genommen*?",
+    "Did you take the key?"
+   ]
+  ],
+  "tun": [
+   [
+    "Was *tust* du da?",
+    "What are you doing there?"
+   ],
+   [
+    "Das *tut* mir leid.",
+    "I'm sorry."
+   ]
+  ],
+  "dürfen": [
+   [
+    "*Darf* ich hier parken?",
+    "Am I allowed to park here?"
+   ],
+   [
+    "Kinder *dürfen* hier nicht spielen.",
+    "Children aren't allowed to play here."
+   ]
+  ],
+  "glauben": [
+   [
+    "Ich *glaube*, er ist krank.",
+    "I think he's ill."
+   ],
+   [
+    "Das *glaube* ich nicht!",
+    "I don't believe that!"
+   ]
+  ],
+  "halten": [
+   [
+    "Der Bus *hält* hier.",
+    "The bus stops here."
+   ],
+   [
+    "Kannst du kurz meine Tasche *halten*?",
+    "Can you hold my bag for a moment?"
+   ]
+  ],
+  "zeigen": [
+   [
+    "Ich *zeige* dir die Stadt.",
+    "I'll show you the town."
+   ],
+   [
+    "Er hat mir seine Fotos *gezeigt*.",
+    "He showed me his photos."
+   ]
+  ],
+  "sprechen": [
+   [
+    "Sie *spricht* sehr gut Deutsch.",
+    "She speaks German very well."
+   ],
+   [
+    "Ich habe mit dem Chef *gesprochen*.",
+    "I spoke to the boss."
+   ]
+  ],
+  "bringen": [
+   [
+    "*Bringst* du mir ein Glas Wasser?",
+    "Will you bring me a glass of water?"
+   ],
+   [
+    "Er hat die Kinder zur Schule *gebracht*.",
+    "He took the kids to school."
+   ]
+  ],
+  "leben": [
+   [
+    "Meine Eltern *leben* in Hamburg.",
+    "My parents live in Hamburg."
+   ],
+   [
+    "Wir haben zwei Jahre in Spanien *gelebt*.",
+    "We lived in Spain for two years."
+   ]
+  ],
+  "fahren": [
+   [
+    "Er *fährt* mit dem Zug nach Berlin.",
+    "He's taking the train to Berlin."
+   ],
+   [
+    "Wir sind im Urlaub ans Meer *gefahren*.",
+    "We went to the seaside on holiday."
+   ]
+  ],
+  "meinen": [
+   [
+    "Was *meinst* du?",
+    "What do you reckon?"
+   ],
+   [
+    "Das habe ich nicht so *gemeint*.",
+    "I didn't mean it like that."
+   ]
+  ],
+  "fragen": [
+   [
+    "Darf ich dich etwas *fragen*?",
+    "Can I ask you something?"
+   ],
+   [
+    "Ich habe den Lehrer *gefragt*.",
+    "I asked the teacher."
+   ]
+  ],
+  "kennen": [
+   [
+    "*Kennst* du meinen Bruder?",
+    "Do you know my brother?"
+   ],
+   [
+    "Ich *kenne* hier ein gutes Restaurant.",
+    "I know a good restaurant around here."
+   ]
+  ],
+  "spielen": [
+   [
+    "Die Kinder *spielen* im Park.",
+    "The children are playing in the park."
+   ],
+   [
+    "Wir haben gestern Fußball *gespielt*.",
+    "We played football yesterday."
+   ]
+  ],
+  "arbeiten": [
+   [
+    "Ich *arbeite* in einem Büro.",
+    "I work in an office."
+   ],
+   [
+    "Er hat heute zehn Stunden *gearbeitet*.",
+    "He worked ten hours today."
+   ]
+  ],
+  "brauchen": [
+   [
+    "Ich *brauche* ein neues Handy.",
+    "I need a new phone."
+   ],
+   [
+    "*Brauchst* du noch etwas?",
+    "Do you need anything else?"
+   ]
+  ],
+  "lernen": [
+   [
+    "Ich *lerne* seit drei Monaten Deutsch.",
+    "I've been learning German for three months."
+   ],
+   [
+    "Wo hast du so gut Englisch *gelernt*?",
+    "Where did you learn such good English?"
+   ]
+  ],
+  "verstehen": [
+   [
+    "Ich *verstehe* das nicht.",
+    "I don't understand that."
+   ],
+   [
+    "Hast du alles *verstanden*?",
+    "Did you understand everything?"
+   ]
+  ],
+  "essen": [
+   [
+    "Was *isst* du gern?",
+    "What do you like to eat?"
+   ],
+   [
+    "Wir haben schon *gegessen*.",
+    "We've already eaten."
+   ]
+  ],
+  "trinken": [
+   [
+    "Ich *trinke* morgens immer Kaffee.",
+    "I always drink coffee in the morning."
+   ],
+   [
+    "Er hat zu viel Bier *getrunken*.",
+    "He drank too much beer."
+   ]
+  ],
+  "wieder": [
+   [
+    "Er ist *wieder* zu spät.",
+    "He's late again."
+   ],
+   [
+    "Wann kommst du *wieder*?",
+    "When are you coming back?"
+   ]
+  ],
+  "warum": [
+   [
+    "*Warum* lernst du Deutsch?",
+    "Why are you learning German?"
+   ],
+   [
+    "*Warum* hast du nicht angerufen?",
+    "Why didn't you call?"
+   ]
+  ],
+  "wo": [
+   [
+    "*Wo* wohnst du?",
+    "Where do you live?"
+   ],
+   [
+    "Weißt du, *wo* mein Handy ist?",
+    "Do you know where my phone is?"
+   ]
+  ],
+  "wer": [
+   [
+    "*Wer* ist das?",
+    "Who's that?"
+   ],
+   [
+    "Ich weiß nicht, *wer* heute kommt.",
+    "I don't know who's coming today."
+   ]
+  ],
+  "dort": [
+   [
+    "*Dort* ist der Bahnhof.",
+    "The station is over there."
+   ],
+   [
+    "Wir haben *dort* zwei Wochen Urlaub gemacht.",
+    "We spent two weeks' holiday there."
+   ]
+  ],
+  "gern": [
+   [
+    "Ich spiele *gern* Tennis.",
+    "I like playing tennis."
+   ],
+   [
+    "Möchtest du Tee? – *Gern*, danke!",
+    "Would you like some tea? – I'd love some, thanks!"
+   ]
+  ],
+  "vielleicht": [
+   [
+    "*Vielleicht* regnet es morgen.",
+    "Maybe it'll rain tomorrow."
+   ],
+   [
+    "Kommst du? – *Vielleicht*, ich weiß es noch nicht.",
+    "Are you coming? – Maybe, I don't know yet."
+   ]
+  ],
+  "bitte": [
+   [
+    "Einen Kaffee, *bitte*.",
+    "A coffee, please."
+   ],
+   [
+    "Danke! – *Bitte* schön!",
+    "Thanks! – You're welcome!"
+   ]
+  ],
+  "danke": [
+   [
+    "*Danke* für deine Hilfe!",
+    "Thanks for your help!"
+   ],
+   [
+    "Noch Kaffee? – Nein, *danke*.",
+    "More coffee? – No, thank you."
+   ]
+  ],
+  "ohne": [
+   [
+    "Ich trinke Kaffee *ohne* Zucker.",
+    "I take my coffee without sugar."
+   ],
+   [
+    "*Ohne* meine Brille sehe ich nichts.",
+    "I can't see anything without my glasses."
+   ]
+  ],
+  "über": [
+   [
+    "Das Bild hängt *über* dem Sofa.",
+    "The picture hangs above the sofa."
+   ],
+   [
+    "Wir sprechen *über* das Wetter.",
+    "We're talking about the weather."
+   ]
+  ],
+  "unter": [
+   [
+    "Die Katze liegt *unter* dem Tisch.",
+    "The cat is lying under the table."
+   ],
+   [
+    "*Unter* Freunden ist das kein Problem.",
+    "Among friends that's no problem."
+   ]
+  ],
+  "durch": [
+   [
+    "Wir gehen *durch* den Park.",
+    "We're walking through the park."
+   ],
+   [
+    "Wir sind *durch* die ganze Stadt gelaufen.",
+    "We walked all through the town."
+   ]
+  ],
+  "gegen": [
+   [
+    "Ich bin *gegen* diese Idee.",
+    "I'm against this idea."
+   ],
+   [
+    "Das Auto ist *gegen* einen Baum gefahren.",
+    "The car drove into a tree."
+   ]
+  ],
+  "zwischen": [
+   [
+    "Die Bank ist *zwischen* der Post und dem Café.",
+    "The bank is between the post office and the café."
+   ],
+   [
+    "Ich komme *zwischen* zwei und drei Uhr.",
+    "I'll come between two and three o'clock."
+   ]
+  ],
+  "weil": [
+   [
+    "Ich bleibe zu Hause, *weil* ich krank bin.",
+    "I'm staying at home because I'm ill."
+   ],
+   [
+    "Warum lernst du Deutsch? – *Weil* meine Frau Deutsche ist.",
+    "Why are you learning German? – Because my wife is German."
+   ]
+  ],
+  "morgen": [
+   [
+    "*Morgen* habe ich frei.",
+    "I'm off tomorrow."
+   ],
+   [
+    "Wir sehen uns *morgen* früh.",
+    "See you tomorrow morning."
+   ]
+  ],
+  "zwei": [
+   [
+    "Ich habe *zwei* Schwestern.",
+    "I have two sisters."
+   ],
+   [
+    "*Zwei* Kaffee, bitte!",
+    "Two coffees, please!"
+   ]
+  ],
+  "drei": [
+   [
+    "Der Film beginnt um *drei* Uhr.",
+    "The film starts at three o'clock."
+   ],
+   [
+    "Ich nehme *drei* Brötchen, bitte.",
+    "I'll take three rolls, please."
+   ]
+  ]
+ }
+}

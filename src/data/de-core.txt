@@ -1,0 +1,144 @@
+der · die · das|the (masculine · feminine · neuter)
+und|and
+sein|to be|ist, war, ist gewesen
+ich|I
+nicht|not
+es|it
+haben|to have|hat, hatte, hat gehabt
+werden|to become; will (future)|wird, wurde, ist geworden
+sie|she; they (Sie: you, formal)
+er|he
+zu|to; too
+in|in, into
+ein|a, an; one
+mit|with
+auf|on, onto
+für|for
+an|at, on (vertical surface)
+dass|that (conjunction)
+du|you (informal)
+von|from, of
+wir|we
+auch|also, too
+so|so, like this
+wie|how; like, as
+was|what
+aber|but
+oder|or
+können|can, to be able to|kann, konnte, hat gekonnt
+müssen|must, to have to|muss, musste, hat gemusst
+nach|after; to (cities, countries)
+noch|still, yet
+bei|at, near, with
+nur|only
+aus|out of, from
+wenn|if, when(ever)
+schon|already
+sagen|to say
+machen|to make, to do
+gehen|to go|ging, ist gegangen
+kommen|to come|kam, ist gekommen
+wissen|to know (a fact)|weiß, wusste, hat gewusst
+sehen|to see|sieht, sah, hat gesehen
+geben|to give|gibt, gab, hat gegeben
+wollen|to want|will, wollte, hat gewollt
+sollen|should, to be supposed to|soll, sollte
+mehr|more
+gut|good, well|besser, am besten
+hier|here
+da|there; since (because)
+jetzt|now
+immer|always
+heute|today
+dann|then
+ja|yes
+nein|no
+sehr|very
+man|one, you (generic)
+alle|all, everyone
+viel|much, a lot|mehr, am meisten
+neu|new
+groß|big, tall|größer, am größten
+klein|small
+andere|other
+erst|first; only (not until)
+lang|long|länger
+alt|old|älter
+Jahr|year|n|pl. Jahre
+Zeit|time|f|pl. Zeiten
+Mensch|person, human being|m|pl. Menschen
+Kind|child|n|pl. Kinder
+Frau|woman; wife; Mrs|f|pl. Frauen
+Mann|man; husband|m|pl. Männer
+Tag|day|m|pl. Tage
+Land|country; land|n|pl. Länder
+Stadt|city, town|f|pl. Städte
+Welt|world|f|pl. Welten
+Leben|life|n|pl. Leben
+Hand|hand|f|pl. Hände
+Haus|house|n|pl. Häuser
+Arbeit|work, job|f|pl. Arbeiten
+Geld|money|n|pl. Gelder
+Frage|question|f|pl. Fragen
+Wort|word|n|pl. Wörter
+Woche|week|f|pl. Wochen
+Freund|friend|m|pl. Freunde
+Schule|school|f|pl. Schulen
+Weg|way, path|m|pl. Wege
+Problem|problem|n|pl. Probleme
+Ende|end|n|pl. Enden
+Familie|family|f|pl. Familien
+Abend|evening|m|pl. Abende
+Nacht|night|f|pl. Nächte
+Morgen|morning|m|pl. Morgen
+Sprache|language|f|pl. Sprachen
+Wasser|water|n|pl. Wasser
+Buch|book|n|pl. Bücher
+Auto|car|n|pl. Autos
+Essen|food; meal|n|no plural in everyday use
+stehen|to stand|stand, hat gestanden
+lassen|to let, to leave|lässt, ließ, hat gelassen
+finden|to find|fand, hat gefunden
+bleiben|to stay|blieb, ist geblieben
+liegen|to lie (be lying)|lag, hat gelegen
+heißen|to be called|hieß, hat geheißen
+denken|to think|dachte, hat gedacht
+nehmen|to take|nimmt, nahm, hat genommen
+tun|to do|tat, hat getan
+dürfen|may, to be allowed to|darf, durfte
+glauben|to believe
+halten|to hold; to stop|hält, hielt, hat gehalten
+zeigen|to show
+sprechen|to speak|spricht, sprach, hat gesprochen
+bringen|to bring|brachte, hat gebracht
+leben|to live
+fahren|to drive, to travel|fährt, fuhr, ist gefahren
+meinen|to mean; to reckon
+fragen|to ask
+kennen|to know (be familiar with)|kannte, hat gekannt
+spielen|to play
+arbeiten|to work
+brauchen|to need
+lernen|to learn
+verstehen|to understand|verstand, hat verstanden
+essen|to eat|isst, aß, hat gegessen
+trinken|to drink|trank, hat getrunken
+wieder|again
+warum|why
+wo|where
+wer|who
+dort|there
+gern|gladly (verb + gern: to like doing)
+vielleicht|maybe, perhaps
+bitte|please; you're welcome
+danke|thank you
+ohne|without
+über|over, above; about
+unter|under; among
+durch|through
+gegen|against
+zwischen|between
+weil|because
+morgen|tomorrow
+zwei|two
+drei|three
