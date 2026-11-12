@@ -54,7 +54,7 @@ export default function App() {
           </button>
         ))}
       </div>
-      {tab === 'today' && <Today deckId={deck} d={d} onStudy={() => setStudying(true)} />}
+      {tab === 'today' && <Today deckId={deck} d={d} data={data} onStudy={() => setStudying(true)} />}
       {tab === 'words' && <Words key={deck} deckId={deck} d={d} onChange={onChange} />}
       {tab === 'settings' && <Settings key={deck} deckId={deck} data={data} onChange={onChange} onReplaceAll={setData} />}
     </>

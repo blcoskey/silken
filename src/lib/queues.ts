@@ -68,6 +68,25 @@ export function statusOf(d: DeckData, w: Word): Status {
   return c.ivl >= 21 ? 'Mature' : 'Young';
 }
 
+const RANK: Record<Status, number> = { New: 0, Learning: 1, Young: 2, Mature: 3, Known: 4 };
+
+export type Tally = Record<Status, number> & { total: number };
+
+/** Status counts over several lists. A word in more than one list counts once, at its furthest status. */
+export function tally(lists: [Deck, DeckData][]): Tally {
+  const best = new Map<string, Status>();
+  for (const [deck, d] of lists) {
+    for (const w of wordsOf(deck, d)) {
+      const s = statusOf(d, w);
+      const prev = best.get(w.w);
+      if (!prev || RANK[s] > RANK[prev]) best.set(w.w, s);
+    }
+  }
+  const t: Tally = { New: 0, Learning: 0, Young: 0, Mature: 0, Known: 0, total: best.size };
+  for (const s of best.values()) t[s]++;
+  return t;
+}
+
 export const STATUS_CLASS: Record<Status, string> = {
   New: 'c-new',
   Known: 'c-known',

@@ -1,18 +1,19 @@
 import { useState } from 'react';
-import { DECKS } from '../lib/decks';
-import { queues } from '../lib/queues';
-import { isKnown, unpack } from '../lib/scheduler';
-import { loadSummaryView, saveSummaryView, type SummaryView } from '../lib/storage';
+import { DECK_IDS, DECKS } from '../lib/decks';
+import { queues, tally } from '../lib/queues';
+import { unpack } from '../lib/scheduler';
+import { loadSummaryView, saveSummaryView, type AllData, type SummaryView } from '../lib/storage';
 import { DAY, dayStart } from '../lib/time';
 import type { DeckData } from '../lib/types';
 
 interface Props {
   deckId: string;
   d: DeckData;
+  data: AllData;
   onStudy: () => void;
 }
 
-export function Today({ deckId, d, onStudy }: Props) {
+export function Today({ deckId, d, data, onStudy }: Props) {
   const D = DECKS[deckId];
   const q = queues(D, d);
   const [view, setView] = useState<SummaryView>(loadSummaryView);
@@ -20,25 +21,11 @@ export function Today({ deckId, d, onStudy }: Props) {
     setView(v);
     saveSummaryView(v);
   };
-  const total = q.all.length;
-
-  let lrn = 0,
-    young = 0,
-    mature = 0,
-    known = 0;
-  for (const w of q.all) {
-    const a = d.cards[w.k];
-    if (!a) continue;
-    if (isKnown(a)) {
-      known++;
-      continue;
-    }
-    const c = unpack(a);
-    if (c.s !== 'review') lrn++;
-    else if (c.ivl >= 21) mature++;
-    else young++;
-  }
-  const unseen = total - lrn - young - mature - known;
+  const t = tally([[D, d]]);
+  const { Mature: mature, Young: young, Learning: lrn, Known: known, total } = t;
+  const unseen = t.New;
+  const langIds = DECK_IDS.filter((id) => DECKS[id].lang === D.lang);
+  const all = tally(langIds.map((id) => [DECKS[id], data[id]]));
   const pct = (n: number) => (100 * n) / Math.max(1, total) + '%';
 
   const nNew = q.fresh.length;
@@ -87,7 +74,7 @@ export function Today({ deckId, d, onStudy }: Props) {
       </button>
       <section className="panel">
         <div className="panelhead">
-          <h3>Your list</h3>
+          <h3>{view === 'list' ? 'Your list' : `All ${DECKS[D.lang].name} lists`}</h3>
           <div className="seg small" role="group" aria-label="Summary view">
             <button aria-pressed={view === 'list'} onClick={() => pickView('list')}>
               List
@@ -121,28 +108,28 @@ export function Today({ deckId, d, onStudy }: Props) {
           <>
             <div className="totals">
               <div className="count">
-                <span className="n">{mature}</span>
+                <span className="n">{all.Mature}</span>
                 <span className="l"><i style={{ background: 'var(--accent)' }} />Mature</span>
               </div>
               <div className="count">
-                <span className="n">{young}</span>
+                <span className="n">{all.Young}</span>
                 <span className="l"><i style={{ background: 'var(--accent-soft)' }} />Young</span>
               </div>
               <div className="count">
-                <span className="n">{lrn}</span>
+                <span className="n">{all.Learning}</span>
                 <span className="l"><i style={{ background: 'var(--warn)' }} />Learning</span>
               </div>
               <div className="count">
-                <span className="n">{known}</span>
+                <span className="n">{all.Known}</span>
                 <span className="l"><i style={{ background: 'var(--muted)' }} />Known</span>
               </div>
               <div className="count">
-                <span className="n">{unseen}</span>
+                <span className="n">{all.New}</span>
                 <span className="l"><i style={{ background: 'var(--line)' }} />Unseen</span>
               </div>
             </div>
             <p className="legend">
-              {total - unseen} of {total} words studied
+              {all.total - all.New} of {all.total} words studied{langIds.length > 1 ? ` across ${langIds.length} lists` : ''}
             </p>
           </>
         )}
