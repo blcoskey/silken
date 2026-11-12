@@ -70,6 +70,12 @@ h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance;letter-spacing:
 .primary:disabled{opacity:.45;cursor:default}
 .ghost{background:transparent;border:1px solid var(--line);border-radius:12px;padding:10px 14px;font-weight:700}
 .panel{display:flex;flex-direction:column;gap:10px}
+.panelhead{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.seg.small button{padding:4px 12px;font-size:13px}
+.totals{display:grid;grid-template-columns:repeat(auto-fit,minmax(88px,1fr));gap:8px}
+.totals .count{padding:10px 12px}
+.totals .count .n{font-size:24px}
+.totals .l i{display:inline-block;width:9px;height:9px;border-radius:3px;margin-right:6px}
 .bar{height:10px;background:var(--sunk);border-radius:99px;overflow:hidden;display:flex}
 .bar span{display:block;height:100%}
 .legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px;color:var(--muted)}

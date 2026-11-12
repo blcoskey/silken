@@ -3,6 +3,7 @@ import type { DeckData } from './types';
 export const STORAGE_KEY = 'silken-decks-v1';
 const DECK_KEY = STORAGE_KEY + '-deck';
 const LAST_DE_KEY = STORAGE_KEY + '-de';
+const SUMMARY_KEY = STORAGE_KEY + '-summary';
 
 export type AllData = Record<string, DeckData>;
 
@@ -58,6 +59,24 @@ export function saveDeckChoice(deck: string, lastDe: string): void {
   try {
     localStorage.setItem(DECK_KEY, deck);
     localStorage.setItem(LAST_DE_KEY, lastDe);
+  } catch {
+    /* ignore */
+  }
+}
+
+export type SummaryView = 'list' | 'total';
+
+export function loadSummaryView(): SummaryView {
+  try {
+    return localStorage.getItem(SUMMARY_KEY) === 'total' ? 'total' : 'list';
+  } catch {
+    return 'list';
+  }
+}
+
+export function saveSummaryView(v: SummaryView): void {
+  try {
+    localStorage.setItem(SUMMARY_KEY, v);
   } catch {
     /* ignore */
   }

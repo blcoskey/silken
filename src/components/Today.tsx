@@ -1,6 +1,8 @@
+import { useState } from 'react';
 import { DECKS } from '../lib/decks';
 import { queues } from '../lib/queues';
 import { isKnown, unpack } from '../lib/scheduler';
+import { loadSummaryView, saveSummaryView, type SummaryView } from '../lib/storage';
 import { DAY, dayStart } from '../lib/time';
 import type { DeckData } from '../lib/types';
 
@@ -13,6 +15,11 @@ interface Props {
 export function Today({ deckId, d, onStudy }: Props) {
   const D = DECKS[deckId];
   const q = queues(D, d);
+  const [view, setView] = useState<SummaryView>(loadSummaryView);
+  const pickView = (v: SummaryView) => {
+    setView(v);
+    saveSummaryView(v);
+  };
   const total = q.all.length;
 
   let lrn = 0,
@@ -79,24 +86,66 @@ export function Today({ deckId, d, onStudy }: Props) {
         {any ? 'Study now' : 'Come back tomorrow'}
       </button>
       <section className="panel">
-        <h3>Your list</h3>
-        <div
-          className="bar"
-          role="img"
-          aria-label={`${mature} mature, ${young} young, ${lrn} learning, ${known} known, ${unseen} unseen of ${total}`}
-        >
-          <span style={{ width: pct(mature), background: 'var(--accent)' }} />
-          <span style={{ width: pct(young), background: 'var(--accent-soft)' }} />
-          <span style={{ width: pct(lrn), background: 'var(--warn)' }} />
-          <span style={{ width: pct(known), background: 'var(--muted)' }} />
+        <div className="panelhead">
+          <h3>Your list</h3>
+          <div className="seg small" role="group" aria-label="Summary view">
+            <button aria-pressed={view === 'list'} onClick={() => pickView('list')}>
+              List
+            </button>
+            <button aria-pressed={view === 'total'} onClick={() => pickView('total')}>
+              Total
+            </button>
+          </div>
         </div>
-        <div className="legend">
-          <span><i style={{ background: 'var(--accent)' }} />{mature} mature</span>
-          <span><i style={{ background: 'var(--accent-soft)' }} />{young} young</span>
-          <span><i style={{ background: 'var(--warn)' }} />{lrn} learning</span>
-          {known > 0 && <span><i style={{ background: 'var(--muted)' }} />{known} known</span>}
-          <span><i style={{ background: 'var(--line)' }} />{unseen} unseen of {total}</span>
-        </div>
+        {view === 'list' ? (
+          <>
+            <div
+              className="bar"
+              role="img"
+              aria-label={`${mature} mature, ${young} young, ${lrn} learning, ${known} known, ${unseen} unseen of ${total}`}
+            >
+              <span style={{ width: pct(mature), background: 'var(--accent)' }} />
+              <span style={{ width: pct(young), background: 'var(--accent-soft)' }} />
+              <span style={{ width: pct(lrn), background: 'var(--warn)' }} />
+              <span style={{ width: pct(known), background: 'var(--muted)' }} />
+            </div>
+            <div className="legend">
+              <span><i style={{ background: 'var(--accent)' }} />{mature} mature</span>
+              <span><i style={{ background: 'var(--accent-soft)' }} />{young} young</span>
+              <span><i style={{ background: 'var(--warn)' }} />{lrn} learning</span>
+              {known > 0 && <span><i style={{ background: 'var(--muted)' }} />{known} known</span>}
+              <span><i style={{ background: 'var(--line)' }} />{unseen} unseen of {total}</span>
+            </div>
+          </>
+        ) : (
+          <>
+            <div className="totals">
+              <div className="count">
+                <span className="n">{mature}</span>
+                <span className="l"><i style={{ background: 'var(--accent)' }} />Mature</span>
+              </div>
+              <div className="count">
+                <span className="n">{young}</span>
+                <span className="l"><i style={{ background: 'var(--accent-soft)' }} />Young</span>
+              </div>
+              <div className="count">
+                <span className="n">{lrn}</span>
+                <span className="l"><i style={{ background: 'var(--warn)' }} />Learning</span>
+              </div>
+              <div className="count">
+                <span className="n">{known}</span>
+                <span className="l"><i style={{ background: 'var(--muted)' }} />Known</span>
+              </div>
+              <div className="count">
+                <span className="n">{unseen}</span>
+                <span className="l"><i style={{ background: 'var(--line)' }} />Unseen</span>
+              </div>
+            </div>
+            <p className="legend">
+              {total - unseen} of {total} words studied
+            </p>
+          </>
+        )}
       </section>
       <section className="panel">
         <h3>Reviews this week</h3>
